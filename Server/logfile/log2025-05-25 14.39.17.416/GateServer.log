@@ -1,0 +1,263 @@
+[05-24 18:16:59]client: 25.80.52.210	come...Socket num: 1
+[05-24 18:16:59]GameServer= [25.80.52.210] come,Socket num= 1
+[05-24 18:16:59]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;Hellchapter;] total [7]
+[05-24 18:16:59]not found [abandonedcity] map!!!
+[05-24 18:16:59]not found [abandonedcity2] map!!!
+[05-24 18:16:59]not found [abandonedcity3] map!!!
+[05-24 18:16:59]not found [darkswamp] map!!!
+[05-24 18:16:59]not found [puzzleworld] map!!!
+[05-24 18:16:59]not found [puzzleworld2] map!!!
+[05-24 18:16:59]not found [Hellchapter] map!!!
+[05-24 18:16:59]add GameServer [GameServer4] ok
+[05-24 18:16:59]add [GameServer4]  [abandonedcity] map ok
+[05-24 18:16:59]add [GameServer4]  [abandonedcity2] map ok
+[05-24 18:16:59]add [GameServer4]  [abandonedcity3] map ok
+[05-24 18:16:59]add [GameServer4]  [darkswamp] map ok
+[05-24 18:16:59]add [GameServer4]  [puzzleworld] map ok
+[05-24 18:16:59]add [GameServer4]  [puzzleworld2] map ok
+[05-24 18:16:59]add [GameServer4]  [Hellchapter] map ok
+[05-24 18:17:00]GameServer= [25.80.52.210] come,Socket num= 2
+[05-24 18:17:00]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[05-24 18:17:00]not found [magicsea] map!!!
+[05-24 18:17:00]not found [jialebi] map!!!
+[05-24 18:17:00]not found [binglang2] map!!!
+[05-24 18:17:00]not found [leiting2] map!!!
+[05-24 18:17:00]not found [shalan2] map!!!
+[05-24 18:17:00]add GameServer [GameServer2] ok
+[05-24 18:17:00]add [GameServer2]  [magicsea] map ok
+[05-24 18:17:00]add [GameServer2]  [jialebi] map ok
+[05-24 18:17:00]add [GameServer2]  [binglang2] map ok
+[05-24 18:17:00]add [GameServer2]  [leiting2] map ok
+[05-24 18:17:00]add [GameServer2]  [shalan2] map ok
+[05-24 18:17:02]client: 25.80.52.210	login ok.
+[05-24 18:17:04]not found [garner] map!!!
+[05-24 18:17:04]not found [DreamIsland] map!!!
+[05-24 18:17:04]GameServer= [25.80.52.210] come,Socket num= 3
+[05-24 18:17:04]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;kyjj_1;] total [4]
+[05-24 18:17:04]not found [darkblue] map!!!
+[05-24 18:17:04]not found [garner2] map!!!
+[05-24 18:17:04]not found [winterland] map!!!
+[05-24 18:17:04]not found [kyjj_1] map!!!
+[05-24 18:17:04]add GameServer [GameServer3] ok
+[05-24 18:17:04]add [GameServer3]  [darkblue] map ok
+[05-24 18:17:04]add [GameServer3]  [garner2] map ok
+[05-24 18:17:04]add [GameServer3]  [winterland] map ok
+[05-24 18:17:04]add [GameServer3]  [kyjj_1] map ok
+[05-24 18:17:04]not found [garner] map!!!
+[05-24 18:17:06]GameServer= [25.80.52.210] come,Socket num= 4
+[05-24 18:17:06]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[05-24 18:17:06]not found [garner] map!!!
+[05-24 18:17:06]not found [DreamIsland] map!!!
+[05-24 18:17:06]not found [eastgoaf] map!!!
+[05-24 18:17:06]not found [lonetower] map!!!
+[05-24 18:17:06]not found [teampk] map!!!
+[05-24 18:17:06]add GameServer [GameServer1] ok
+[05-24 18:17:06]add [GameServer1]  [garner] map ok
+[05-24 18:17:06]add [GameServer1]  [DreamIsland] map ok
+[05-24 18:17:06]add [GameServer1]  [eastgoaf] map ok
+[05-24 18:17:06]add [GameServer1]  [lonetower] map ok
+[05-24 18:17:06]add [GameServer1]  [teampk] map ok
+[05-24 18:17:30]client: 25.80.52.210:46457	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:1,Gate address:1AA155D9240
+[05-24 18:17:31]clinet: 25.80.52.210:46457	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21F86DB4048,Gate address:1AA155D9240
+[05-24 18:18:20]client: 25.80.52.210:46457	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:1,Gate address:1AA155D9240,Game address:21F86DB4048
+[05-24 18:18:20]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[05-24 18:20:40]client: 25.80.52.210	come...Socket num: 1
+[05-24 18:20:41]client: 25.80.52.210	login ok.
+[05-24 18:20:43]client: 25.80.52.210:46770	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:1,Gate address:1AA155D8C50
+[05-24 18:20:43]clinet: 25.80.52.210:46770	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21F86DB4048,Gate address:1AA155D8C50
+[05-24 18:22:59]client: 25.80.52.210 gone...Socket num: 0 ,reason=远程主机强迫关闭了一个现有的连接。
+[05-24 18:22:59]client: 25.80.52.210:46770	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:1,Gate address:1AA155D8C50,Game address:21F86DB4048
+[05-24 18:23:21]client: 25.56.3.40	come...Socket num: 1
+[05-24 18:23:22]client: 25.56.3.40	login ok.
+[05-24 18:23:45]client: 25.80.52.210	come...Socket num: 2
+[05-24 18:23:46]client: 25.80.52.210	login ok.
+[05-24 18:23:48]client: 25.80.52.210:46924	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:1,Gate address:1AA155D9700
+[05-24 18:23:48]clinet: 25.80.52.210:46924	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21F86DB4048,Gate address:1AA155D9700
+[05-24 18:24:12]client: 25.56.3.40:14313	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA155D8530
+[05-24 18:24:12]clinet: 25.56.3.40:14313	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21F86DB7C60,Gate address:1AA155D8530
+[05-24 18:45:37]clinet: 25.80.52.210:46924	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:1,Gate address:1AA155D9700
+[05-24 18:45:37]clinet: 25.80.52.210:46924	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21DDC249048,Gate address:1AA155D9700
+[05-24 18:45:38]clinet: 25.56.3.40:14313	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA155D8530
+[05-24 18:45:38]clinet: 25.56.3.40:14313	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21DDC24CC60,Gate address:1AA155D8530
+[05-24 18:46:36]clinet: 25.80.52.210:46924	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:1,Gate address:1AA155D9700
+[05-24 18:46:36]clinet: 25.80.52.210:46924	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1D58141D048,Gate address:1AA155D9700
+[05-24 18:46:41]clinet: 25.56.3.40:14313	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA155D8530
+[05-24 18:46:41]clinet: 25.56.3.40:14313	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1D581420C60,Gate address:1AA155D8530
+[05-24 18:48:47]clinet: 25.80.52.210:46924	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:1,Gate address:1AA155D9700
+[05-24 18:48:47]clinet: 25.80.52.210:46924	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21F86DB7C60,Gate address:1AA155D9700
+[05-24 18:49:02]clinet: 25.56.3.40:14313	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA155D8530
+[05-24 18:49:02]clinet: 25.56.3.40:14313	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21F86DB4048,Gate address:1AA155D8530
+[05-24 18:49:08]client: 25.56.3.40 gone...Socket num: 1 ,reason=远程主机强迫关闭了一个现有的连接。
+[05-24 18:49:08]client: 25.56.3.40:14313	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:2,Gate address:1AA155D8530,Game address:21F86DB4048
+[05-24 18:50:27]client: 25.56.3.40	come...Socket num: 2
+[05-24 18:50:28]client: 25.56.3.40	login ok.
+[05-24 18:50:30]client: 25.56.3.40:2244	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA155D9830
+[05-24 18:50:30]clinet: 25.56.3.40:2244	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21F86DB4048,Gate address:1AA155D9830
+[05-24 18:53:10]client: 25.80.52.210:46924	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:1,Gate address:1AA155D9700,Game address:21F86DB7C60
+[05-24 18:53:13]GameServer= [25.80.52.210] gone,Socket num= 4,reason= 远程主机强迫关闭了一个现有的连接。
+[05-24 18:53:13] delete [GameServer4]
+[05-24 18:53:13]delete map [abandonedcity]
+[05-24 18:53:13]delete map [abandonedcity2]
+[05-24 18:53:13]delete map [abandonedcity3]
+[05-24 18:53:13]delete map [darkswamp]
+[05-24 18:53:13]delete map [puzzleworld]
+[05-24 18:53:13]delete map [puzzleworld2]
+[05-24 18:53:13]delete map [Hellchapter]
+[05-24 18:53:13]becaulse GameServer trouble, notice 0 user offline
+[05-24 18:53:13]GameServer= [25.80.52.210] gone,Socket num= 3,reason= 远程主机强迫关闭了一个现有的连接。
+[05-24 18:53:13] delete [GameServer3]
+[05-24 18:53:13]delete map [darkblue]
+[05-24 18:53:13]delete map [garner2]
+[05-24 18:53:13]delete map [winterland]
+[05-24 18:53:13]delete map [kyjj_1]
+[05-24 18:53:13]GameServer= [25.80.52.210] gone,Socket num= 2,reason= 远程主机强迫关闭了一个现有的连接。
+[05-24 18:53:13] delete [GameServer2]
+[05-24 18:53:13]delete map [magicsea]
+[05-24 18:53:13]delete map [jialebi]
+[05-24 18:53:13]delete map [binglang2]
+[05-24 18:53:13]delete map [leiting2]
+[05-24 18:53:13]delete map [shalan2]
+[05-24 18:53:13]becaulse GameServer trouble, notice 0 user offline
+[05-24 18:53:13]becaulse GameServer trouble, notice 0 user offline
+[05-24 18:53:13]GameServer= [25.80.52.210] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[05-24 18:53:13] delete [GameServer1]
+[05-24 18:53:13]delete map [garner]
+[05-24 18:53:13]delete map [DreamIsland]
+[05-24 18:53:13]delete map [eastgoaf]
+[05-24 18:53:13]delete map [lonetower]
+[05-24 18:53:13]delete map [teampk]
+[05-24 18:53:13]becaulse GameServer trouble, notice 1 user offline
+[05-24 18:53:13]becaulse GameServer trouble, disconnect [25.56.3.40] 
+[05-24 18:53:14]client: 25.56.3.40 gone...Socket num: 1 ,reason=GameServer malfunction, all logged on players have been kicked.
+[05-24 18:53:46]GameServer= [25.80.52.210] come,Socket num= 1
+[05-24 18:53:46]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;Hellchapter;] total [7]
+[05-24 18:53:46]not found [abandonedcity] map!!!
+[05-24 18:53:46]not found [abandonedcity2] map!!!
+[05-24 18:53:46]not found [abandonedcity3] map!!!
+[05-24 18:53:46]not found [darkswamp] map!!!
+[05-24 18:53:46]not found [puzzleworld] map!!!
+[05-24 18:53:46]not found [puzzleworld2] map!!!
+[05-24 18:53:46]not found [Hellchapter] map!!!
+[05-24 18:53:46]add GameServer [GameServer4] ok
+[05-24 18:53:46]add [GameServer4]  [abandonedcity] map ok
+[05-24 18:53:46]add [GameServer4]  [abandonedcity2] map ok
+[05-24 18:53:46]add [GameServer4]  [abandonedcity3] map ok
+[05-24 18:53:46]add [GameServer4]  [darkswamp] map ok
+[05-24 18:53:46]add [GameServer4]  [puzzleworld] map ok
+[05-24 18:53:46]add [GameServer4]  [puzzleworld2] map ok
+[05-24 18:53:46]add [GameServer4]  [Hellchapter] map ok
+[05-24 18:53:48]GameServer= [25.80.52.210] come,Socket num= 2
+[05-24 18:53:48]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;kyjj_1;] total [4]
+[05-24 18:53:48]not found [darkblue] map!!!
+[05-24 18:53:48]not found [garner2] map!!!
+[05-24 18:53:48]not found [winterland] map!!!
+[05-24 18:53:48]not found [kyjj_1] map!!!
+[05-24 18:53:48]add GameServer [GameServer3] ok
+[05-24 18:53:48]add [GameServer3]  [darkblue] map ok
+[05-24 18:53:48]add [GameServer3]  [garner2] map ok
+[05-24 18:53:48]add [GameServer3]  [winterland] map ok
+[05-24 18:53:48]add [GameServer3]  [kyjj_1] map ok
+[05-24 18:53:48]GameServer= [25.80.52.210] come,Socket num= 3
+[05-24 18:53:48]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[05-24 18:53:48]not found [magicsea] map!!!
+[05-24 18:53:48]not found [jialebi] map!!!
+[05-24 18:53:48]not found [binglang2] map!!!
+[05-24 18:53:48]not found [leiting2] map!!!
+[05-24 18:53:48]not found [shalan2] map!!!
+[05-24 18:53:48]add GameServer [GameServer2] ok
+[05-24 18:53:48]add [GameServer2]  [magicsea] map ok
+[05-24 18:53:48]add [GameServer2]  [jialebi] map ok
+[05-24 18:53:48]add [GameServer2]  [binglang2] map ok
+[05-24 18:53:48]add [GameServer2]  [leiting2] map ok
+[05-24 18:53:48]add [GameServer2]  [shalan2] map ok
+[05-24 18:53:51]not found [DreamIsland] map!!!
+[05-24 18:53:53]not found [garner] map!!!
+[05-24 18:53:56]not found [DreamIsland] map!!!
+[05-24 18:53:57]GameServer= [25.80.52.210] come,Socket num= 4
+[05-24 18:53:57]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[05-24 18:53:57]not found [garner] map!!!
+[05-24 18:53:57]not found [DreamIsland] map!!!
+[05-24 18:53:57]not found [eastgoaf] map!!!
+[05-24 18:53:57]not found [lonetower] map!!!
+[05-24 18:53:57]not found [teampk] map!!!
+[05-24 18:53:57]add GameServer [GameServer1] ok
+[05-24 18:53:57]add [GameServer1]  [garner] map ok
+[05-24 18:53:57]add [GameServer1]  [DreamIsland] map ok
+[05-24 18:53:57]add [GameServer1]  [eastgoaf] map ok
+[05-24 18:53:57]add [GameServer1]  [lonetower] map ok
+[05-24 18:53:57]add [GameServer1]  [teampk] map ok
+[05-24 18:54:17]client: 25.80.52.210:46924	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA155D9700
+[05-24 18:54:18]clinet: 25.80.52.210:46924	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF5048,Gate address:1AA155D9700
+[05-24 18:54:31]client: 25.56.3.40	come...Socket num: 2
+[05-24 18:54:33]client: 25.56.3.40	login ok.
+[05-24 18:54:34]client: 25.56.3.40:2537	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA155D8D80
+[05-24 18:54:34]clinet: 25.56.3.40:2537	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA155D8D80
+[05-24 18:56:05]client: 25.80.52.210 gone...Socket num: 1 ,reason=远程主机强迫关闭了一个现有的连接。
+[05-24 18:56:05]client: 25.80.52.210:46924	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:3,Gate address:1AA155D9700,Game address:20378BF5048
+[05-24 18:56:22]client: 25.80.52.210	come...Socket num: 2
+[05-24 18:56:22]client: 25.80.52.210	login ok.
+[05-24 18:56:25]client: 25.80.52.210:47986	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA155D9E20
+[05-24 18:56:25]clinet: 25.80.52.210:47986	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF5048,Gate address:1AA155D9E20
+[05-24 18:58:20]clinet: 25.80.52.210:47986	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA155D9E20
+[05-24 18:58:20]clinet: 25.80.52.210:47986	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF5048,Gate address:1AA155D9E20
+[05-24 18:58:22]clinet: 25.56.3.40:2537	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA155D8D80
+[05-24 18:58:22]clinet: 25.56.3.40:2537	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA155D8D80
+[05-24 18:58:37]clinet: 25.80.52.210:47986	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA155D9E20
+[05-24 18:58:37]clinet: 25.80.52.210:47986	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77973048,Gate address:1AA155D9E20
+[05-24 18:58:42]clinet: 25.56.3.40:2537	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA155D8D80
+[05-24 18:58:42]clinet: 25.56.3.40:2537	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77976C60,Gate address:1AA155D8D80
+[05-24 18:58:54]client: 25.56.3.40 gone...Socket num: 1 ,reason=远程主机强迫关闭了一个现有的连接。
+[05-24 18:58:54]client: 25.56.3.40:2537	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:2,Gate address:1AA155D8D80,Game address:27F77976C60
+[05-24 19:00:20]client: 25.80.52.210	come...Socket num: 2
+[05-24 19:00:21]client: 25.80.52.210	login ok.
+[05-24 19:00:38]client: 25.80.52.210:48136	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:4,Gate address:1AA15D8AFE0
+[05-24 19:00:39]clinet: 25.80.52.210:48136	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA15D8AFE0
+[05-24 19:00:55]clinet: 25.80.52.210:48136	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:4,Gate address:1AA15D8AFE0
+[05-24 19:00:55]clinet: 25.80.52.210:48136	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77976C60,Gate address:1AA15D8AFE0
+[05-24 19:01:04]client: 25.56.3.40	come...Socket num: 3
+[05-24 19:01:05]client: 25.56.3.40	login ok.
+[05-24 19:01:06]client: 25.56.3.40:3116	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA15D8B5D0
+[05-24 19:01:06]clinet: 25.56.3.40:3116	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA15D8B5D0
+[05-24 19:01:24]clinet: 25.56.3.40:3116	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA15D8B5D0
+[05-24 19:01:24]clinet: 25.56.3.40:3116	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F7797A878,Gate address:1AA15D8B5D0
+[05-24 19:02:02]client: 25.80.52.210 gone...Socket num: 2 ,reason=远程主机强迫关闭了一个现有的连接。
+[05-24 19:02:02]client: 25.80.52.210:47986	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:3,Gate address:1AA155D9E20,Game address:27F77973048
+[05-24 19:02:45]client: 25.80.52.210	come...Socket num: 3
+[05-24 19:02:46]client: 25.80.52.210	login ok.
+[05-24 19:02:49]client: 25.80.52.210:48293	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA15D8BBC0
+[05-24 19:02:49]clinet: 25.80.52.210:48293	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA15D8BBC0
+[05-24 19:02:53]clinet: 25.80.52.210:48293	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA15D8BBC0
+[05-24 19:02:53]clinet: 25.80.52.210:48293	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77973048,Gate address:1AA15D8BBC0
+[05-24 19:03:47]client: 25.80.52.210 gone...Socket num: 2 ,reason=远程主机强迫关闭了一个现有的连接。
+[05-24 19:03:47]client: 25.80.52.210:48293	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:3,Gate address:1AA15D8BBC0,Game address:27F77973048
+[05-24 19:04:23]client: 25.80.52.210	come...Socket num: 3
+[05-24 19:04:24]client: 25.80.52.210	login ok.
+[05-24 19:04:28]client: 25.80.52.210:48352	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA15D8C2E0
+[05-24 19:04:28]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA15D8C2E0
+[05-24 19:04:38]clinet: 25.80.52.210:48352	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA15D8C2E0
+[05-24 19:04:38]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77973048,Gate address:1AA15D8C2E0
+[05-24 19:09:38]client: 25.80.52.210:48136	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:4,Gate address:1AA15D8AFE0,Game address:27F77976C60
+[05-24 19:09:38]client: 25.80.52.210 gone...Socket num: 2 ,reason=网络被对方正常关闭。
+[05-24 19:11:17]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77973048,Gate address:1AA15D8C2E0
+[05-24 19:11:31]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77973048,Gate address:1AA15D8C2E0
+[05-24 19:11:33]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77973048,Gate address:1AA15D8C2E0
+[05-24 19:11:34]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:27F77973048,Gate address:1AA15D8C2E0
+[05-24 19:12:35]client: 25.80.52.210:48352	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:3,Gate address:1AA15D8C2E0,Game address:27F77973048
+[05-24 19:12:36]client: 25.80.52.210:48352	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA15D8C2E0
+[05-24 19:12:36]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA15D8C2E0
+[05-24 19:12:50]clinet: 25.56.3.40:3116	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA15D8B5D0
+[05-24 19:12:50]clinet: 25.56.3.40:3116	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF5048,Gate address:1AA15D8B5D0
+[05-24 19:12:52]clinet: 25.56.3.40:3116	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF5048,Gate address:1AA15D8B5D0
+[05-24 19:13:00]client: 25.56.3.40:3116	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:2,Gate address:1AA15D8B5D0,Game address:20378BF5048
+[05-24 19:13:03]client: 25.56.3.40:3116	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:2,Gate address:1AA15D8B5D0
+[05-24 19:13:05]clinet: 25.56.3.40:3116	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF5048,Gate address:1AA15D8B5D0
+[05-24 19:13:17]client: 25.80.52.210:48352	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:3,Gate address:1AA15D8C2E0,Game address:20378BF8C60
+[05-24 19:13:18]client: 25.80.52.210:48352	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA15D8C2E0
+[05-24 19:13:19]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA15D8C2E0
+[05-24 19:13:51]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA15D8C2E0
+[05-24 19:14:00]clinet: 25.56.3.40:3116	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF5048,Gate address:1AA15D8B5D0
+[05-24 19:14:01]client: 25.80.52.210:48352	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:3,Gate address:1AA15D8C2E0,Game address:20378BF8C60
+[05-24 19:14:02]client: 25.80.52.210:48352	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:3,Gate address:1AA15D8C2E0
+[05-24 19:14:03]clinet: 25.80.52.210:48352	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:20378BF8C60,Gate address:1AA15D8C2E0
+[05-24 19:25:34]client: 25.56.3.40:3116	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:2,Gate address:1AA15D8B5D0,Game address:20378BF5048
+[05-24 19:25:35]client: 25.56.3.40 gone...Socket num: 1 ,reason=user has logged out.

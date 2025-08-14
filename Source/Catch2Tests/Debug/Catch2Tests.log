@@ -1,0 +1,6 @@
+﻿  Kitbag_test.cpp
+  main.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\ICUHelper\ResourceBundleManage.h(16,10): error C1083: Não é possível abrir arquivo incluir: 'unicode/resbund.h': No such file or directory
+  (compilando o arquivo fonte 'Kitbag_test.cpp')
+  
+  Gerando Código...

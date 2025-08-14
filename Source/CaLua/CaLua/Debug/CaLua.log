@@ -1,0 +1,19 @@
+﻿  CaLua_avltree.c
+  CaLua_function.c
+  CaLua_hash.c
+  CaLua_helper.c
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\CaLua\CaLua_hash.c(19,9): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  CaLua_luafuncs.c
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\CaLua\CaLua_helper.c(37,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\CaLua\CaLua_helper.c(175,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CaLua_main.c
+  CaLua_parser.c
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\CaLua\CaLua_parser.c(81,9): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\CaLua\CaLua_parser.c(84,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CaLua_stack.c
+  CaLua_structure.c
+  CaLua_vmstack.c
+  Gerando Código...
+     Criando biblioteca .\../lib/CaLua.lib e objeto .\../lib/CaLua.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  CaLua.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\lib\CaLua.dll

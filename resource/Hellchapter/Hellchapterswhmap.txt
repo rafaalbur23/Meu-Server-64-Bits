@@ -1,0 +1,41 @@
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+1	193	1	6600,21400	-1	Hellchapter	7900,21400	1	Hellchapter
+2	193	1	6000,3500	-1	Hellchapter	7600,3400	1	Hellchapter
+3	193	1	19000,3600	-1	Hellchapter	17200,3500	1	Hellchapter
+4	193	1	18700,21400	-1	Hellchapter	17100,21400	1	Hellchapter
+
+
+
+
+
+5	193	1	9500,14600	-1	Hellchapter	8500,14600	1	Hellchapter
+6	193	1	9000,15200	-1	Hellchapter	9500,15100	1	Hellchapter
+
+7	193	1	7300,21400	-1	Hellchapter	6300,21400	1	Hellchapter
+
+8	193	1	1400,12300	-1	Hellchapter	1600,11800	1	Hellchapter
+9	193	1	1400,11800	-1	Hellchapter	1600,12300	1	Hellchapter
+
+10	193	1	6800,3400	-1	Hellchapter	6300,3400	1	Hellchapter
+
+11	193	1	12600,3600	-1	Hellchapter	13000,3600	1	Hellchapter
+12	193	1	12900,3800	-1	Hellchapter	12600,4000	1	Hellchapter
+
+13	193	1	18100,3500	-1	Hellchapter	18700,3500	1	Hellchapter
+
+14	193	1	16400,9900	-1	Hellchapter	16000,9900	1	Hellchapter
+15	193	1	16000,10200	-1	Hellchapter	16400,10200	1	Hellchapter
+
+16	193	1	17800,21800	-1	Hellchapter	18700,21800	1	Hellchapter
+
+17	193	1	23700,12400	-1	Hellchapter	23700,11600	1	Hellchapter
+18	193	1	23300,11600	-1	Hellchapter	23300,12400	1	Hellchapter
+
+19	193	1	13200,21600	-1	Hellchapter	12700,21600	1	Hellchapter
+20	193	1	12700,21800	-1	Hellchapter	13500,21600	1	Hellchapter
+
+21	193	1	16600,14700	-1	Hellchapter	16000,14700	1	Hellchapter
+22	193	1	16000,14900	-1	Hellchapter	16600,14400	1	Hellchapter
+
+23	193	1	8700,9700	-1	Hellchapter	9300,9700	1	Hellchapter
+24	193	1	9300,10200	-1	Hellchapter	8700,10000	1	Hellchapter

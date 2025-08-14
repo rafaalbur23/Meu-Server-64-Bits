@@ -1,0 +1,463 @@
+[10-21 23:18:03]GameServer= [26.226.131.160] come,Socket num= 1
+[10-21 23:18:03]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[10-21 23:18:03]not found [garner] map!!!
+[10-21 23:18:03]not found [DreamIsland] map!!!
+[10-21 23:18:03]not found [eastgoaf] map!!!
+[10-21 23:18:03]not found [lonetower] map!!!
+[10-21 23:18:03]not found [teampk] map!!!
+[10-21 23:18:03]add GameServer [GameServer1] ok
+[10-21 23:18:03]add [GameServer1]  [garner] map ok
+[10-21 23:18:03]add [GameServer1]  [DreamIsland] map ok
+[10-21 23:18:03]add [GameServer1]  [eastgoaf] map ok
+[10-21 23:18:03]add [GameServer1]  [lonetower] map ok
+[10-21 23:18:03]add [GameServer1]  [teampk] map ok
+[10-21 23:18:03]client: 26.226.131.160	come, groupserver is't ready, force disconnect...
+[10-21 23:18:14]client: 26.226.131.160	come, groupserver is't ready, force disconnect...
+[10-21 23:18:17]client: 26.226.131.160	come, groupserver is't ready, force disconnect...
+[10-21 23:18:24]client: 26.226.131.160	come, groupserver is't ready, force disconnect...
+[10-21 23:19:01]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:19:02]client: 26.226.131.160	login error, error:1104
+[10-21 23:19:02]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-21 23:19:53]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:19:54]client: 26.226.131.160	login ok.
+[10-21 23:20:24]client: 26.226.131.160:41763	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:143572BCE20
+[10-21 23:20:24]clinet: 26.226.131.160:41763	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:143572BCE20
+[10-21 23:20:33]client: 26.226.131.160:41763	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:143572BCE20,Game address:26DC2AF6048
+[10-21 23:20:33]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:21:19]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:21:20]client: 26.226.131.160	login ok.
+[10-21 23:21:21]client: 26.226.131.160:41783	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:143572BB2D0
+[10-21 23:21:21]clinet: 26.226.131.160:41783	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:143572BB2D0
+[10-21 23:22:29]client: 26.226.131.160:41783	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:143572BB2D0,Game address:26DC2AF6048
+[10-21 23:22:29]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:22:29]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:22:30]client: 26.226.131.160	login ok.
+[10-21 23:22:31]client: 26.226.131.160:41870	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:143572BB400
+[10-21 23:22:31]clinet: 26.226.131.160:41870	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:143572BB400
+[10-21 23:23:28]client: 26.226.131.160:41870	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:143572BB400,Game address:26DC2AF6048
+[10-21 23:23:29]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:25:53]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:25:54]client: 26.226.131.160	login ok.
+[10-21 23:25:55]client: 26.226.131.160:41944	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:143572BB530
+[10-21 23:25:55]clinet: 26.226.131.160:41944	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:143572BB530
+[10-21 23:25:57]client: 26.226.131.160:41944	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:143572BB530,Game address:26DC2AF6048
+[10-21 23:25:57]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:29:26]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:29:27]client: 26.226.131.160	login ok.
+[10-21 23:29:28]client: 26.226.131.160:41992	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:143572BB660
+[10-21 23:29:28]clinet: 26.226.131.160:41992	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:143572BB660
+[10-21 23:31:12]client: 26.226.131.160:41992	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:143572BB660,Game address:26DC2AF6048
+[10-21 23:31:12]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:32:31]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:32:31]client: 26.226.131.160	login ok.
+[10-21 23:32:33]client: 26.226.131.160:42041	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:143572BBFE0
+[10-21 23:32:33]clinet: 26.226.131.160:42041	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:143572BBFE0
+[10-21 23:32:37]clinet: 26.226.131.160:42041	Switch to map,to Gate[26.226.131.160]send EnterMap command,dbid:16,Gate address:143572BBFE0
+[10-21 23:32:37]clinet: 26.226.131.160:42041	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:143572BBFE0
+[10-21 23:34:41]client: 26.226.131.160:42041	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:143572BBFE0,Game address:26DC2AF6048
+[10-21 23:34:41]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:34:54]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:34:55]client: 26.226.131.160	login ok.
+[10-21 23:34:56]client: 26.226.131.160:42071	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6CA20
+[10-21 23:34:56]clinet: 26.226.131.160:42071	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6CA20
+[10-21 23:35:42]client: 26.226.131.160:42071	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6CA20,Game address:26DC2AF6048
+[10-21 23:35:42]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:37:10]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:37:11]client: 26.226.131.160	login ok.
+[10-21 23:37:12]client: 26.226.131.160:42106	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6CB50
+[10-21 23:37:12]clinet: 26.226.131.160:42106	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6CB50
+[10-21 23:41:46]client: 26.226.131.160:42106	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6CB50,Game address:26DC2AF6048
+[10-21 23:41:46]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:41:56]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:41:56]client: 26.226.131.160	login ok.
+[10-21 23:41:57]client: 26.226.131.160:42197	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D3A0
+[10-21 23:41:57]clinet: 26.226.131.160:42197	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D3A0
+[10-21 23:48:34]client: 26.226.131.160:42197	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D3A0,Game address:26DC2AF6048
+[10-21 23:48:35]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:48:50]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:48:51]client: 26.226.131.160	login ok.
+[10-21 23:48:52]client: 26.226.131.160:42293	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6C690
+[10-21 23:48:52]clinet: 26.226.131.160:42293	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6C690
+[10-21 23:48:59]client: 26.226.131.160:42293	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6C690,Game address:26DC2AF6048
+[10-21 23:48:59]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:50:08]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:50:09]client: 26.226.131.160	login ok.
+[10-21 23:50:10]client: 26.226.131.160:42310	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6C8F0
+[10-21 23:50:10]clinet: 26.226.131.160:42310	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6C8F0
+[10-21 23:51:24]client: 26.226.131.160:42310	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6C8F0,Game address:26DC2AF6048
+[10-21 23:51:24]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:51:58]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:51:58]client: 26.226.131.160	login ok.
+[10-21 23:52:01]client: 26.226.131.160:42338	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6C7C0
+[10-21 23:52:01]clinet: 26.226.131.160:42338	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6C7C0
+[10-21 23:52:13]client: 26.226.131.160:42338	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6C7C0,Game address:26DC2AF6048
+[10-21 23:52:13]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:56:03]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:56:04]client: 26.226.131.160	login ok.
+[10-21 23:56:08]client: 26.226.131.160:42423	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D140
+[10-21 23:56:08]clinet: 26.226.131.160:42423	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D140
+[10-21 23:56:12]client: 26.226.131.160:42423	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D140,Game address:26DC2AF6048
+[10-21 23:56:12]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:56:35]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:56:36]client: 26.226.131.160	login ok.
+[10-21 23:56:38]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:56:40]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:56:41]client: 26.226.131.160	login ok.
+[10-21 23:56:42]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-21 23:59:34]client: 26.226.131.160	come...Socket num: 1
+[10-21 23:59:35]client: 26.226.131.160	login ok.
+[10-21 23:59:36]client: 26.226.131.160:42478	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D600
+[10-21 23:59:36]clinet: 26.226.131.160:42478	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D600
+[10-22 00:00:33]client: 26.226.131.160:42478	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D600,Game address:26DC2AF6048
+[10-22 00:00:33]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:06:14]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:06:14]client: 26.226.131.160	login ok.
+[10-22 00:06:17]client: 26.226.131.160:42615	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D860
+[10-22 00:06:17]clinet: 26.226.131.160:42615	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D860
+[10-22 00:06:39]client: 26.226.131.160:42615	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D860,Game address:26DC2AF6048
+[10-22 00:06:39]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:08:08]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:08:10]client: 26.226.131.160	login ok.
+[10-22 00:08:11]client: 26.226.131.160:1121	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6C0A0
+[10-22 00:08:11]clinet: 26.226.131.160:1121	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6C0A0
+[10-22 00:08:35]client: 26.226.131.160:1121	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6C0A0,Game address:26DC2AF6048
+[10-22 00:08:35]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:08:44]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:08:45]client: 26.226.131.160	login ok.
+[10-22 00:08:46]client: 26.226.131.160:1125	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6CDB0
+[10-22 00:08:46]clinet: 26.226.131.160:1125	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6CDB0
+[10-22 00:10:00]client: 26.226.131.160:1125	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6CDB0,Game address:26DC2AF6048
+[10-22 00:10:00]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:10:14]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:10:14]client: 26.226.131.160	login ok.
+[10-22 00:10:15]client: 26.226.131.160:1155	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D4D0
+[10-22 00:10:15]clinet: 26.226.131.160:1155	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D4D0
+[10-22 00:10:31]client: 26.226.131.160:1155	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D4D0,Game address:26DC2AF6048
+[10-22 00:10:31]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:10:39]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:10:40]client: 26.226.131.160	login ok.
+[10-22 00:10:41]client: 26.226.131.160:1160	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6C1D0
+[10-22 00:10:41]clinet: 26.226.131.160:1160	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6C1D0
+[10-22 00:10:47]client: 26.226.131.160:1160	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6C1D0,Game address:26DC2AF6048
+[10-22 00:10:47]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:10:54]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:10:55]client: 26.226.131.160	login ok.
+[10-22 00:10:56]client: 26.226.131.160:1162	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6C560
+[10-22 00:10:56]clinet: 26.226.131.160:1162	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6C560
+[10-22 00:11:44]client: 26.226.131.160:1162	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6C560,Game address:26DC2AF6048
+[10-22 00:11:44]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:11:53]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:11:54]client: 26.226.131.160	login ok.
+[10-22 00:11:55]client: 26.226.131.160:1193	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6CEE0
+[10-22 00:11:55]clinet: 26.226.131.160:1193	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6CEE0
+[10-22 00:12:21]client: 26.226.131.160:1193	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6CEE0,Game address:26DC2AF6048
+[10-22 00:12:21]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:12:56]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:12:57]client: 26.226.131.160	login ok.
+[10-22 00:12:58]client: 26.226.131.160:1208	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D010
+[10-22 00:12:58]clinet: 26.226.131.160:1208	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D010
+[10-22 00:13:04]client: 26.226.131.160:1208	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D010,Game address:26DC2AF6048
+[10-22 00:13:04]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:13:12]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:13:13]client: 26.226.131.160	login ok.
+[10-22 00:13:14]client: 26.226.131.160:1211	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D270
+[10-22 00:13:14]clinet: 26.226.131.160:1211	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D270
+[10-22 00:13:20]client: 26.226.131.160:1211	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D270,Game address:26DC2AF6048
+[10-22 00:13:20]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:13:30]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:13:31]client: 26.226.131.160	login ok.
+[10-22 00:13:32]client: 26.226.131.160:1216	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6DD20
+[10-22 00:13:32]clinet: 26.226.131.160:1216	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6DD20
+[10-22 00:13:52]client: 26.226.131.160:1216	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6DD20,Game address:26DC2AF6048
+[10-22 00:13:52]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:14:46]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:14:47]client: 26.226.131.160	login ok.
+[10-22 00:14:48]client: 26.226.131.160:1234	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D730
+[10-22 00:14:48]clinet: 26.226.131.160:1234	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D730
+[10-22 00:15:12]client: 26.226.131.160:1234	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D730,Game address:26DC2AF6048
+[10-22 00:15:12]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:15:25]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:15:25]client: 26.226.131.160	login ok.
+[10-22 00:15:26]client: 26.226.131.160:1239	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6C430
+[10-22 00:15:26]clinet: 26.226.131.160:1239	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6C430
+[10-22 00:16:02]client: 26.226.131.160:1239	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6C430,Game address:26DC2AF6048
+[10-22 00:16:02]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:16:09]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:16:10]client: 26.226.131.160	login ok.
+[10-22 00:16:11]client: 26.226.131.160:1252	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6D990
+[10-22 00:16:11]clinet: 26.226.131.160:1252	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6D990
+[10-22 00:16:32]client: 26.226.131.160:1252	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6D990,Game address:26DC2AF6048
+[10-22 00:16:32]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:16:40]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:16:40]client: 26.226.131.160	login ok.
+[10-22 00:16:41]client: 26.226.131.160:1260	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6DAC0
+[10-22 00:16:41]clinet: 26.226.131.160:1260	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6DAC0
+[10-22 00:16:55]client: 26.226.131.160:1260	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6DAC0,Game address:26DC2AF6048
+[10-22 00:16:55]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:17:05]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:17:06]client: 26.226.131.160	login ok.
+[10-22 00:17:06]client: 26.226.131.160:1265	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6DE50
+[10-22 00:17:06]clinet: 26.226.131.160:1265	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6DE50
+[10-22 00:17:20]client: 26.226.131.160:1265	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6DE50,Game address:26DC2AF6048
+[10-22 00:17:20]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:17:29]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:17:30]client: 26.226.131.160	login ok.
+[10-22 00:17:31]client: 26.226.131.160:1277	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6C300
+[10-22 00:17:31]clinet: 26.226.131.160:1277	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6C300
+[10-22 00:17:34]client: 26.226.131.160:1277	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6C300,Game address:26DC2AF6048
+[10-22 00:17:34]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:17:57]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:17:57]client: 26.226.131.160	login ok.
+[10-22 00:17:58]client: 26.226.131.160:1288	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F610
+[10-22 00:17:58]clinet: 26.226.131.160:1288	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F610
+[10-22 00:18:08]client: 26.226.131.160:1288	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F610,Game address:26DC2AF6048
+[10-22 00:18:08]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:18:46]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:18:47]client: 26.226.131.160	login ok.
+[10-22 00:18:48]client: 26.226.131.160:1301	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F740
+[10-22 00:18:48]clinet: 26.226.131.160:1301	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F740
+[10-22 00:18:58]client: 26.226.131.160:1301	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F740,Game address:26DC2AF6048
+[10-22 00:18:59]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:19:05]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:19:06]client: 26.226.131.160	login ok.
+[10-22 00:19:06]client: 26.226.131.160:1308	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6E570
+[10-22 00:19:06]clinet: 26.226.131.160:1308	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6E570
+[10-22 00:19:07]client: 26.226.131.160:1308	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6E570,Game address:26DC2AF6048
+[10-22 00:19:07]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:19:21]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:19:22]client: 26.226.131.160	login ok.
+[10-22 00:19:23]client: 26.226.131.160:1313	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F9A0
+[10-22 00:19:23]clinet: 26.226.131.160:1313	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F9A0
+[10-22 00:19:27]client: 26.226.131.160:1313	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F9A0,Game address:26DC2AF6048
+[10-22 00:19:27]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:19:52]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:19:53]client: 26.226.131.160	login ok.
+[10-22 00:19:53]client: 26.226.131.160:1320	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6E1E0
+[10-22 00:19:53]clinet: 26.226.131.160:1320	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6E1E0
+[10-22 00:20:11]client: 26.226.131.160:1320	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6E1E0,Game address:26DC2AF6048
+[10-22 00:20:11]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:20:21]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:20:21]client: 26.226.131.160	login ok.
+[10-22 00:20:23]client: 26.226.131.160:1326	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F870
+[10-22 00:20:23]clinet: 26.226.131.160:1326	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F870
+[10-22 00:20:36]client: 26.226.131.160:1326	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F870,Game address:26DC2AF6048
+[10-22 00:20:37]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:20:45]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:20:46]client: 26.226.131.160	login ok.
+[10-22 00:20:47]client: 26.226.131.160:1332	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6E900
+[10-22 00:20:47]clinet: 26.226.131.160:1332	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6E900
+[10-22 00:22:20]client: 26.226.131.160:1332	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6E900,Game address:26DC2AF6048
+[10-22 00:22:21]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:22:29]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:22:31]client: 26.226.131.160	login ok.
+[10-22 00:22:32]client: 26.226.131.160:1454	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6FAD0
+[10-22 00:22:32]clinet: 26.226.131.160:1454	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6FAD0
+[10-22 00:23:09]client: 26.226.131.160:1454	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6FAD0,Game address:26DC2AF6048
+[10-22 00:23:09]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:23:19]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:23:19]client: 26.226.131.160	login ok.
+[10-22 00:23:20]client: 26.226.131.160:1471	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6E6A0
+[10-22 00:23:20]clinet: 26.226.131.160:1471	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6E6A0
+[10-22 00:23:27]client: 26.226.131.160:1471	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6E6A0,Game address:26DC2AF6048
+[10-22 00:23:27]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:23:57]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:23:58]client: 26.226.131.160	login ok.
+[10-22 00:23:59]client: 26.226.131.160:1483	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6EC90
+[10-22 00:23:59]clinet: 26.226.131.160:1483	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6EC90
+[10-22 00:24:07]client: 26.226.131.160:1483	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6EC90,Game address:26DC2AF6048
+[10-22 00:24:07]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:24:18]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:24:18]client: 26.226.131.160	login ok.
+[10-22 00:24:20]client: 26.226.131.160:1494	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6EA30
+[10-22 00:24:20]clinet: 26.226.131.160:1494	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6EA30
+[10-22 00:24:36]client: 26.226.131.160:1494	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6EA30,Game address:26DC2AF6048
+[10-22 00:24:36]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:24:50]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:24:50]client: 26.226.131.160	login ok.
+[10-22 00:24:52]client: 26.226.131.160:1501	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6E310
+[10-22 00:24:52]clinet: 26.226.131.160:1501	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6E310
+[10-22 00:24:58]client: 26.226.131.160:1501	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6E310,Game address:26DC2AF6048
+[10-22 00:24:58]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:25:44]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:25:45]client: 26.226.131.160	login ok.
+[10-22 00:25:48]client: 26.226.131.160:1525	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6FD30
+[10-22 00:25:48]clinet: 26.226.131.160:1525	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6FD30
+[10-22 00:26:09]client: 26.226.131.160:1525	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6FD30,Game address:26DC2AF6048
+[10-22 00:26:09]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:26:20]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:26:21]client: 26.226.131.160	login ok.
+[10-22 00:26:22]client: 26.226.131.160:1530	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6E7D0
+[10-22 00:26:22]clinet: 26.226.131.160:1530	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6E7D0
+[10-22 00:26:37]client: 26.226.131.160:1530	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6E7D0,Game address:26DC2AF6048
+[10-22 00:26:37]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:26:57]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:26:58]client: 26.226.131.160	login ok.
+[10-22 00:26:58]client: 26.226.131.160:1541	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6EEF0
+[10-22 00:26:58]clinet: 26.226.131.160:1541	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6EEF0
+[10-22 00:27:12]client: 26.226.131.160:1541	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6EEF0,Game address:26DC2AF6048
+[10-22 00:27:12]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:27:19]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:27:19]client: 26.226.131.160	login ok.
+[10-22 00:27:21]client: 26.226.131.160:1551	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6FC00
+[10-22 00:27:21]clinet: 26.226.131.160:1551	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6FC00
+[10-22 00:27:28]client: 26.226.131.160:1551	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6FC00,Game address:26DC2AF6048
+[10-22 00:27:28]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:27:50]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:27:50]client: 26.226.131.160	login ok.
+[10-22 00:27:51]client: 26.226.131.160:1556	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F280
+[10-22 00:27:51]clinet: 26.226.131.160:1556	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F280
+[10-22 00:28:04]client: 26.226.131.160:1556	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F280,Game address:26DC2AF6048
+[10-22 00:28:04]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:28:16]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:28:17]client: 26.226.131.160	login ok.
+[10-22 00:28:18]client: 26.226.131.160:1559	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F020
+[10-22 00:28:18]clinet: 26.226.131.160:1559	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F020
+[10-22 00:28:32]client: 26.226.131.160:1559	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F020,Game address:26DC2AF6048
+[10-22 00:28:32]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:28:42]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:28:43]client: 26.226.131.160	login ok.
+[10-22 00:28:43]client: 26.226.131.160:1567	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6E440
+[10-22 00:28:43]clinet: 26.226.131.160:1567	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6E440
+[10-22 00:28:52]client: 26.226.131.160:1567	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6E440,Game address:26DC2AF6048
+[10-22 00:28:52]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:29:01]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:29:02]client: 26.226.131.160	login ok.
+[10-22 00:29:02]client: 26.226.131.160:1574	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6EB60
+[10-22 00:29:02]clinet: 26.226.131.160:1574	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6EB60
+[10-22 00:29:34]client: 26.226.131.160:1574	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6EB60,Game address:26DC2AF6048
+[10-22 00:29:34]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:32:01]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:32:01]client: 26.226.131.160	login ok.
+[10-22 00:32:02]client: 26.226.131.160:1648	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6FE60
+[10-22 00:32:02]clinet: 26.226.131.160:1648	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6FE60
+[10-22 00:33:06]client: 26.226.131.160:1648	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6FE60,Game address:26DC2AF6048
+[10-22 00:33:07]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:33:15]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:33:16]client: 26.226.131.160	login ok.
+[10-22 00:33:17]client: 26.226.131.160:1669	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F3B0
+[10-22 00:33:17]clinet: 26.226.131.160:1669	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F3B0
+[10-22 00:36:20]client: 26.226.131.160:1669	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F3B0,Game address:26DC2AF6048
+[10-22 00:36:20]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:36:32]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:36:32]client: 26.226.131.160	login ok.
+[10-22 00:36:33]client: 26.226.131.160:1718	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6E0B0
+[10-22 00:36:33]clinet: 26.226.131.160:1718	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6E0B0
+[10-22 00:37:00]client: 26.226.131.160:1718	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6E0B0,Game address:26DC2AF6048
+[10-22 00:37:00]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:37:09]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:37:09]client: 26.226.131.160	login ok.
+[10-22 00:37:11]client: 26.226.131.160:1725	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6EDC0
+[10-22 00:37:11]clinet: 26.226.131.160:1725	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6EDC0
+[10-22 00:39:47]client: 26.226.131.160:1725	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6EDC0,Game address:26DC2AF6048
+[10-22 00:39:47]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:39:51]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:39:51]client: 26.226.131.160	login ok.
+[10-22 00:39:52]client: 26.226.131.160:1780	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F4E0
+[10-22 00:39:52]clinet: 26.226.131.160:1780	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F4E0
+[10-22 00:40:08]client: 26.226.131.160:1780	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F4E0,Game address:26DC2AF6048
+[10-22 00:40:08]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:40:19]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:40:20]client: 26.226.131.160	login ok.
+[10-22 00:40:21]client: 26.226.131.160:1791	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A6F150
+[10-22 00:40:21]clinet: 26.226.131.160:1791	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A6F150
+[10-22 00:40:49]client: 26.226.131.160:1791	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A6F150,Game address:26DC2AF6048
+[10-22 00:40:49]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:40:59]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:40:59]client: 26.226.131.160	login ok.
+[10-22 00:41:00]client: 26.226.131.160:1811	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A70DD0
+[10-22 00:41:00]clinet: 26.226.131.160:1811	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A70DD0
+[10-22 00:41:06]client: 26.226.131.160:1811	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A70DD0,Game address:26DC2AF6048
+[10-22 00:41:06]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:41:18]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:41:19]client: 26.226.131.160	login ok.
+[10-22 00:41:19]client: 26.226.131.160:1820	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A70450
+[10-22 00:41:19]clinet: 26.226.131.160:1820	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A70450
+[10-22 00:43:09]client: 26.226.131.160:1820	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A70450,Game address:26DC2AF6048
+[10-22 00:43:09]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:43:18]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:43:18]client: 26.226.131.160	login ok.
+[10-22 00:43:19]client: 26.226.131.160:1862	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A71290
+[10-22 00:43:19]clinet: 26.226.131.160:1862	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A71290
+[10-22 00:49:59]client: 26.226.131.160:1862	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A71290,Game address:26DC2AF6048
+[10-22 00:49:59]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:50:03]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:50:03]client: 26.226.131.160	login ok.
+[10-22 00:50:05]client: 26.226.131.160:1968	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A70A40
+[10-22 00:50:05]clinet: 26.226.131.160:1968	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A70A40
+[10-22 00:50:07]client: 26.226.131.160:1968	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A70A40,Game address:26DC2AF6048
+[10-22 00:50:07]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:50:34]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:50:34]client: 26.226.131.160	login ok.
+[10-22 00:50:35]client: 26.226.131.160:1983	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A71160
+[10-22 00:50:35]clinet: 26.226.131.160:1983	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A71160
+[10-22 00:51:35]client: 26.226.131.160:1983	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A71160,Game address:26DC2AF6048
+[10-22 00:51:35]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:51:44]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:51:45]client: 26.226.131.160	login ok.
+[10-22 00:51:46]client: 26.226.131.160:2003	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A701F0
+[10-22 00:51:46]clinet: 26.226.131.160:2003	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A701F0
+[10-22 00:52:48]client: 26.226.131.160:2003	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A701F0,Game address:26DC2AF6048
+[10-22 00:52:48]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:53:02]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:53:03]client: 26.226.131.160	login ok.
+[10-22 00:53:04]client: 26.226.131.160:2038	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A714F0
+[10-22 00:53:04]clinet: 26.226.131.160:2038	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A714F0
+[10-22 00:53:05]client: 26.226.131.160:2038	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A714F0,Game address:26DC2AF6048
+[10-22 00:53:05]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:53:59]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:54:00]client: 26.226.131.160	login ok.
+[10-22 00:54:01]client: 26.226.131.160:2052	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A713C0
+[10-22 00:54:01]clinet: 26.226.131.160:2052	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A713C0
+[10-22 00:55:02]client: 26.226.131.160:2052	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A713C0,Game address:26DC2AF6048
+[10-22 00:55:02]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:55:14]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:55:14]client: 26.226.131.160	login ok.
+[10-22 00:55:15]client: 26.226.131.160:2072	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A70910
+[10-22 00:55:15]clinet: 26.226.131.160:2072	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A70910
+[10-22 00:57:54]client: 26.226.131.160:2072	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A70910,Game address:26DC2AF6048
+[10-22 00:57:54]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 00:58:10]client: 26.226.131.160	come...Socket num: 1
+[10-22 00:58:11]client: 26.226.131.160	login ok.
+[10-22 00:58:12]client: 26.226.131.160:2133	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A70F00
+[10-22 00:58:12]clinet: 26.226.131.160:2133	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A70F00
+[10-22 00:59:47]client: 26.226.131.160:2133	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A70F00,Game address:26DC2AF6048
+[10-22 00:59:47]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 01:00:03]client: 26.226.131.160	come...Socket num: 1
+[10-22 01:00:03]client: 26.226.131.160	login ok.
+[10-22 01:00:04]client: 26.226.131.160:2156	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A70580
+[10-22 01:00:04]clinet: 26.226.131.160:2156	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A70580
+[10-22 01:00:22]client: 26.226.131.160:2156	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A70580,Game address:26DC2AF6048
+[10-22 01:00:22]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 01:00:32]client: 26.226.131.160	come...Socket num: 1
+[10-22 01:00:33]client: 26.226.131.160	login ok.
+[10-22 01:00:33]client: 26.226.131.160:2164	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A71AE0
+[10-22 01:00:33]clinet: 26.226.131.160:2164	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A71AE0
+[10-22 01:00:40]client: 26.226.131.160:2164	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A71AE0,Game address:26DC2AF6048
+[10-22 01:00:40]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 01:00:50]client: 26.226.131.160	come...Socket num: 1
+[10-22 01:00:50]client: 26.226.131.160	login ok.
+[10-22 01:00:51]client: 26.226.131.160:2166	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:14357A706B0
+[10-22 01:00:51]clinet: 26.226.131.160:2166	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:26DC2AF6048,Gate address:14357A706B0
+[10-22 01:02:01]client: 26.226.131.160:2166	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:14357A706B0,Game address:26DC2AF6048
+[10-22 01:02:02]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-22 03:26:03]GameServer= [26.226.131.160] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[10-22 03:26:03] delete [GameServer1]
+[10-22 03:26:03]delete map [garner]
+[10-22 03:26:03]delete map [DreamIsland]
+[10-22 03:26:03]delete map [eastgoaf]
+[10-22 03:26:03]delete map [lonetower]
+[10-22 03:26:03]delete map [teampk]
+[10-22 03:26:03]becaulse GameServer trouble, notice 0 user offline
+[10-22 03:26:08]GameServer= [26.226.131.160] come,Socket num= 1
+[10-22 03:26:08]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[10-22 03:26:08]not found [garner] map!!!
+[10-22 03:26:08]not found [DreamIsland] map!!!
+[10-22 03:26:08]not found [eastgoaf] map!!!
+[10-22 03:26:08]not found [lonetower] map!!!
+[10-22 03:26:08]not found [teampk] map!!!
+[10-22 03:26:08]add GameServer [GameServer1] ok
+[10-22 03:26:08]add [GameServer1]  [garner] map ok
+[10-22 03:26:08]add [GameServer1]  [DreamIsland] map ok
+[10-22 03:26:08]add [GameServer1]  [eastgoaf] map ok
+[10-22 03:26:08]add [GameServer1]  [lonetower] map ok
+[10-22 03:26:08]add [GameServer1]  [teampk] map ok

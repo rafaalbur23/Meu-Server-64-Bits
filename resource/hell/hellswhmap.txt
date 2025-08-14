@@ -1,0 +1,13 @@
+//No.	Bound entityID	Event Type	Physical placement	Placed in the direction of the entity	Target map name	Target map	Trigger to determine the conditions	Name
+1	193	1	3400,9800	-1	hell	22000,3600	1	Five to six
+2	193	1	10200,9800	-1	hell	21900,22000	1	Five to seven
+3	193	1	9600,3700	-1	hell	9600,21600	1	Five to eight
+4	193	1	15200,3100	-1	hell	3400,3200	1	Six to five
+5	193	1	21900,9400	-1	hell	21900,22000	1	Six to seven
+6	193	1	15800,9900	-1	hell	9600,21600	1	Six to eight
+7	193	1	22300,15500	-1	hell	3400,3200	1	Seven to five
+8	193	1	15500,15600	-1	hell	22000,3600	1	Seven to six
+9	193	1	15500,21700	-1	hell	9600,21600	1	Seven to eight
+10	193	1	3500,15400	-1	hell	3400,3200	1	Eight to five
+11	193	1	9700,15800	-1	hell	22000,3600	1	Eight to six
+12	193	1	3700,21700	-1	hell	21900,22000	1	Eight to seven

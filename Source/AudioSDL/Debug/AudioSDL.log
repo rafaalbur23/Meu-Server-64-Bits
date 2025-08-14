@@ -1,0 +1,5 @@
+﻿  AudioResource.cpp
+  AudioSDL.cpp
+  lock.cpp
+  SDL_Wrapper.cpp
+  AudioSDL.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AudioSDL\x86\Debug\AudioSDL_x86.lib

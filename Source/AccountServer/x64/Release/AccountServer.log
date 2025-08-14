@@ -1,0 +1,59 @@
+﻿  AccountServer2.cpp
+  DataBaseCtrl.cpp
+  GlobalVariable.cpp
+  main.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'AccountServer2.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'DataBaseCtrl.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'GlobalVariable.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'AccountServer2.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'main.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'DataBaseCtrl.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(43,44): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(43,44):
+  espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(46,38): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(46,38):
+  espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(49,42): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(49,42):
+  espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(52,42): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(52,42):
+  espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+  
+  this header is deprecated
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\AccountServer2.cpp(699,14): warning C4114: mesmo qualificador de tipo usado mais de uma vez
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\AccountServer2.cpp(780,55): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  MyThread.cpp
+  Player.cpp
+  PlayerMgr.cpp
+  stdafx.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'MyThread.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'PlayerMgr.cpp')
+  
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 2079 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  AccountServer.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Server\AccountServer_x64_Release.exe

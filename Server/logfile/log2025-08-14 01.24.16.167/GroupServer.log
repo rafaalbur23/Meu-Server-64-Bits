@@ -1,0 +1,45 @@
+[08-13 21:51:25](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[08-13 21:51:32](25.80.52.210):[local]login success, 	 nline/total:2/0
+[08-13 21:51:37](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:2/0
+[08-13 21:51:37](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:2/1
+[08-13 21:51:38](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:2/1
+[08-13 21:51:38](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:2/2
+[08-13 21:51:58](25.80.52.210):[local]logout,	 online/total:1/1
+[08-13 21:51:58](25.80.52.210):[eusouadm]logout,	 online/total:0/0
+[08-13 22:05:16](25.80.52.210):[local]login success, 	 nline/total:1/0
+[08-13 22:05:25](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:1/0
+[08-13 22:05:25](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:1/1
+[08-13 22:05:32](25.80.52.210):[eusouadm]login success, 	 nline/total:2/1
+[08-13 22:05:34](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:2/1
+[08-13 22:05:34](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:2/2
+[08-13 22:07:16](25.80.52.210):[local]logout,	 online/total:1/1
+[08-13 22:07:17](25.80.52.210):[eusouadm]logout,	 online/total:0/0
+[08-13 22:11:14](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[08-13 22:11:20](25.80.52.210):[local]login success, 	 nline/total:2/0
+[08-13 22:11:22](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:2/0
+[08-13 22:11:22](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:2/1
+[08-13 22:11:23](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:2/1
+[08-13 22:11:23](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:2/2
+[08-13 22:12:02](25.80.52.210):[local]logout,	 online/total:1/1
+[08-13 22:12:02](25.80.52.210):[eusouadm]logout,	 online/total:0/0
+[08-13 22:15:12](25.80.52.210):[local]login success, 	 nline/total:1/0
+[08-13 22:15:15](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:1/0
+[08-13 22:15:15](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:1/1
+[08-13 22:15:50](25.80.52.210):[eusouadm]login failed, error:1002
+[08-13 22:16:07](25.80.52.210):[eusouadm]login success, 	 nline/total:2/1
+[08-13 22:16:10](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:2/1
+[08-13 22:16:10](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:2/2
+[08-13 22:16:42](25.80.52.210):[eusouadm]logout,	 online/total:1/1
+[08-13 22:16:43](25.80.52.210):[local]logout,	 online/total:0/0
+[08-13 22:18:03](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[08-13 22:18:12](25.80.52.210):[local]login success, 	 nline/total:2/0
+[08-13 22:18:12](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:2/0
+[08-13 22:18:13](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:2/1
+[08-13 22:18:16](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:2/1
+[08-13 22:18:16](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:2/2
+[08-13 22:18:33](25.80.52.210):[eusouadm]logout,	 online/total:1/1
+[08-13 22:18:35](25.80.52.210):[local]logout,	 online/total:0/0
+[08-13 22:31:52](25.80.52.210):[local]login success, 	 nline/total:1/0
+[08-13 22:31:54](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:1/0
+[08-13 22:31:54](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:1/1
+[08-14 00:52:56](25.80.52.210):[local]logout,	 online/total:0/0

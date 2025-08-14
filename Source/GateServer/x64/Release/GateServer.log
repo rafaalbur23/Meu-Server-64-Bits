@@ -1,0 +1,277 @@
+﻿  GateServer.cpp
+  main.cpp
+  ToClient.cpp
+  ToGameServer.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'GateServer.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GateServer.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'ToClient.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'main.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'ToClient.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'main.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algo_name' via domínio
+  (compilando o arquivo fonte 'GateServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(43,19):
+  consulte a declaração de 'Botan::RSA_PublicKey::algo_name'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::estimated_strength' via domínio
+  (compilando o arquivo fonte 'GateServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(62,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::estimated_strength'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::key_length' via domínio
+  (compilando o arquivo fonte 'GateServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(61,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::key_length'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algorithm_identifier' via domínio
+  (compilando o arquivo fonte 'GateServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(47,27):
+  consulte a declaração de 'Botan::RSA_PublicKey::algorithm_identifier'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::public_key_bits' via domínio
+  (compilando o arquivo fonte 'GateServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(49,28):
+  consulte a declaração de 'Botan::RSA_PublicKey::public_key_bits'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_encryption_op' via domínio
+  (compilando o arquivo fonte 'GateServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(68,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_kem_encryption_op' via domínio
+  (compilando o arquivo fonte 'GateServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(73,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_kem_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_verification_op' via domínio
+  (compilando o arquivo fonte 'GateServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(78,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_verification_op'
+  
+  this header is deprecated
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+  this header will be made internal in the future
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algo_name' via domínio
+  (compilando o arquivo fonte 'ToClient.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(43,19):
+  consulte a declaração de 'Botan::RSA_PublicKey::algo_name'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::estimated_strength' via domínio
+  (compilando o arquivo fonte 'ToClient.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(62,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::estimated_strength'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::key_length' via domínio
+  (compilando o arquivo fonte 'ToClient.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(61,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::key_length'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algorithm_identifier' via domínio
+  (compilando o arquivo fonte 'ToClient.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(47,27):
+  consulte a declaração de 'Botan::RSA_PublicKey::algorithm_identifier'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::public_key_bits' via domínio
+  (compilando o arquivo fonte 'ToClient.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(49,28):
+  consulte a declaração de 'Botan::RSA_PublicKey::public_key_bits'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_encryption_op' via domínio
+  (compilando o arquivo fonte 'ToClient.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(68,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_kem_encryption_op' via domínio
+  (compilando o arquivo fonte 'ToClient.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(73,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_kem_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_verification_op' via domínio
+  (compilando o arquivo fonte 'ToClient.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(78,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_verification_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algo_name' via domínio
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(43,19):
+  consulte a declaração de 'Botan::RSA_PublicKey::algo_name'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::estimated_strength' via domínio
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(62,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::estimated_strength'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::key_length' via domínio
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(61,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::key_length'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algorithm_identifier' via domínio
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(47,27):
+  consulte a declaração de 'Botan::RSA_PublicKey::algorithm_identifier'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::public_key_bits' via domínio
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(49,28):
+  consulte a declaração de 'Botan::RSA_PublicKey::public_key_bits'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_encryption_op' via domínio
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(68,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_kem_encryption_op' via domínio
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(73,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_kem_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_verification_op' via domínio
+  (compilando o arquivo fonte 'ToGameServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(78,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_verification_op'
+  
+  this header is deprecated
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+  this header will be made internal in the future
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\GateServer.cpp(343,42): warning C4244: '=': conversão de 'dbc::LLong' para 'volatile dbc::uLong', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\GateServer.cpp(366,42): warning C4244: '=': conversão de 'dbc::LLong' para 'volatile dbc::uLong', possível perda de dados
+  this header is deprecated
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algo_name' via domínio
+  (compilando o arquivo fonte 'main.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(43,19):
+  consulte a declaração de 'Botan::RSA_PublicKey::algo_name'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::estimated_strength' via domínio
+  (compilando o arquivo fonte 'main.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(62,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::estimated_strength'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::key_length' via domínio
+  (compilando o arquivo fonte 'main.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(61,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::key_length'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algorithm_identifier' via domínio
+  (compilando o arquivo fonte 'main.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(47,27):
+  consulte a declaração de 'Botan::RSA_PublicKey::algorithm_identifier'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::public_key_bits' via domínio
+  (compilando o arquivo fonte 'main.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(49,28):
+  consulte a declaração de 'Botan::RSA_PublicKey::public_key_bits'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_encryption_op' via domínio
+  (compilando o arquivo fonte 'main.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(68,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_kem_encryption_op' via domínio
+  (compilando o arquivo fonte 'main.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(73,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_kem_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_verification_op' via domínio
+  (compilando o arquivo fonte 'main.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(78,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_verification_op'
+  
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+  this header will be made internal in the future
+  this header is deprecated
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+  this header will be made internal in the future
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(243,72): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(244,70): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(455,31): warning C5051: o atributo [[fallthrough]] requer pelo menos "/std:c++17"; Ignorado
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(469,50): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(487,50): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(636,62): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(1137,61): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(1195,61): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(1255,69): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GateServer\ToClient.cpp(1256,69): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+  ToGroupServer.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algo_name' via domínio
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(43,19):
+  consulte a declaração de 'Botan::RSA_PublicKey::algo_name'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::estimated_strength' via domínio
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(62,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::estimated_strength'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::key_length' via domínio
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(61,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::key_length'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algorithm_identifier' via domínio
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(47,27):
+  consulte a declaração de 'Botan::RSA_PublicKey::algorithm_identifier'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::public_key_bits' via domínio
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(49,28):
+  consulte a declaração de 'Botan::RSA_PublicKey::public_key_bits'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_encryption_op' via domínio
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(68,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_kem_encryption_op' via domínio
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(73,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_kem_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_verification_op' via domínio
+  (compilando o arquivo fonte 'ToGroupServer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(78,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_verification_op'
+  
+  this header is deprecated
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+  this header will be made internal in the future
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 1978 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  GateServer.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Server\GateServer_x64_Release.exe

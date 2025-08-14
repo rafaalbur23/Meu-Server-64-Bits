@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\AcceptConnect.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\AcceptConnect.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Comm.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\Comm.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\CommRPC.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\CommRPC.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\DataSocket.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\DataSocket.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\DBCCommon.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\DBCCommon.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\IniFile.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\IniFile.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\LogStream.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\LogStream.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\NTSvcObject.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\NTSvcObject.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Packet.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\Packet.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\PacketEncryption.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\PacketEncryption.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\PacketQueue.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\PacketQueue.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Receiver.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\Receiver.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\RWMutex.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\RWMutex.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Sender.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\Sender.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\TaskQueue.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\TaskQueue.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\ThreadPool.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\ThreadPool.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Timer.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Debug\Timer.obj

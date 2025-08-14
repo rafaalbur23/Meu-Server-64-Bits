@@ -1,0 +1,228 @@
+[08-14 01:35:21]Before sorting by page1byItem0 
+[08-14 01:35:21]page[byPage][1].talk  Gina: Hello! I am Nurse Gina in the Argent City. Look for me if you are sick or injured! It costs you nothing if you are below level 40.  
+[08-14 01:35:21]page[byPage][1].func  nil  
+[08-14 01:35:21]After sorting by page1byItem2 
+[08-14 01:37:02]Before sorting by page4byItem0 
+[08-14 01:37:02]page[byPage][1].talk  Class Trainer: You want to change class?  
+[08-14 01:37:02]page[byPage][1].func  nil  
+[08-14 01:37:02]After sorting by page4byItem2 
+[08-14 01:37:04]Before sorting by page3byItem0 
+[08-14 01:37:04]page[byPage][1].talk  Class Trainer: You want to change class?  
+[08-14 01:37:04]page[byPage][1].func  nil  
+[08-14 01:37:04]After sorting by page3byItem2 
+[08-14 01:37:06]Before sorting by page10byItem0 
+[08-14 01:37:06]page[byPage][1].talk  Class Trainer: you need to be Lv9 and have 0 to do First Class Advancement.  
+[08-14 01:37:06]page[byPage][1].func  nil  
+[08-14 01:37:06]After sorting by page10byItem2 
+[08-14 01:37:14]Before sorting by page1byItem0 
+[08-14 01:37:14]page[byPage][1].talk  Senna: Hi, I am the image consultant for Argent City. I am responsible for all newcomers and visitors. Look for me if there is something you do not understand.  
+[08-14 01:37:14]page[byPage][1].func  nil  
+[08-14 01:37:14]After sorting by page1byItem2 
+[08-14 01:37:16]Before sorting by page31byItem0 
+[08-14 01:37:16]page[byPage][1].talk  Senna: Star of Unity is a mysterious accessory from another world. When you equip it, you might be able to activate the power of unity and something unexpected might happen. We are running a trial event 'Hoard Exchange'. All players below Lv 41 can redeem a Star of Unity to exchange for a suitable piece of equipment. Are you interested?  
+[08-14 01:37:16]page[byPage][1].func  nil  
+[08-14 01:37:16]After sorting by page31byItem2 
+[08-14 01:37:19]Before sorting by page1byItem0 
+[08-14 01:37:19]page[byPage][1].talk  Senna: Hi, I am the image consultant for Argent City. I am responsible for all newcomers and visitors. Look for me if there is something you do not understand.  
+[08-14 01:37:19]page[byPage][1].func  nil  
+[08-14 01:37:19]After sorting by page1byItem2 
+[08-14 01:37:20]Before sorting by page31byItem1 
+[08-14 01:37:20]page[byPage][1].talk  Senna: Star of Unity is a mysterious accessory from another world. When you equip it, you might be able to activate the power of unity and something unexpected might happen. We are running a trial event 'Hoard Exchange'. All players below Lv 41 can redeem a Star of Unity to exchange for a suitable piece of equipment. Are you interested?  
+[08-14 01:37:20]page[byPage][1].func  nil  
+[08-14 01:37:20]After sorting by page31byItem3 
+[08-14 01:37:20]Before sorting by page32byItem0 
+[08-14 01:37:20]page[byPage][1].talk  Thank you for using our products. If you have a 'Star of Unity', you can redeem a Lv 50 weapon for your class. Interesting isn't it?  
+[08-14 01:37:20]page[byPage][1].func  nil  
+[08-14 01:37:20]After sorting by page32byItem2 
+[08-14 01:37:32]Before sorting by page1byItem0 
+[08-14 01:37:32]page[byPage][1].talk  Mysterious Diviner: I can tell your today's fortune. If you are unsatisfied with the result, you can pay 20000G for a new divination, and 100000G for the third time. After that, if you have Louis XVI, I will help you more times, but you only have six chances to try  
+[08-14 01:37:32]page[byPage][1].func  nil  
+[08-14 01:37:32]After sorting by page1byItem2 
+[08-14 01:37:39]Before sorting by page1byItem0 
+[08-14 01:37:39]page[byPage][1].talk  Mysterious Diviner: I can tell your today's fortune. If you are unsatisfied with the result, you can pay 20000G for a new divination, and 100000G for the third time. After that, if you have Louis XVI, I will help you more times, but you only have six chances to try  
+[08-14 01:37:39]page[byPage][1].func  nil  
+[08-14 01:37:39]After sorting by page1byItem2 
+[08-14 01:37:43]Before sorting by page1byItem1 
+[08-14 01:37:43]page[byPage][1].talk  Mysterious Diviner: I can tell your today's fortune. If you are unsatisfied with the result, you can pay 20000G for a new divination, and 100000G for the third time. After that, if you have Louis XVI, I will help you more times, but you only have six chances to try  
+[08-14 01:37:43]page[byPage][1].func  nil  
+[08-14 01:37:43]After sorting by page1byItem3 
+[08-14 01:37:45]Before sorting by page2byItem0 
+[08-14 01:37:45]page[byPage][1].talk  Mysterious Diviner:  
+[08-14 01:37:45]page[byPage][1].func  nil  
+[08-14 01:37:45]After sorting by page2byItem2 
+[08-14 01:37:58]Before sorting by page1byItem0 
+[08-14 01:37:58]page[byPage][1].talk  Free Lunch - Event: Hello dear Pirate! Free Lunch Event starts on Saturday from 00:00am till 11:59pm.  
+[08-14 01:37:58]page[byPage][1].func  nil  
+[08-14 01:37:58]After sorting by page1byItem2 
+[08-14 01:38:03]Before sorting by page1byItem0 
+[08-14 01:38:03]page[byPage][1].talk  Marriam: Hi, I am the owner of this inn? Wanna stay a few days? Or maybe change a new hairstyle?  
+[08-14 01:38:03]page[byPage][1].func  nil  
+[08-14 01:38:03]After sorting by page1byItem2 
+[08-14 01:38:05]Before sorting by page2byItem3 
+[08-14 01:38:05]page[byPage][1].talk  Marriam: Keeping the same color of hairdo will make you a boring person. I can decoct colored hair dyes for you if you wish.  
+[08-14 01:38:05]page[byPage][1].func  nil  
+[08-14 01:38:05]After sorting by page2byItem5 
+[08-14 01:38:10]Before sorting by page1byItem0 
+[08-14 01:38:10]page[byPage][1].talk  Rachel: Hi! The Navy wants you! If you think you have the capability, bring this recommendation letter to the nearby recruitment post in Argent Harbor!  
+[08-14 01:38:10]page[byPage][1].func  nil  
+[08-14 01:38:10]After sorting by page1byItem2 
+[08-14 01:38:25]Before sorting by page1byItem6 
+[08-14 01:38:25]page[byPage][1].talk  Jovial: Hi! I am the Teleporter! How may I help you?  
+[08-14 01:38:25]page[byPage][1].func  nil  
+[08-14 01:38:25]After sorting by page1byItem8 
+[08-14 01:38:49]Before sorting by page1byItem0 
+[08-14 01:38:49]page[byPage][1].talk  Little Daniel: Young adventurers should not be afraid to explore the world. There are many beautiful things waiting to be discovered. Have you been to the great shrine in the desert? How about the Lone Tower in the deep Sacred forest? Come to find me if y  
+[08-14 01:38:49]page[byPage][1].func  nil  
+[08-14 01:38:49]After sorting by page1byItem2 
+[08-14 01:39:00]Before sorting by page1byItem0 
+[08-14 01:39:00]page[byPage][1].talk  Goldie: Hi, I sell all sorts of weapons! Take a look!  
+[08-14 01:39:00]page[byPage][1].func  nil  
+[08-14 01:39:00]After sorting by page1byItem2 
+[08-14 01:39:11]Before sorting by page1byItem0 
+[08-14 01:39:11]page[byPage][1].talk                  *DO NOT*_               Share your_          ACCOUNT INFORMATION  
+[08-14 01:39:11]page[byPage][1].func  nil  
+[08-14 01:39:11]After sorting by page1byItem2 
+[08-14 01:39:29]Before sorting by page1byItem0 
+[08-14 01:39:29]page[byPage][1].talk  Jimberry: Hi, welcome! How can I help you? I sell various items. Don't look down upon me! I have some unique items!  
+[08-14 01:39:29]page[byPage][1].func  nil  
+[08-14 01:39:29]After sorting by page1byItem2 
+[08-14 01:39:37]Before sorting by page1byItem1 
+[08-14 01:39:37]page[byPage][1].talk  Jimberry: Hi, welcome! How can I help you? I sell various items. Don't look down upon me! I have some unique items!  
+[08-14 01:39:37]page[byPage][1].func  nil  
+[08-14 01:39:37]After sorting by page1byItem3 
+[08-14 01:39:46]Before sorting by page1byItem0 
+[08-14 01:39:46]page[byPage][1].talk  Ronnie: I am the chairman who is in charge of all of the commerce trading in Argent City. I can train you to become the richest Merchant in Ascaron. Although I am not willing to do that, I should only help an officer. You can exchange Pirate Banners and M  
+[08-14 01:39:46]page[byPage][1].func  nil  
+[08-14 01:39:46]After sorting by page1byItem2 
+[08-14 01:39:54]Before sorting by page1byItem0 
+[08-14 01:39:54]page[byPage][1].talk  Gina: Hello! I am Nurse Gina in the Argent City. Look for me if you are sick or injured! It costs you nothing if you are below level 40.  
+[08-14 01:39:54]page[byPage][1].func  nil  
+[08-14 01:39:54]After sorting by page1byItem2 
+[08-14 01:39:56]Before sorting by page1byItem0 
+[08-14 01:39:56]page[byPage][1].talk  Ditto: Hi! I have the best herbs in Argent City. They are all gathered by myself. Have a look! What's more, you can make special potions from me if you collect enough herbs.  
+[08-14 01:39:56]page[byPage][1].func  nil  
+[08-14 01:39:56]After sorting by page1byItem2 
+[08-14 01:40:19]Before sorting by page1byItem4 
+[08-14 01:40:19]page[byPage][1].talk  Jovial: Hi! I am the Teleporter! How may I help you?  
+[08-14 01:40:19]page[byPage][1].func  nil  
+[08-14 01:40:19]After sorting by page1byItem6 
+[08-14 01:40:20]Before sorting by page10byItem0 
+[08-14 01:40:20]page[byPage][1].talk  Jovial: I can teleport you to other Havens at Ascaron  
+[08-14 01:40:20]page[byPage][1].func  nil  
+[08-14 01:40:20]After sorting by page10byItem2 
+[08-14 01:40:20]Before sorting by page11byItem1 
+[08-14 01:40:20]page[byPage][1].talk  You want to go to Abandon Mine Haven? Pay me 500G. I will teleport  you there. Newbies below level 40 are free of charge.  
+[08-14 01:40:20]page[byPage][1].func  nil  
+[08-14 01:40:20]After sorting by page11byItem3 
+[08-14 01:40:22]Before sorting by page1byItem4 
+[08-14 01:40:22]page[byPage][1].talk  Jovial: Hi! I am the Teleporter! How may I help you?  
+[08-14 01:40:22]page[byPage][1].func  nil  
+[08-14 01:40:22]After sorting by page1byItem6 
+[08-14 01:40:24]Before sorting by page1byItem0 
+[08-14 01:40:24]page[byPage][1].talk  Pucca: Do you want Time Sand which will bring you double experience or double drop rate?  
+[08-14 01:40:24]page[byPage][1].func  nil  
+[08-14 01:40:24]After sorting by page1byItem2 
+[08-14 01:40:25]Before sorting by page2byItem0 
+[08-14 01:40:25]page[byPage][1].talk  Pucca: Which double effect do you want to claim?  
+[08-14 01:40:25]page[byPage][1].func  nil  
+[08-14 01:40:25]After sorting by page2byItem2 
+[08-14 01:40:26]Before sorting by page5byItem0 
+[08-14 01:40:26]page[byPage][1].talk  Pucca: How many hours will you claim to enjoy double Exp? The claimed double effect cannot be accumulated with the item effect from the Item Mall.  
+[08-14 01:40:26]page[byPage][1].func  nil  
+[08-14 01:40:26]After sorting by page5byItem2 
+[08-14 01:40:28]Before sorting by page1byItem4 
+[08-14 01:40:28]page[byPage][1].talk  Jovial: Hi! I am the Teleporter! How may I help you?  
+[08-14 01:40:28]page[byPage][1].func  nil  
+[08-14 01:40:28]After sorting by page1byItem6 
+[08-14 01:40:29]Before sorting by page10byItem0 
+[08-14 01:40:29]page[byPage][1].talk  Jovial: I can teleport you to other Havens at Ascaron  
+[08-14 01:40:29]page[byPage][1].func  nil  
+[08-14 01:40:29]After sorting by page10byItem2 
+[08-14 01:40:29]Before sorting by page1byItem0 
+[08-14 01:40:29]page[byPage][1].talk  Princess Julia: Hi, I am the newbie guide. All of the newbie quests can be accepted through me. I will guide you to finish them. After that, you can exchange your Sealed Shadow Mantle for better gear.  
+[08-14 01:40:29]page[byPage][1].func  nil  
+[08-14 01:40:29]After sorting by page1byItem2 
+[08-14 01:40:30]Before sorting by page11byItem0 
+[08-14 01:40:30]page[byPage][1].talk  You want to go to Abandon Mine Haven? Pay me 500G. I will teleport  you there. Newbies below level 40 are free of charge.  
+[08-14 01:40:30]page[byPage][1].func  nil  
+[08-14 01:40:30]After sorting by page11byItem2 
+[08-14 01:44:19]Before sorting by page1byItem0 
+[08-14 01:44:19]page[byPage][1].talk  Meiya: Hi! I am the Teleporter. How can I help you?  
+[08-14 01:44:19]page[byPage][1].func  nil  
+[08-14 01:44:19]After sorting by page1byItem2 
+[08-14 01:44:20]Before sorting by page14byItem0 
+[08-14 01:44:20]page[byPage][1].talk  You want to go to Rockery Haven? Pay me 200G. I will teleport  you there. Newbie's below level 40 are free of charge.  
+[08-14 01:44:20]page[byPage][1].func  nil  
+[08-14 01:44:20]After sorting by page14byItem2 
+[08-14 01:44:20]Before sorting by page1byItem0 
+[08-14 01:44:20]page[byPage][1].talk  Meiya: Hi! I am the Teleporter. How can I help you?  
+[08-14 01:44:20]page[byPage][1].func  nil  
+[08-14 01:44:20]After sorting by page1byItem2 
+[08-14 01:44:21]Before sorting by page14byItem0 
+[08-14 01:44:21]page[byPage][1].talk  You want to go to Rockery Haven? Pay me 200G. I will teleport  you there. Newbie's below level 40 are free of charge.  
+[08-14 01:44:21]page[byPage][1].func  nil  
+[08-14 01:44:21]After sorting by page14byItem2 
+[08-14 01:46:47]Before sorting by page2byItem1 
+[08-14 01:46:47]page[byPage][1].talk  Felicia: Hi! I am Teleporter Felicia! How can I help you?  
+[08-14 01:46:47]page[byPage][1].func  nil  
+[08-14 01:46:47]After sorting by page2byItem3 
+[08-14 01:46:48]Before sorting by page18byItem0 
+[08-14 01:46:48]page[byPage][1].talk  You want to go to Andes Forest Haven? Pay me 200G. I will teleport  you there. Newbie's below level 40 are free of charge.  
+[08-14 01:46:48]page[byPage][1].func  nil  
+[08-14 01:46:48]After sorting by page18byItem2 
+[08-14 01:46:48]Before sorting by page2byItem1 
+[08-14 01:46:48]page[byPage][1].talk  Felicia: Hi! I am Teleporter Felicia! How can I help you?  
+[08-14 01:46:48]page[byPage][1].func  nil  
+[08-14 01:46:48]After sorting by page2byItem3 
+[08-14 01:46:49]Before sorting by page18byItem0 
+[08-14 01:46:49]page[byPage][1].talk  You want to go to Andes Forest Haven? Pay me 200G. I will teleport  you there. Newbie's below level 40 are free of charge.  
+[08-14 01:46:49]page[byPage][1].func  nil  
+[08-14 01:46:49]After sorting by page18byItem2 
+[08-14 01:47:50]Before sorting by page3byItem2 
+[08-14 01:47:50]page[byPage][1].talk  Wendy: Hi! I am the teleporter! Can I help you?  
+[08-14 01:47:50]page[byPage][1].func  nil  
+[08-14 01:47:50]After sorting by page3byItem4 
+[08-14 01:47:51]Before sorting by page29byItem0 
+[08-14 01:47:51]page[byPage][1].talk  Teleport to Argent City? No problem! Please pay 2000G!  
+[08-14 01:47:51]page[byPage][1].func  nil  
+[08-14 01:47:51]After sorting by page29byItem2 
+[08-14 01:56:04]Before sorting by page1byItem0 
+[08-14 01:56:04]page[byPage][1].talk  Pucca: Do you want Time Sand which will bring you double experience or double drop rate?  
+[08-14 01:56:04]page[byPage][1].func  nil  
+[08-14 01:56:04]After sorting by page1byItem2 
+[08-14 01:56:05]Before sorting by page2byItem0 
+[08-14 01:56:05]page[byPage][1].talk  Pucca: Which double effect do you want to claim?  
+[08-14 01:56:05]page[byPage][1].func  nil  
+[08-14 01:56:05]After sorting by page2byItem2 
+[08-14 01:56:07]Before sorting by page5byItem2 
+[08-14 01:56:07]page[byPage][1].talk  Pucca: How many hours will you claim to enjoy double Exp? The claimed double effect cannot be accumulated with the item effect from the Item Mall.  
+[08-14 01:56:07]page[byPage][1].func  nil  
+[08-14 01:56:07]After sorting by page5byItem4 
+[08-14 01:57:31]Before sorting by page3byItem1 
+[08-14 01:57:31]page[byPage][1].talk  Class Trainer: You want to change class?  
+[08-14 01:57:31]page[byPage][1].func  nil  
+[08-14 01:57:31]After sorting by page3byItem3 
+[08-14 01:57:38]Before sorting by page1byItem0 
+[08-14 01:57:38]page[byPage][1].talk  Hello, I Can Help You Become a 55 Character.  
+[08-14 01:57:38]page[byPage][1].func  nil  
+[08-14 01:57:38]After sorting by page1byItem2 
+[08-14 01:57:38]Before sorting by page3byItem0 
+[08-14 01:57:38]page[byPage][1].talk  So You wish to become a 55 Character Huh? Well you need this  
+[08-14 01:57:38]page[byPage][1].func  nil  
+[08-14 01:57:38]After sorting by page3byItem2 
+[08-14 01:59:21]Before sorting by page1byItem0 
+[08-14 01:59:21]page[byPage][1].talk  Hello, I Can Help You Become a 55 Character.  
+[08-14 01:59:21]page[byPage][1].func  nil  
+[08-14 01:59:21]After sorting by page1byItem2 
+[08-14 01:59:22]Before sorting by page3byItem0 
+[08-14 01:59:22]page[byPage][1].talk  So You wish to become a 55 Character Huh? Well you need this  
+[08-14 01:59:22]page[byPage][1].func  nil  
+[08-14 01:59:22]After sorting by page3byItem2 
+[08-14 02:02:57]Before sorting by page1byItem0 
+[08-14 02:02:57]page[byPage][1].talk  Granny Nila: Welcome! My clothings are cheap and good! We also have trendy stuff! Have a look around!  
+[08-14 02:02:57]page[byPage][1].func  nil  
+[08-14 02:02:57]After sorting by page1byItem2 
+[08-14 02:03:40]Before sorting by page1byItem1 
+[08-14 02:03:40]page[byPage][1].talk  Jimberry: Hi, welcome! How can I help you? I sell various items. Don't look down upon me! I have some unique items!  
+[08-14 02:03:40]page[byPage][1].func  nil  
+[08-14 02:03:40]After sorting by page1byItem3 

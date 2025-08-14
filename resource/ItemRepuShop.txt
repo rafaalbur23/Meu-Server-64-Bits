@@ -1,0 +1,94 @@
+//ID	Item Name	Description	Price	Hot	Items	Quantity	Duration	Stock
+1	Fairy Ration	Recovers the stamina of a Pet	20	-1	227	99	1682401669	0
+2	Iron Man	Lance Apparel	50	-1	8831,8832,8833,8834	1,1,1,1	-1	-1
+3	No Exp Stone	Exp Carrion	500	-1	9386	1	-1	-1
+//Pet
+4	Fairy Rations	Fairy Ration(stack of 20)&Auto; Ration(stack of 10)	1099	-1	227,2312	20,10	-1	-1
+5	Demonic Fruit of Acidity	Marriage	5499	-1	3918	1	-1	-1
+6	Demonic Fruit of Courage	Marriage	5499	-1	3919	1	-1	-1
+7	Demonic Fruit of Strength	Marriage	5499	-1	3920	1	-1	-1
+8	Demonic Fruit of Intellect	Marriage	5499	-1	3921	1	-1	-1
+9	Demonic Fruit of Energy	Marriage	5499	-1	3922	1	-1	-1
+10	Demonic Fruit of Aberrant	Marriage	5499	-1	3924	1	-1	-1
+11	Demonic Fruit of Mystery	Marriage	5499	-1	3925	1	-1	-1
+12	Standard Meditation	Pet Skill	999	-1	260	1	-1	-1
+13	Standard Recover	Pet Skill	999	-1	253	1	-1	-1
+14	Standard Magic	Pet Skill	999	-1	250	1	-1	-1
+15	Standard Berserk	Pet Skill	999	-1	247	1	-1	-1
+16	Standard Protection	Pet Skill	999	-1	244	1	-1	-1
+17	Snow Dragon Fruit	Pet Food	499	-1	222	1	-1	-1
+18	Icespire Plum	Pet Food	499	-1	223	1	-1	-1
+19	Zephyr Fish Floss	Pet Food	499	-1	224	1	-1	-1
+20	Argent Mango	Pet Food	499	-1	225	1	-1	-1
+21	Shaitan Biscuit	Pet Food	499	-1	226	1	-1	-1
+//Level
+22	Heaven's Berry & Nana	EXP	6290	-1	3844,849	9,3	-1	-1
+23	Magical Clover	Clover	79	-1	3462	1	-1	-1
+24	Intense Magic	Skill Book	7989	-1	3300	1	-1	-1
+25	Crystalline Blessing	Skill Book	7989	-1	3301	1	-1	-1
+26	Icy Crystal	Crystal	79	-1	3463	1	-1	-1
+27	Constitution Recovery Flask	A potion	999	-1	3098	1	-1	-1
+28	SP Holy Water	A potion	999	-1	3099	1	-1	-1
+29	Power Sail	A potion	1199	-1	3046	1	-1	-1
+30	lantern festival	A potion	499	-1	3107	1	-1	-1
+//Teleportation
+31	Pass to Lone Tower	Ticket	90	-1	3054	1	-1	-1
+32	Pass to Summer	Ticket	150	-1	563	1	-1	-1
+33	Pass to Autum	Ticket	150	-1	563	1	-1	-1
+34	Pass to Silver Mine 3	Ticket	90	-1	3058	1	-1	-1
+35	Pass to Abandoned Mine 2	Ticket	90	-1	3056	1	-1	-1
+36	Pass to Sacred Snow Mountain	Ticket	90	-1	3050	1	-1	-1
+37	Pass to Spring Town	Ticket	90	-1	3076	1	-1	-1
+//Forge
+38	Socket Pack	Socket	2999	-1	890,891	1,1	-1	-1
+39	Fiery Gem Voucher	Gem Voucher	1099	-1	856	1	-1	-1
+40	Furious Gem Voucher	Gem Voucher	1099	-1	857	1	-1	-1
+41	Explosive Gem Voucher	Gem Voucher	1099	-1	858	1	-1	-1
+42	Lustrious Gem Voucher	Gem Voucher	1099	-1	859	1	-1	-1
+43	Spirit Gem Voucher	Gem Voucher	1099	-1	911	1	-1	-1
+44	Glowing Gem Voucher	Gem Voucher	1099	-1	914	1	-1	-1
+45	Shining Gem Voucher	Gem Voucher	1099	-1	915	1	-1	-1
+46	Shadow Gem Voucher	Gem Voucher	1099	-1	916	1	-1	-1
+47	Blacksmith Pliers	Allow gem to be extracted from weapons or equipments	109	-1	1020	1	-1	-1
+//Miscellaneous
+48	Full Body Armor	A Potion	1199	-1	852	1	-1	-1
+49	Item-locking Stone	Items will be locked after using it	259	-1	5939	1	-1	-1
+50	Primary Magic Powder	Mysterious powder from Pet Fairies.	200	-1	6529	1	-1	-1
+51	Junior Magic Powder	Mysterious powder from Pet Fairies.	400	-1	6530	1	-1	-1
+52	Senior Magic Powder	Mysterious powder from Pet Fairies.	800	-1	6531	1	-1	-1
+53	Soul Detector Lv1	New weapon for usage on land.	49	-1	1138	1	-1	-1
+54	Skill-Snooty	Pet Skill Book	49	-1	1131	1	-1	-1
+55	Skill-Fool	Pet Skill Book	49	-1	1130	1	-1	-1
+56	Skill-Trickster	Pet Skill Book	49	-1	1132	1	-1	-1
+57	Skill-Coin Shower	Pet Skill Book	49	-1	1129	1	-1	-1
+58	Rose;18	Misc	49	-1	3343	18	-1	-1
+59	Lovers Chocolate;18	Misc	49	-1	3344	18	-1	-1
+60	Little Snow Ball;9	Misc	49	-1	2896	9	-1	-1
+61	Inventory Pack	Misc	5999	-1	3088,3089,3090,3091,3092,3093	1,1,1,1,1,1	-1	-1
+62	Unique Ring Voucher	Ring	10999	-1	580	1	-1	-1
+63	Unique Necklace Voucher	Necklace	10999	-1	581	1	-1	-1
+//Forge Mall
+64	Fusion Scroll	Fusion Apparel	100	-1	453	1	-1	-1
+65	Fusion Catalyst	Dont lose gems on fusion	100	-1	454	1	-1	-1
+66	Strengthening Scroll	Strengthening	100	-1	455	1	-1	-1
+67	Strengthening Crystal	Strengthening	100	-1	456	1	-1	-1
+///Apparels
+68	Tiger Cavalry Set	Phyllis Apparel	4999	-1	5166,5167,5168	1,1,1	-1	-1
+69	Tiger Cavalry Set	Lance Apparel	4999	-1	5154,5155,5156	1,1,1	-1	-1
+70	Capricious Dragon Set	Lance Apparel	4999	-1	5159,5158,5157	1,1,1	-1	-1
+71	Capricious Dragon Set	Phyllis Apparel	4999	-1	5169,5170,5171	1,1,1	-1	-1
+72	Sassy Princess Hat	Phyllis Apparel	4999	-1	5146	1	-1	-1
+73	Bloodmoon Set	Lance Apparel	4999	-1	5661,5662,5663,5664	1,1,1,1	-1	-1
+74	Bloodmoon Set	Carsise Apparel	4999	-1	5665,5666,5667,5668	1,1,1,1	-1	-1
+75	Bloodmoon Set	Phyllis Apparel	4999	-1	5669,5670,5671,5672	1,1,1,1	-1	-1
+76	Bloodmoon Set	Ami Apparel	4999	-1	5673,5674,5675,5676	1,1,1,1	-1	-1
+77	Bruce Set	Lance Apparel	4999	-1	5227,5228,5229	1,1,1	-1	-1
+78	Bruce Set	Phyllis Apparel	4999	-1	5241,5242,5243	1,1,1	-1	-1
+///Reset Stone
+79	Resetting Stone	For resetting properties	4999	-1	6868	1	-1	-1
+//Rep Card
+80	1,000 Reputation	Rep	1000	-1	9439	1	-1	-1
+81	5,000 Reputation	Rep	5000	-1	9440	1	-1	-1
+82	10,000 Reputation	Rep	10000	-1	9441	1	-1	-1
+///Water Break
+83	Soul of Water	Makes an water fusion	14999	1	9445	1	-1	-1

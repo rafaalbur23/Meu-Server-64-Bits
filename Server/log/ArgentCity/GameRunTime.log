@@ -1,0 +1,282 @@
+[08-14 01:34:26]fps = 0
+[08-14 01:34:36]fps = 9
+[08-14 01:34:36]...GameRunTime = 0.078800 ms		MgrUnitRunTime = 0.077700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:34:44]fps = 15
+[08-14 01:34:46]...GameRunTime = 0.117400 ms		MgrUnitRunTime = 0.115500 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:34:56]...GameRunTime = 0.094300 ms		MgrUnitRunTime = 0.093100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:35:06]...GameRunTime = 0.107100 ms		MgrUnitRunTime = 0.105500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:35:16]...GameRunTime = 0.151200 ms		MgrUnitRunTime = 0.149600 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:35:26]...GameRunTime = 0.180400 ms		MgrUnitRunTime = 0.178800 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:35:36]...GameRunTime = 0.267700 ms		MgrUnitRunTime = 0.265600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:35:46]...GameRunTime = 0.210500 ms		MgrUnitRunTime = 0.208300 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.001200 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:35:56]...GameRunTime = 0.153000 ms		MgrUnitRunTime = 0.151100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:36:06]...GameRunTime = 0.183600 ms		MgrUnitRunTime = 0.181900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:36:16]...GameRunTime = 0.158000 ms		MgrUnitRunTime = 0.156200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:36:18]!!!GameRunTime = 111.561500 ms		MgrUnitRunTime = 111.558800 ms	ItemRunTime = 0.000400 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.001100 ms
+[08-14 01:36:25]!!!GameRunTime = 175.611900 ms		MgrUnitRunTime = 175.610500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:36:35]...GameRunTime = 0.115900 ms		MgrUnitRunTime = 0.113900 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000600 ms
+[08-14 01:36:45]...GameRunTime = 0.139000 ms		MgrUnitRunTime = 0.137600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:36:55]...GameRunTime = 0.133600 ms		MgrUnitRunTime = 0.132000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:37:05]...GameRunTime = 0.546200 ms		MgrUnitRunTime = 0.542500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.002800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:37:15]...GameRunTime = 0.373800 ms		MgrUnitRunTime = 0.372500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:37:25]...GameRunTime = 0.773400 ms		MgrUnitRunTime = 0.771700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000600 ms
+[08-14 01:37:35]...GameRunTime = 0.602000 ms		MgrUnitRunTime = 0.594200 ms	ItemRunTime = 0.002600 ms	MapMgrRunTime = 0.004200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:37:45]...GameRunTime = 0.758500 ms		MgrUnitRunTime = 0.756900 ms	ItemRunTime = 0.000700 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:37:55]...GameRunTime = 0.191000 ms		MgrUnitRunTime = 0.189500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:38:05]...GameRunTime = 0.123800 ms		MgrUnitRunTime = 0.122300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:38:10]fps = 7
+[08-14 01:38:13]!!!GameRunTime = 510.542400 ms		MgrUnitRunTime = 510.540600 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:38:13]fps = 8
+[08-14 01:38:16]!!!GameRunTime = 776.365000 ms		MgrUnitRunTime = 776.363500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:38:16]fps = 12
+[08-14 01:38:25]...GameRunTime = 0.487100 ms		MgrUnitRunTime = 0.485200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000700 ms
+[08-14 01:38:27]!!!GameRunTime = 711.630800 ms		MgrUnitRunTime = 711.629500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:38:27]fps = 12
+[08-14 01:38:29]fps = 12
+[08-14 01:38:30]!!!GameRunTime = 302.885900 ms		MgrUnitRunTime = 302.884500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:38:30]fps = 15
+[08-14 01:38:33]!!!GameRunTime = 227.044400 ms		MgrUnitRunTime = 227.042500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000600 ms
+[08-14 01:38:43]!!!GameRunTime = 224.541100 ms		MgrUnitRunTime = 224.539500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:38:44]fps = 15
+[08-14 01:38:53]...GameRunTime = 0.182900 ms		MgrUnitRunTime = 0.181600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:39:03]!!!GameRunTime = 256.461000 ms		MgrUnitRunTime = 0.197400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 256.262300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:39:13]fps = 5
+[08-14 01:39:13]...GameRunTime = 1.801700 ms		MgrUnitRunTime = 1.731400 ms	ItemRunTime = 0.000500 ms	MapMgrRunTime = 0.069000 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:39:23]...GameRunTime = 0.404700 ms		MgrUnitRunTime = 0.402900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:39:33]...GameRunTime = 0.277900 ms		MgrUnitRunTime = 0.276600 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:39:43]...GameRunTime = 0.141700 ms		MgrUnitRunTime = 0.140500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:39:53]...GameRunTime = 1.469400 ms		MgrUnitRunTime = 1.462000 ms	ItemRunTime = 0.002300 ms	MapMgrRunTime = 0.004400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:40:03]...GameRunTime = 0.872200 ms		MgrUnitRunTime = 0.827100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.044000 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:40:04]fps = 15
+[08-14 01:40:06]fps = 15
+[08-14 01:40:10]!!!GameRunTime = 180.056000 ms		MgrUnitRunTime = 180.054900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:40:14]!!!GameRunTime = 105.894900 ms		MgrUnitRunTime = 105.893300 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:40:24]...GameRunTime = 0.108000 ms		MgrUnitRunTime = 0.098900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.008200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:40:34]...GameRunTime = 0.303700 ms		MgrUnitRunTime = 0.292700 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.010100 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:40:44]...GameRunTime = 0.264300 ms		MgrUnitRunTime = 0.260500 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.002400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000600 ms
+[08-14 01:40:54]...GameRunTime = 0.461300 ms		MgrUnitRunTime = 0.460000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:41:04]...GameRunTime = 0.415500 ms		MgrUnitRunTime = 0.414000 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:41:14]!!!GameRunTime = 173.679200 ms		MgrUnitRunTime = 173.662200 ms	ItemRunTime = 0.001900 ms	MapMgrRunTime = 0.014500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:41:14]fps = 11
+[08-14 01:41:24]...GameRunTime = 0.478400 ms		MgrUnitRunTime = 0.477200 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:41:34]...GameRunTime = 1.571600 ms		MgrUnitRunTime = 1.570300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:41:44]...GameRunTime = 0.558200 ms		MgrUnitRunTime = 0.556300 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:41:54]...GameRunTime = 1.778500 ms		MgrUnitRunTime = 1.776700 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:42:04]...GameRunTime = 0.332700 ms		MgrUnitRunTime = 0.331400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:42:14]...GameRunTime = 0.800500 ms		MgrUnitRunTime = 0.797000 ms	ItemRunTime = 0.000500 ms	MapMgrRunTime = 0.001900 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:42:24]...GameRunTime = 0.552900 ms		MgrUnitRunTime = 0.548400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.003500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:42:34]...GameRunTime = 0.103300 ms		MgrUnitRunTime = 0.101800 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:42:44]...GameRunTime = 0.239300 ms		MgrUnitRunTime = 0.235900 ms	ItemRunTime = 0.000400 ms	MapMgrRunTime = 0.002100 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:42:54]...GameRunTime = 1.039800 ms		MgrUnitRunTime = 1.038300 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:43:04]...GameRunTime = 0.298800 ms		MgrUnitRunTime = 0.297400 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:43:14]...GameRunTime = 0.188800 ms		MgrUnitRunTime = 0.185600 ms	ItemRunTime = 0.000700 ms	MapMgrRunTime = 0.001200 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000700 ms
+[08-14 01:43:24]...GameRunTime = 0.286800 ms		MgrUnitRunTime = 0.284700 ms	ItemRunTime = 0.000600 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:43:35]...GameRunTime = 0.163800 ms		MgrUnitRunTime = 0.162600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:43:44]...GameRunTime = 0.184800 ms		MgrUnitRunTime = 0.183100 ms	ItemRunTime = 0.000500 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:43:55]...GameRunTime = 0.804300 ms		MgrUnitRunTime = 0.802900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:44:05]...GameRunTime = 0.139500 ms		MgrUnitRunTime = 0.137700 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:44:15]...GameRunTime = 0.132800 ms		MgrUnitRunTime = 0.131300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:44:23]!!!GameRunTime = 151.334900 ms		MgrUnitRunTime = 151.332600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000900 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000800 ms
+[08-14 01:44:33]...GameRunTime = 0.155900 ms		MgrUnitRunTime = 0.153800 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000800 ms
+[08-14 01:44:43]...GameRunTime = 0.092500 ms		MgrUnitRunTime = 0.090900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000600 ms
+[08-14 01:44:53]...GameRunTime = 0.244200 ms		MgrUnitRunTime = 0.241800 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000600 ms
+[08-14 01:45:03]...GameRunTime = 0.319200 ms		MgrUnitRunTime = 0.317600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:45:13]...GameRunTime = 0.375800 ms		MgrUnitRunTime = 0.374300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:45:17]!!!GameRunTime = 529.713900 ms		MgrUnitRunTime = 529.712000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:45:17]!!!GameRunTime = 365.156300 ms		MgrUnitRunTime = 365.110900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.044400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:45:17]fps = 9
+[08-14 01:45:27]...GameRunTime = 1.079400 ms		MgrUnitRunTime = 1.077100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001200 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:45:37]...GameRunTime = 0.122600 ms		MgrUnitRunTime = 0.113300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.008300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:45:47]...GameRunTime = 0.599000 ms		MgrUnitRunTime = 0.592500 ms	ItemRunTime = 0.002600 ms	MapMgrRunTime = 0.003300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:45:57]...GameRunTime = 0.132200 ms		MgrUnitRunTime = 0.131100 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:46:07]...GameRunTime = 0.460200 ms		MgrUnitRunTime = 0.458500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:46:17]...GameRunTime = 0.391000 ms		MgrUnitRunTime = 0.389100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:46:27]...GameRunTime = 0.754100 ms		MgrUnitRunTime = 0.752600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:46:37]...GameRunTime = 0.143200 ms		MgrUnitRunTime = 0.142000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:46:47]...GameRunTime = 0.203000 ms		MgrUnitRunTime = 0.201800 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:46:57]...GameRunTime = 0.178400 ms		MgrUnitRunTime = 0.176200 ms	ItemRunTime = 0.000700 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:47:07]...GameRunTime = 0.183800 ms		MgrUnitRunTime = 0.180700 ms	ItemRunTime = 0.000700 ms	MapMgrRunTime = 0.001400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:47:17]...GameRunTime = 0.199900 ms		MgrUnitRunTime = 0.198200 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:47:27]...GameRunTime = 0.113600 ms		MgrUnitRunTime = 0.112000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:47:37]...GameRunTime = 0.124500 ms		MgrUnitRunTime = 0.122700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:47:47]...GameRunTime = 0.348900 ms		MgrUnitRunTime = 0.347300 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:47:57]...GameRunTime = 0.180300 ms		MgrUnitRunTime = 0.178700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:48:07]...GameRunTime = 0.570400 ms		MgrUnitRunTime = 0.568500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:48:17]...GameRunTime = 0.303600 ms		MgrUnitRunTime = 0.302100 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:48:27]...GameRunTime = 0.255700 ms		MgrUnitRunTime = 0.253900 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:48:37]...GameRunTime = 0.524900 ms		MgrUnitRunTime = 0.522800 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:48:48]...GameRunTime = 0.367900 ms		MgrUnitRunTime = 0.366700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:48:58]...GameRunTime = 0.231700 ms		MgrUnitRunTime = 0.230000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:49:03]fps = 15
+[08-14 01:49:08]...GameRunTime = 0.119000 ms		MgrUnitRunTime = 0.116600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:49:18]...GameRunTime = 0.292400 ms		MgrUnitRunTime = 0.290200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:49:28]...GameRunTime = 0.126000 ms		MgrUnitRunTime = 0.124100 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:49:38]...GameRunTime = 0.108600 ms		MgrUnitRunTime = 0.107700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000100 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:49:39]fps = 14
+[08-14 01:49:40]fps = 14
+[08-14 01:49:43]fps = 15
+[08-14 01:49:44]fps = 15
+[08-14 01:49:48]...GameRunTime = 0.128200 ms		MgrUnitRunTime = 0.126300 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:49:58]...GameRunTime = 0.297600 ms		MgrUnitRunTime = 0.296300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:50:08]...GameRunTime = 0.121000 ms		MgrUnitRunTime = 0.119400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:50:11]fps = 12
+[08-14 01:50:12]fps = 12
+[08-14 01:50:13]fps = 13
+[08-14 01:50:13]!!!GameRunTime = 349.298000 ms		MgrUnitRunTime = 349.296500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:50:14]fps = 10
+[08-14 01:50:15]!!!GameRunTime = 905.817200 ms		MgrUnitRunTime = 905.815700 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:50:15]fps = 2
+[08-14 01:50:24]...GameRunTime = 0.380300 ms		MgrUnitRunTime = 0.379000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:50:34]...GameRunTime = 0.153900 ms		MgrUnitRunTime = 0.150400 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.002100 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000800 ms
+[08-14 01:50:44]...GameRunTime = 0.309300 ms		MgrUnitRunTime = 0.280800 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.027200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:50:48]fps = 12
+[08-14 01:50:50]fps = 14
+[08-14 01:50:52]fps = 15
+[08-14 01:50:53]fps = 14
+[08-14 01:50:54]...GameRunTime = 1.180200 ms		MgrUnitRunTime = 1.157100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.022300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:51:04]...GameRunTime = 0.302000 ms		MgrUnitRunTime = 0.275700 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.025600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:51:05]fps = 14
+[08-14 01:51:14]...GameRunTime = 0.138600 ms		MgrUnitRunTime = 0.127000 ms	ItemRunTime = 0.002000 ms	MapMgrRunTime = 0.008900 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:51:24]...GameRunTime = 1.193500 ms		MgrUnitRunTime = 1.192000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:51:34]...GameRunTime = 0.554800 ms		MgrUnitRunTime = 0.553900 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:51:42]fps = 12
+[08-14 01:51:43]fps = 12
+[08-14 01:51:44]fps = 14
+[08-14 01:51:44]...GameRunTime = 0.382400 ms		MgrUnitRunTime = 0.381100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:51:45]fps = 13
+[08-14 01:51:54]...GameRunTime = 0.292600 ms		MgrUnitRunTime = 0.291800 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000000 ms
+[08-14 01:51:54]fps = 13
+[08-14 01:51:55]fps = 13
+[08-14 01:51:56]fps = 14
+[08-14 01:52:01]fps = 12
+[08-14 01:52:03]fps = 9
+[08-14 01:52:04]...GameRunTime = 0.286700 ms		MgrUnitRunTime = 0.285600 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:52:08]fps = 9
+[08-14 01:52:09]fps = 12
+[08-14 01:52:10]fps = 14
+[08-14 01:52:11]fps = 15
+[08-14 01:52:12]fps = 9
+[08-14 01:52:14]...GameRunTime = 0.284500 ms		MgrUnitRunTime = 0.282800 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:52:17]fps = 13
+[08-14 01:52:24]...GameRunTime = 0.274900 ms		MgrUnitRunTime = 0.273300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:52:34]...GameRunTime = 0.400700 ms		MgrUnitRunTime = 0.396100 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.003500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:52:44]...GameRunTime = 0.239100 ms		MgrUnitRunTime = 0.234300 ms	ItemRunTime = 0.000400 ms	MapMgrRunTime = 0.003600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:52:54]...GameRunTime = 0.319500 ms		MgrUnitRunTime = 0.316000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.002700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000000 ms
+[08-14 01:53:04]...GameRunTime = 0.291300 ms		MgrUnitRunTime = 0.289200 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000900 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:53:14]...GameRunTime = 0.431200 ms		MgrUnitRunTime = 0.429900 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:53:24]...GameRunTime = 0.630300 ms		MgrUnitRunTime = 0.628800 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:53:34]...GameRunTime = 0.257700 ms		MgrUnitRunTime = 0.256000 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:53:44]...GameRunTime = 0.214200 ms		MgrUnitRunTime = 0.212800 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:53:54]...GameRunTime = 0.191600 ms		MgrUnitRunTime = 0.189600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:54:05]...GameRunTime = 0.182000 ms		MgrUnitRunTime = 0.181000 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:54:15]...GameRunTime = 0.180500 ms		MgrUnitRunTime = 0.179200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:54:25]...GameRunTime = 0.133200 ms		MgrUnitRunTime = 0.132000 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:54:35]...GameRunTime = 0.205900 ms		MgrUnitRunTime = 0.204500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:54:35]!!!GameRunTime = 479.899100 ms		MgrUnitRunTime = 479.893600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.004600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:54:35]fps = 11
+[08-14 01:54:45]fps = 15
+[08-14 01:54:45]...GameRunTime = 0.151700 ms		MgrUnitRunTime = 0.146200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.004900 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:54:55]...GameRunTime = 0.247500 ms		MgrUnitRunTime = 0.245900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:55:05]...GameRunTime = 0.182000 ms		MgrUnitRunTime = 0.180500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:55:15]...GameRunTime = 0.195100 ms		MgrUnitRunTime = 0.193900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:55:25]...GameRunTime = 0.159100 ms		MgrUnitRunTime = 0.157100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001200 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:55:28]fps = 15
+[08-14 01:55:29]fps = 13
+[08-14 01:55:31]fps = 14
+[08-14 01:55:32]fps = 13
+[08-14 01:55:33]fps = 13
+[08-14 01:55:34]fps = 11
+[08-14 01:55:35]fps = 11
+[08-14 01:55:35]...GameRunTime = 0.702000 ms		MgrUnitRunTime = 0.699000 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.001900 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:55:36]fps = 11
+[08-14 01:55:37]fps = 13
+[08-14 01:55:42]fps = 5
+[08-14 01:55:45]fps = 3
+[08-14 01:55:45]...GameRunTime = 0.451800 ms		MgrUnitRunTime = 0.449200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:55:46]fps = 13
+[08-14 01:55:47]!!!GameRunTime = 934.472500 ms		MgrUnitRunTime = 934.470800 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:55:48]fps = 3
+[08-14 01:55:55]!!!GameRunTime = 110.985400 ms		MgrUnitRunTime = 110.983500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000900 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 01:56:05]...GameRunTime = 0.157100 ms		MgrUnitRunTime = 0.155700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:56:15]...GameRunTime = 0.135100 ms		MgrUnitRunTime = 0.133900 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 01:56:25]...GameRunTime = 0.118700 ms		MgrUnitRunTime = 0.116600 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:56:35]...GameRunTime = 0.110300 ms		MgrUnitRunTime = 0.108500 ms	ItemRunTime = 0.000500 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:56:45]...GameRunTime = 0.178600 ms		MgrUnitRunTime = 0.176700 ms	ItemRunTime = 0.000500 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:56:55]...GameRunTime = 0.150700 ms		MgrUnitRunTime = 0.149500 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:57:05]...GameRunTime = 0.274700 ms		MgrUnitRunTime = 0.271300 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.002600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:57:15]...GameRunTime = 0.239700 ms		MgrUnitRunTime = 0.170500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.068500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:57:18]fps = 15
+[08-14 01:57:19]fps = 15
+[08-14 01:57:23]!!!GameRunTime = 1790.278400 ms		MgrUnitRunTime = 1790.277100 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:57:23]fps = 2
+[08-14 01:57:31]...GameRunTime = 1.304600 ms		MgrUnitRunTime = 1.302000 ms	ItemRunTime = 0.000400 ms	MapMgrRunTime = 0.001300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:57:41]...GameRunTime = 0.152900 ms		MgrUnitRunTime = 0.151700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:57:51]...GameRunTime = 0.220300 ms		MgrUnitRunTime = 0.218500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:57:58]fps = 15
+[08-14 01:58:01]...GameRunTime = 0.274800 ms		MgrUnitRunTime = 0.273300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:58:12]...GameRunTime = 0.242500 ms		MgrUnitRunTime = 0.241300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:58:22]...GameRunTime = 0.200300 ms		MgrUnitRunTime = 0.199100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:58:32]...GameRunTime = 0.153400 ms		MgrUnitRunTime = 0.151700 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:58:42]...GameRunTime = 0.169400 ms		MgrUnitRunTime = 0.168100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:58:52]...GameRunTime = 0.205200 ms		MgrUnitRunTime = 0.203800 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:59:02]...GameRunTime = 0.136700 ms		MgrUnitRunTime = 0.135000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:59:12]...GameRunTime = 0.142600 ms		MgrUnitRunTime = 0.141200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:59:22]...GameRunTime = 0.163200 ms		MgrUnitRunTime = 0.161900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 01:59:32]...GameRunTime = 0.205900 ms		MgrUnitRunTime = 0.203900 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 01:59:42]...GameRunTime = 0.175500 ms		MgrUnitRunTime = 0.174300 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 01:59:52]...GameRunTime = 0.166500 ms		MgrUnitRunTime = 0.164900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:00:02]...GameRunTime = 0.187600 ms		MgrUnitRunTime = 0.185600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001100 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:00:12]...GameRunTime = 0.168300 ms		MgrUnitRunTime = 0.167100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:00:22]...GameRunTime = 0.148400 ms		MgrUnitRunTime = 0.147100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:00:32]...GameRunTime = 0.738300 ms		MgrUnitRunTime = 0.736300 ms	ItemRunTime = 0.000500 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:00:42]...GameRunTime = 0.228900 ms		MgrUnitRunTime = 0.227100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 02:00:52]...GameRunTime = 0.161200 ms		MgrUnitRunTime = 0.159600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:01:02]...GameRunTime = 0.268400 ms		MgrUnitRunTime = 0.267000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:01:12]...GameRunTime = 0.132100 ms		MgrUnitRunTime = 0.129900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001100 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:01:22]...GameRunTime = 0.305500 ms		MgrUnitRunTime = 0.302200 ms	ItemRunTime = 0.000400 ms	MapMgrRunTime = 0.001800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 02:01:32]...GameRunTime = 0.310700 ms		MgrUnitRunTime = 0.309400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:01:42]...GameRunTime = 0.144700 ms		MgrUnitRunTime = 0.142900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:01:52]...GameRunTime = 0.429500 ms		MgrUnitRunTime = 0.418900 ms	ItemRunTime = 0.000600 ms	MapMgrRunTime = 0.008600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000700 ms
+[08-14 02:02:02]...GameRunTime = 0.329200 ms		MgrUnitRunTime = 0.327900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:02:12]...GameRunTime = 0.153400 ms		MgrUnitRunTime = 0.152200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:02:22]...GameRunTime = 0.144400 ms		MgrUnitRunTime = 0.143300 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:02:32]...GameRunTime = 0.800700 ms		MgrUnitRunTime = 0.797200 ms	ItemRunTime = 0.002100 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:02:42]!!!GameRunTime = 110.441700 ms		MgrUnitRunTime = 110.439700 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 02:02:52]...GameRunTime = 0.182600 ms		MgrUnitRunTime = 0.181400 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:03:02]...GameRunTime = 0.276800 ms		MgrUnitRunTime = 0.275400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:03:05]fps = 15
+[08-14 02:03:12]...GameRunTime = 0.306900 ms		MgrUnitRunTime = 0.305400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:03:22]...GameRunTime = 0.376100 ms		MgrUnitRunTime = 0.373900 ms	ItemRunTime = 0.000400 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:03:32]...GameRunTime = 0.253600 ms		MgrUnitRunTime = 0.250900 ms	ItemRunTime = 0.000400 ms	MapMgrRunTime = 0.001200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:03:42]...GameRunTime = 0.202100 ms		MgrUnitRunTime = 0.200800 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:03:52]...GameRunTime = 0.172700 ms		MgrUnitRunTime = 0.171100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:04:02]...GameRunTime = 0.164000 ms		MgrUnitRunTime = 0.162000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000500 ms
+[08-14 02:04:12]...GameRunTime = 0.268300 ms		MgrUnitRunTime = 0.267000 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000100 ms
+[08-14 02:04:22]...GameRunTime = 0.262600 ms		MgrUnitRunTime = 0.260900 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:04:32]...GameRunTime = 0.356500 ms		MgrUnitRunTime = 0.353900 ms	ItemRunTime = 0.000600 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:04:42]...GameRunTime = 0.185500 ms		MgrUnitRunTime = 0.183900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:04:52]...GameRunTime = 0.219800 ms		MgrUnitRunTime = 0.217800 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001000 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:05:02]...GameRunTime = 0.271100 ms		MgrUnitRunTime = 0.265400 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.004800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:05:12]...GameRunTime = 0.288000 ms		MgrUnitRunTime = 0.281400 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.005200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000600 ms
+[08-14 02:05:22]...GameRunTime = 0.496900 ms		MgrUnitRunTime = 0.495300 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:05:32]...GameRunTime = 0.163000 ms		MgrUnitRunTime = 0.161900 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000300 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:05:42]...GameRunTime = 0.176000 ms		MgrUnitRunTime = 0.174800 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:05:52]...GameRunTime = 0.303600 ms		MgrUnitRunTime = 0.302000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:06:02]...GameRunTime = 0.854300 ms		MgrUnitRunTime = 0.851000 ms	ItemRunTime = 0.002100 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000200 ms
+[08-14 02:06:12]...GameRunTime = 0.666600 ms		MgrUnitRunTime = 0.664900 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000500 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:06:22]...GameRunTime = 0.218900 ms		MgrUnitRunTime = 0.217300 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:06:32]...GameRunTime = 0.239100 ms		MgrUnitRunTime = 0.237200 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000900 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:06:42]...GameRunTime = 0.818300 ms		MgrUnitRunTime = 0.816600 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:06:52]...GameRunTime = 0.390900 ms		MgrUnitRunTime = 0.389000 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:07:02]...GameRunTime = 0.334600 ms		MgrUnitRunTime = 0.333800 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000000 ms
+[08-14 02:07:12]...GameRunTime = 1.549500 ms		MgrUnitRunTime = 1.548200 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:07:22]...GameRunTime = 0.178600 ms		MgrUnitRunTime = 0.177000 ms	ItemRunTime = 0.000300 ms	MapMgrRunTime = 0.000600 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:07:32]...GameRunTime = 0.174900 ms		MgrUnitRunTime = 0.173500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:07:42]...GameRunTime = 2.483800 ms		MgrUnitRunTime = 2.480400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.002000 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000600 ms
+[08-14 02:07:52]...GameRunTime = 0.660900 ms		MgrUnitRunTime = 0.659200 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000700 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms
+[08-14 02:08:02]...GameRunTime = 0.975000 ms		MgrUnitRunTime = 0.973100 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:08:12]...GameRunTime = 0.273800 ms		MgrUnitRunTime = 0.271400 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.001200 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:08:19]fps = 13
+[08-14 02:08:22]...GameRunTime = 0.131300 ms		MgrUnitRunTime = 0.129200 ms	ItemRunTime = 0.000100 ms	MapMgrRunTime = 0.000800 ms	DataStatisticTime = 0.000100 ms	SkillMgrRunTime = 0.000700 ms
+[08-14 02:08:32]...GameRunTime = 0.168900 ms		MgrUnitRunTime = 0.167500 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000400 ms
+[08-14 02:08:42]...GameRunTime = 0.189400 ms		MgrUnitRunTime = 0.187900 ms	ItemRunTime = 0.000200 ms	MapMgrRunTime = 0.000400 ms	DataStatisticTime = 0.000000 ms	SkillMgrRunTime = 0.000300 ms

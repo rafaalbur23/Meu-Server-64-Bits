@@ -1,0 +1,98 @@
+[10-14 22:20:43]GameServer= [26.226.131.160] come,Socket num= 1
+[10-14 22:20:43]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[10-14 22:20:43]not found [magicsea] map!!!
+[10-14 22:20:43]not found [jialebi] map!!!
+[10-14 22:20:43]not found [binglang2] map!!!
+[10-14 22:20:43]not found [leiting2] map!!!
+[10-14 22:20:43]not found [shalan2] map!!!
+[10-14 22:20:43]add GameServer [GameServer2] ok
+[10-14 22:20:43]add [GameServer2]  [magicsea] map ok
+[10-14 22:20:43]add [GameServer2]  [jialebi] map ok
+[10-14 22:20:43]add [GameServer2]  [binglang2] map ok
+[10-14 22:20:43]add [GameServer2]  [leiting2] map ok
+[10-14 22:20:43]add [GameServer2]  [shalan2] map ok
+[10-14 22:20:44]GameServer= [26.226.131.160] come,Socket num= 2
+[10-14 22:20:44]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;starena13;starena14;starena15;starena23;starena24;starena25;starena33;starena34;starena35;] total [12]
+[10-14 22:20:44]not found [darkblue] map!!!
+[10-14 22:20:44]not found [garner2] map!!!
+[10-14 22:20:44]not found [winterland] map!!!
+[10-14 22:20:44]not found [starena13] map!!!
+[10-14 22:20:44]not found [starena14] map!!!
+[10-14 22:20:44]not found [starena15] map!!!
+[10-14 22:20:44]not found [starena23] map!!!
+[10-14 22:20:44]not found [starena24] map!!!
+[10-14 22:20:44]not found [starena25] map!!!
+[10-14 22:20:44]not found [starena33] map!!!
+[10-14 22:20:44]not found [starena34] map!!!
+[10-14 22:20:44]not found [starena35] map!!!
+[10-14 22:20:44]add GameServer [GameServer3] ok
+[10-14 22:20:44]add [GameServer3]  [darkblue] map ok
+[10-14 22:20:44]add [GameServer3]  [garner2] map ok
+[10-14 22:20:44]add [GameServer3]  [winterland] map ok
+[10-14 22:20:44]add [GameServer3]  [starena13] map ok
+[10-14 22:20:44]add [GameServer3]  [starena14] map ok
+[10-14 22:20:44]add [GameServer3]  [starena15] map ok
+[10-14 22:20:44]add [GameServer3]  [starena23] map ok
+[10-14 22:20:44]add [GameServer3]  [starena24] map ok
+[10-14 22:20:44]add [GameServer3]  [starena25] map ok
+[10-14 22:20:44]add [GameServer3]  [starena33] map ok
+[10-14 22:20:44]add [GameServer3]  [starena34] map ok
+[10-14 22:20:44]add [GameServer3]  [starena35] map ok
+[10-14 22:20:46]GameServer= [26.226.131.160] come,Socket num= 3
+[10-14 22:20:46]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[10-14 22:20:46]not found [garner] map!!!
+[10-14 22:20:46]not found [DreamIsland] map!!!
+[10-14 22:20:46]not found [eastgoaf] map!!!
+[10-14 22:20:46]not found [lonetower] map!!!
+[10-14 22:20:46]not found [teampk] map!!!
+[10-14 22:20:46]add GameServer [GameServer1] ok
+[10-14 22:20:46]add [GameServer1]  [garner] map ok
+[10-14 22:20:46]add [GameServer1]  [DreamIsland] map ok
+[10-14 22:20:46]add [GameServer1]  [eastgoaf] map ok
+[10-14 22:20:46]add [GameServer1]  [lonetower] map ok
+[10-14 22:20:46]add [GameServer1]  [teampk] map ok
+[10-14 22:22:11]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:12]client: 26.226.131.160	login error, error:1104
+[10-14 22:22:13]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:16]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:17]client: 26.226.131.160	login error, error:1105
+[10-14 22:22:17]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:19]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:19]client: 26.226.131.160	login error, error:1105
+[10-14 22:22:19]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:22]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:22]client: 26.226.131.160	login error, error:1105
+[10-14 22:22:22]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:24]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:25]client: 26.226.131.160	login error, error:1105
+[10-14 22:22:25]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:27]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:27]client: 26.226.131.160	login error, error:1111
+[10-14 22:22:28]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:29]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:29]client: 26.226.131.160	login error, error:1111
+[10-14 22:22:29]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:37]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:37]client: 26.226.131.160	login error, error:522
+[10-14 22:22:37]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:39]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:39]client: 26.226.131.160	login error, error:522
+[10-14 22:22:39]client: 26.226.131.160 gone...Socket num: 0 ,reason=user login error.
+[10-14 22:22:41]client: 26.226.131.160	come...Socket num: 1
+[10-14 22:22:44]client: 26.226.131.160	login ok.
+[10-14 22:22:59]client: 26.226.131.160:51227	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:2485DCFD600
+[10-14 22:23:00]clinet: 26.226.131.160:51227	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:2A61C073048,Gate address:2485DCFD600
+[10-14 22:25:13]clinet: 26.226.131.160:51227	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:2A61C073048,Gate address:2485DCFD600
+[10-14 22:26:05]clinet: 26.226.131.160:51227	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:2A61C073048,Gate address:2485DCFD600
+[10-14 22:28:23]clinet: 26.226.131.160:51227	Switch to map,to Gate[26.226.131.160]send EnterMap command,dbid:16,Gate address:2485DCFD600
+[10-14 22:28:23]clinet: 26.226.131.160:51227	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:253B285B048,Gate address:2485DCFD600
+[10-14 22:40:02]client: 26.226.131.160:51227	GoOut map,Gate to [26.226.131.160]send GoOutMap command,dbid:16,Gate address:2485DCFD600,Game address:253B285B048
+[10-14 22:40:02]client: 26.226.131.160 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[10-14 23:40:41]client: 26.226.131.160	come...Socket num: 1
+[10-14 23:40:41]client: 26.226.131.160	login ok.
+[10-14 23:40:44]client: 26.226.131.160:52622	BeginPlay entry map,Gate to[26.226.131.160]send EnterMap command,dbid:16,Gate address:2485DCFD010
+[10-14 23:40:44]clinet: 26.226.131.160:52622	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:253B285B048,Gate address:2485DCFD010
+[10-14 23:41:00]clinet: 26.226.131.160:52622	Switch to map,to Gate[26.226.131.160]send EnterMap command,dbid:16,Gate address:2485DCFD010
+[10-14 23:41:00]clinet: 26.226.131.160:52622	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:253B285B048,Gate address:2485DCFD010
+[10-14 23:41:08]clinet: 26.226.131.160:52622	Switch to map,to Gate[26.226.131.160]send EnterMap command,dbid:16,Gate address:2485DCFD010
+[10-14 23:41:08]clinet: 26.226.131.160:52622	recieve Gate  from [26.226.131.160]success EnterMap command,Game address:253B285B048,Gate address:2485DCFD010

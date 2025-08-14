@@ -1,0 +1,5 @@
+[08-14 01:34:23]GateServer Connected! IP = [25.80.52.210] port = 2320
+[08-14 01:34:23]connect to  GateServer, ip = 25.80.52.210, port = 2320.1
+[08-14 01:34:23]ProcessData Gate_Connect
+[08-14 01:34:23]Exec OnGateConnected()
+[08-14 01:34:23][darkblue;garner2;winterland;kyjj_1;]

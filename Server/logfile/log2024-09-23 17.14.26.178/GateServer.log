@@ -1,0 +1,582 @@
+[09-23 12:40:13]client: 25.80.52.210	come...Socket num: 1
+[09-23 12:40:14]client: 25.80.52.210	login ok.
+[09-23 12:40:23]GameServer= [25.80.52.210] come,Socket num= 1
+[09-23 12:40:23]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[09-23 12:40:23]not found [magicsea] map!!!
+[09-23 12:40:23]not found [jialebi] map!!!
+[09-23 12:40:23]not found [binglang2] map!!!
+[09-23 12:40:23]not found [leiting2] map!!!
+[09-23 12:40:23]not found [shalan2] map!!!
+[09-23 12:40:23]add GameServer [GameServer2] ok
+[09-23 12:40:23]add [GameServer2]  [magicsea] map ok
+[09-23 12:40:23]add [GameServer2]  [jialebi] map ok
+[09-23 12:40:23]add [GameServer2]  [binglang2] map ok
+[09-23 12:40:23]add [GameServer2]  [leiting2] map ok
+[09-23 12:40:23]add [GameServer2]  [shalan2] map ok
+[09-23 12:40:23]GameServer= [25.80.52.210] come,Socket num= 2
+[09-23 12:40:23]recieve GameServer [GameServer3] map string [darkblue;garner2;mjing1;mjing2;mjing3;mjing4;winterland;] total [7]
+[09-23 12:40:23]not found [darkblue] map!!!
+[09-23 12:40:23]not found [garner2] map!!!
+[09-23 12:40:23]not found [mjing1] map!!!
+[09-23 12:40:23]not found [mjing2] map!!!
+[09-23 12:40:23]not found [mjing3] map!!!
+[09-23 12:40:23]not found [mjing4] map!!!
+[09-23 12:40:23]not found [winterland] map!!!
+[09-23 12:40:23]add GameServer [GameServer3] ok
+[09-23 12:40:23]add [GameServer3]  [darkblue] map ok
+[09-23 12:40:23]add [GameServer3]  [garner2] map ok
+[09-23 12:40:23]add [GameServer3]  [mjing1] map ok
+[09-23 12:40:23]add [GameServer3]  [mjing2] map ok
+[09-23 12:40:23]add [GameServer3]  [mjing3] map ok
+[09-23 12:40:23]add [GameServer3]  [mjing4] map ok
+[09-23 12:40:23]add [GameServer3]  [winterland] map ok
+[09-23 12:40:25]GameServer= [25.80.52.210] come,Socket num= 3
+[09-23 12:40:25]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-23 12:40:25]not found [garner] map!!!
+[09-23 12:40:25]not found [DreamIsland] map!!!
+[09-23 12:40:25]not found [eastgoaf] map!!!
+[09-23 12:40:25]not found [lonetower] map!!!
+[09-23 12:40:25]not found [teampk] map!!!
+[09-23 12:40:25]add GameServer [GameServer1] ok
+[09-23 12:40:25]add [GameServer1]  [garner] map ok
+[09-23 12:40:25]add [GameServer1]  [DreamIsland] map ok
+[09-23 12:40:25]add [GameServer1]  [eastgoaf] map ok
+[09-23 12:40:25]add [GameServer1]  [lonetower] map ok
+[09-23 12:40:25]add [GameServer1]  [teampk] map ok
+[09-23 12:42:24]client: 25.80.52.210:61211	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:2A7F70D9EC0
+[09-23 12:42:25]clinet: 25.80.52.210:61211	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1CA5A4CC048,Gate address:2A7F70D9EC0
+[09-23 12:42:27]client: 25.80.52.210 gone...Socket num: 0 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 12:42:27]client: 25.80.52.210:61211	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:2A7F70D9EC0,Game address:1CA5A4CC048
+[09-23 12:42:40]client: 25.80.52.210	come...Socket num: 1
+[09-23 12:42:41]client: 25.80.52.210	login ok.
+[09-23 12:42:43]client: 25.80.52.210:61293	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:2A7F70DA840
+[09-23 12:42:43]clinet: 25.80.52.210:61293	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1CA5A4CC048,Gate address:2A7F70DA840
+[09-23 12:45:25]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:27]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:27]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:45:29]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:31]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:31]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:45:33]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:35]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:35]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:45:37]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:39]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:39]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:45:41]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:43]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:43]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:45:45]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:47]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:47]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:45:49]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:51]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:51]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:45:53]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:55]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:55]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:45:57]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:45:59]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:45:59]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:46:01]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:46:03]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:46:03]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:46:05]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:46:07]client: 25.80.52.210	login error: client and server can't match!
+[09-23 12:46:07]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:46:09]client: 25.80.52.210:61293	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:2A7F70DA840,Game address:1CA5A4CC048
+[09-23 12:46:09]client: 25.80.52.210 gone...Socket num: 0 ,reason=user has logged out.
+[09-23 12:46:09]client: 25.80.52.210	come...Socket num: 1
+[09-23 12:46:11]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 12:46:18]GameServer= [25.80.52.210] gone,Socket num= 3,reason= 远程主机强迫关闭了一个现有的连接。
+[09-23 12:46:18] delete [GameServer3]
+[09-23 12:46:18]delete map [darkblue]
+[09-23 12:46:18]delete map [garner2]
+[09-23 12:46:18]delete map [mjing1]
+[09-23 12:46:18]delete map [mjing2]
+[09-23 12:46:18]delete map [mjing3]
+[09-23 12:46:18]delete map [mjing4]
+[09-23 12:46:18]delete map [winterland]
+[09-23 12:46:18]becaulse GameServer trouble, notice 0 user offline
+[09-23 12:46:18]GameServer= [25.80.52.210] gone,Socket num= 2,reason= 远程主机强迫关闭了一个现有的连接。
+[09-23 12:46:18] delete [GameServer2]
+[09-23 12:46:18]delete map [magicsea]
+[09-23 12:46:18]delete map [jialebi]
+[09-23 12:46:18]delete map [binglang2]
+[09-23 12:46:18]delete map [leiting2]
+[09-23 12:46:18]delete map [shalan2]
+[09-23 12:46:18]becaulse GameServer trouble, notice 0 user offline
+[09-23 12:46:18]GameServer= [25.80.52.210] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[09-23 12:46:18] delete [GameServer1]
+[09-23 12:46:18]delete map [garner]
+[09-23 12:46:18]delete map [DreamIsland]
+[09-23 12:46:18]delete map [eastgoaf]
+[09-23 12:46:18]delete map [lonetower]
+[09-23 12:46:18]delete map [teampk]
+[09-23 12:46:18]becaulse GameServer trouble, notice 0 user offline
+[09-23 12:50:07]client: 25.80.52.210	come...Socket num: 1
+[09-23 12:50:07]GameServer= [25.80.52.210] come,Socket num= 1
+[09-23 12:50:07]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-23 12:50:07]not found [garner] map!!!
+[09-23 12:50:07]not found [DreamIsland] map!!!
+[09-23 12:50:07]not found [eastgoaf] map!!!
+[09-23 12:50:07]not found [lonetower] map!!!
+[09-23 12:50:07]not found [teampk] map!!!
+[09-23 12:50:07]add GameServer [GameServer1] ok
+[09-23 12:50:07]add [GameServer1]  [garner] map ok
+[09-23 12:50:07]add [GameServer1]  [DreamIsland] map ok
+[09-23 12:50:07]add [GameServer1]  [eastgoaf] map ok
+[09-23 12:50:07]add [GameServer1]  [lonetower] map ok
+[09-23 12:50:07]add [GameServer1]  [teampk] map ok
+[09-23 12:50:09]client: 25.80.52.210	login ok.
+[09-23 12:50:11]client: 25.80.52.210:61466	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBC269B10
+[09-23 12:50:11]clinet: 25.80.52.210:61466	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBC269B10
+[09-23 12:50:27]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:50:29]client: 25.80.52.210	login error, error:1001
+[09-23 12:50:29]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:50:31]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:50:33]client: 25.80.52.210	login error, error:1001
+[09-23 12:50:33]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:50:35]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:50:37]client: 25.80.52.210	login error, error:1001
+[09-23 12:50:37]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:50:39]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:50:41]client: 25.80.52.210	login error, error:1001
+[09-23 12:50:41]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:50:43]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:50:45]client: 25.80.52.210	login error, error:1111
+[09-23 12:50:45]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:50:47]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:50:49]client: 25.80.52.210	login error, error:1111
+[09-23 12:50:49]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:50:51]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:50:53]client: 25.80.52.210	login error, error:1111
+[09-23 12:50:53]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:50:55]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:50:57]client: 25.80.52.210	login error, error:1111
+[09-23 12:50:57]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:50:59]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:51:01]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:01]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:51:03]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:51:05]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:05]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:51:10]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:51:11]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:11]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:51:39]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:51:41]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:41]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:51:48]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:51:49]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:51:50]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:50]client: 25.80.52.210 gone...Socket num: 2 ,reason=user login error.
+[09-23 12:51:50]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:50]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:51:52]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:51:53]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:51:54]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:54]client: 25.80.52.210 gone...Socket num: 2 ,reason=user login error.
+[09-23 12:51:54]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:54]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:51:57]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:51:57]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:51:58]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:58]client: 25.80.52.210	login error, error:1111
+[09-23 12:51:58]client: 25.80.52.210 gone...Socket num: 2 ,reason=user login error.
+[09-23 12:51:58]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:52:01]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:52:01]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:52:02]client: 25.80.52.210	login error, error:1111
+[09-23 12:52:02]client: 25.80.52.210	login error, error:1111
+[09-23 12:52:02]client: 25.80.52.210 gone...Socket num: 2 ,reason=user login error.
+[09-23 12:52:02]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:52:05]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:52:05]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:52:06]client: 25.80.52.210	login error, error:1111
+[09-23 12:52:06]client: 25.80.52.210	login error, error:1111
+[09-23 12:52:06]client: 25.80.52.210 gone...Socket num: 2 ,reason=user login error.
+[09-23 12:52:06]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:52:09]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:52:09]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:52:11]client: 25.80.52.210	login error, error:522
+[09-23 12:52:11]client: 25.80.52.210	login error, error:522
+[09-23 12:52:11]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:52:11]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:52:13]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:52:13]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:52:15]client: 25.80.52.210	login error, error:1001
+[09-23 12:52:15]client: 25.80.52.210 gone...Socket num: 2 ,reason=user login error.
+[09-23 12:52:16]client: 25.80.52.210	login ok.
+[09-23 12:52:17]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:52:19]client: 25.80.52.210	login error, error:1001
+[09-23 12:52:19]client: 25.80.52.210 gone...Socket num: 2 ,reason=user login error.
+[09-23 12:52:21]client: 25.80.52.210:61540	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:19,Gate address:17FBCA1E240
+[09-23 12:52:21]clinet: 25.80.52.210:61540	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F561AD0,Gate address:17FBCA1E240
+[09-23 12:52:21]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:52:23]client: 25.80.52.210	login error, error:1001
+[09-23 12:52:23]client: 25.80.52.210 gone...Socket num: 2 ,reason=user login error.
+[09-23 12:52:40]client: 25.80.52.210 gone...Socket num: 1 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 12:52:40]client: 25.80.52.210:61540	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:19,Gate address:17FBCA1E240,Game address:2C01F561AD0
+[09-23 12:53:15]client: 25.80.52.210:61466	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBC269B10,Game address:2C01F55E048
+[09-23 12:53:15]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 12:53:18]client: 25.80.52.210	come...Socket num: 1
+[09-23 12:53:18]client: 25.80.52.210	login ok.
+[09-23 12:53:20]client: 25.80.52.210:61562	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA1DEB0
+[09-23 12:53:20]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 12:53:24]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:53:25]client: 25.80.52.210	login error, error:1111
+[09-23 12:53:26]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:53:28]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:53:29]client: 25.80.52.210	login error, error:1111
+[09-23 12:53:30]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:53:32]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:53:34]client: 25.80.52.210	login error, error:1111
+[09-23 12:53:34]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:53:36]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:53:38]client: 25.80.52.210	login error, error:1111
+[09-23 12:53:38]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:53:40]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:53:42]client: 25.80.52.210	login error, error:1111
+[09-23 12:53:42]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:53:57]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:53:59]client: 25.80.52.210	login error, error:1111
+[09-23 12:53:59]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:54:01]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:54:03]client: 25.80.52.210	login error, error:1111
+[09-23 12:54:03]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:54:05]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:54:07]client: 25.80.52.210	login error, error:1111
+[09-23 12:54:07]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:54:09]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:54:11]client: 25.80.52.210	login error, error:1111
+[09-23 12:54:11]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:54:13]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:54:15]client: 25.80.52.210	login error, error:1111
+[09-23 12:54:15]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:54:17]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:54:19]client: 25.80.52.210	login error, error:1111
+[09-23 12:54:19]client: 25.80.52.210 gone...Socket num: 1 ,reason=user login error.
+[09-23 12:55:03]client: 25.80.52.210	come...Socket num: 2
+[09-23 12:55:06]client: 25.80.52.210	login ok.
+[09-23 12:55:10]client: 25.80.52.210:61607	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:20,Gate address:17FBCA20380
+[09-23 12:55:10]clinet: 25.80.52.210:61607	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F561AD0,Gate address:17FBCA20380
+[09-23 12:55:24]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 12:57:51]client: 25.80.52.210	come...Socket num: 3
+[09-23 12:57:52]client: 25.80.52.210	come...Socket num: 4
+[09-23 12:57:52]client: 25.80.52.210	come...Socket num: 5
+[09-23 12:57:53]client: 25.80.52.210	login ok.
+[09-23 12:57:55]client: 25.80.52.210	login ok.
+[09-23 12:57:55]client: 25.80.52.210	come...Socket num: 6
+[09-23 12:57:55]client: 25.80.52.210	login ok.
+[09-23 12:57:57]client: 25.80.52.210	come...Socket num: 7
+[09-23 12:57:57]client: 25.80.52.210	login ok.
+[09-23 12:57:57]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:57:57]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:57:57]client: 25.80.52.210:61651	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:21,Gate address:17FBCA211C0
+[09-23 12:57:57]clinet: 25.80.52.210:61651	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F565558,Gate address:17FBCA211C0
+[09-23 12:57:59]client: 25.80.52.210	login error, error:1111
+[09-23 12:57:59]client: 25.80.52.210	login error, error:1111
+[09-23 12:57:59]client: 25.80.52.210 gone...Socket num: 8 ,reason=user login error.
+[09-23 12:57:59]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:57:59]client: 25.80.52.210:61654	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:22,Gate address:17FBCA21420
+[09-23 12:57:59]clinet: 25.80.52.210:61654	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F568FE0,Gate address:17FBCA21420
+[09-23 12:57:59]client: 25.80.52.210:61655	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:23,Gate address:17FBCA20970
+[09-23 12:57:59]client: 25.80.52.210	login ok.
+[09-23 12:57:59]clinet: 25.80.52.210:61655	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F56CA68,Gate address:17FBCA20970
+[09-23 12:58:01]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:01]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:03]client: 25.80.52.210:61656	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:24,Gate address:17FBCA21090
+[09-23 12:58:03]clinet: 25.80.52.210:61656	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F5704F0,Gate address:17FBCA21090
+[09-23 12:58:03]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:03]client: 25.80.52.210 gone...Socket num: 8 ,reason=user login error.
+[09-23 12:58:03]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:03]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:04]client: 25.80.52.210:61657	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:25,Gate address:17FBCA20710
+[09-23 12:58:04]clinet: 25.80.52.210:61657	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F573F78,Gate address:17FBCA20710
+[09-23 12:58:06]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:06]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:08]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:08]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:08]client: 25.80.52.210 gone...Socket num: 8 ,reason=user login error.
+[09-23 12:58:08]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:10]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:10]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:12]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:13]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:13]client: 25.80.52.210 gone...Socket num: 8 ,reason=user login error.
+[09-23 12:58:13]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:15]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:15]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:17]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:17]client: 25.80.52.210 gone...Socket num: 8 ,reason=user login error.
+[09-23 12:58:17]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:17]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:20]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:20]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:22]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:22]client: 25.80.52.210 gone...Socket num: 8 ,reason=user login error.
+[09-23 12:58:22]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:22]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:25]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:25]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:27]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:27]client: 25.80.52.210 gone...Socket num: 8 ,reason=user login error.
+[09-23 12:58:27]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:27]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:37]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:37]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:39]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:39]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:39]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:39]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:42]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:42]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:44]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:44]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:44]client: 25.80.52.210 gone...Socket num: 8 ,reason=user login error.
+[09-23 12:58:44]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:46]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:46]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:47]client: 25.80.52.210	come...Socket num: 10
+[09-23 12:58:57]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:57]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:57]client: 25.80.52.210	login error, error:1111
+[09-23 12:58:57]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:57]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:57]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:58:59]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:58:59]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:58:59]client: 25.80.52.210	come...Socket num: 10
+[09-23 12:59:03]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:03]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:03]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:03]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:03]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:03]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:05]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:59:05]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:59:05]client: 25.80.52.210	come...Socket num: 10
+[09-23 12:59:07]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:07]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:07]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:07]client: 25.80.52.210 gone...Socket num: 9 ,reason=user login error.
+[09-23 12:59:07]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:07]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:09]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:59:09]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:59:10]client: 25.80.52.210	come...Socket num: 10
+[09-23 12:59:11]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:11]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:11]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:12]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:12]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:12]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:14]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:59:14]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:59:14]client: 25.80.52.210	come...Socket num: 10
+[09-23 12:59:21]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:21]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:21]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:21]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:21]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:21]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:23]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:59:23]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:59:23]client: 25.80.52.210	come...Socket num: 10
+[09-23 12:59:25]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:25]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:25]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:26]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:26]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:26]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:28]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:59:28]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:59:28]client: 25.80.52.210	come...Socket num: 10
+[09-23 12:59:32]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:32]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:32]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:32]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:32]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:32]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:34]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:59:34]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:59:34]client: 25.80.52.210	come...Socket num: 10
+[09-23 12:59:45]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:45]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:45]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:45]client: 25.80.52.210 gone...Socket num: 7 ,reason=网络被对方正常关闭。
+[09-23 12:59:45]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:45]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:51]client: 25.80.52.210	come...Socket num: 8
+[09-23 12:59:51]client: 25.80.52.210	come...Socket num: 9
+[09-23 12:59:53]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:53]client: 25.80.52.210	login error, error:1111
+[09-23 12:59:53]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 12:59:53]client: 25.80.52.210 gone...Socket num: 7 ,reason=user login error.
+[09-23 13:00:28]client: 25.80.52.210	come...Socket num: 8
+[09-23 13:00:46]client: 25.80.52.210	login ok.
+[09-23 13:00:48]client: 25.80.52.210:61754	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:14,Gate address:17FBCA24990
+[09-23 13:00:49]clinet: 25.80.52.210:61754	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F577A00,Gate address:17FBCA24990
+[09-23 13:01:21]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 13:01:35]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 13:02:07]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 13:02:27]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 13:02:39]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 13:03:51]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 13:03:52]client: 25.80.52.210	come...Socket num: 9
+[09-23 13:03:52]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 13:03:54]client: 25.80.52.210	login ok.
+[09-23 13:03:55]client: 25.80.52.210:61851	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:17,Gate address:17FBCA23B50
+[09-23 13:03:55]clinet: 25.80.52.210:61851	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F57B488,Gate address:17FBCA23B50
+[09-23 13:04:00]clinet: 25.80.52.210:61562	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA1DEB0
+[09-23 13:05:33]client: 25.80.52.210	come...Socket num: 10
+[09-23 13:05:36]client: 25.80.52.210	login ok.
+[09-23 13:05:37]client: 25.80.52.210:61875	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:12,Gate address:17FBCA24140
+[09-23 13:05:37]clinet: 25.80.52.210:61875	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F57EF10,Gate address:17FBCA24140
+[09-23 13:05:39]client: 25.80.52.210 gone...Socket num: 9 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 13:05:39]client: 25.80.52.210:61562	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA1DEB0,Game address:2C01F55E048
+[09-23 13:06:28]client: 25.80.52.210	come...Socket num: 10
+[09-23 13:06:29]client: 25.80.52.210	login ok.
+[09-23 13:06:30]client: 25.80.52.210:61893	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:13,Gate address:17FBCA26610
+[09-23 13:06:31]clinet: 25.80.52.210:61893	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA26610
+[09-23 13:06:45]client: 25.80.52.210	come...Socket num: 11
+[09-23 13:06:47]client: 25.80.52.210	login ok.
+[09-23 13:06:49]client: 25.80.52.210:61896	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:3,Gate address:17FBCA24F80
+[09-23 13:06:49]clinet: 25.80.52.210:61896	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F582998,Gate address:17FBCA24F80
+[09-23 13:07:41]client: 25.80.52.210	come...Socket num: 12
+[09-23 13:07:43]client: 25.80.52.210	login ok.
+[09-23 13:07:44]client: 25.80.52.210:61925	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:5,Gate address:17FBCA270C0
+[09-23 13:07:44]clinet: 25.80.52.210:61925	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F586420,Gate address:17FBCA270C0
+[09-23 13:07:54]client: 25.80.52.210:61893	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:13,Gate address:17FBCA26610,Game address:2C01F55E048
+[09-23 13:07:54]client: 25.80.52.210 gone...Socket num: 11 ,reason=网络被对方正常关闭。
+[09-23 13:08:00]client: 25.80.52.210	come...Socket num: 12
+[09-23 13:08:01]client: 25.80.52.210	login ok.
+[09-23 13:08:03]client: 25.80.52.210:61930	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA23690
+[09-23 13:08:03]clinet: 25.80.52.210:61930	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA23690
+[09-23 13:08:15]client: 25.80.52.210 gone...Socket num: 11 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 13:08:15]client: 25.80.52.210:61930	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA23690,Game address:2C01F55E048
+[09-23 13:08:34]client: 25.80.52.210	come...Socket num: 12
+[09-23 13:08:35]client: 25.80.52.210	login ok.
+[09-23 13:08:37]client: 25.80.52.210:61940	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA27450
+[09-23 13:08:37]clinet: 25.80.52.210:61940	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA27450
+[09-23 13:08:42]clinet: 25.80.52.210:61940	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA27450
+[09-23 13:08:42]clinet: 25.80.52.210:61940	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA27450
+[09-23 13:08:48]clinet: 25.80.52.210:61940	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA27450
+[09-23 13:08:48]clinet: 25.80.52.210:61940	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA27450
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 11 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61607	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:20,Gate address:17FBCA20380,Game address:2C01F561AD0
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 10 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61657	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:25,Gate address:17FBCA20710,Game address:2C01F573F78
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 9 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61655	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:23,Gate address:17FBCA20970,Game address:2C01F56CA68
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 7 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 7 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61654	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:22,Gate address:17FBCA21420,Game address:2C01F568FE0
+[09-23 14:10:37]client: 25.80.52.210:61656	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:24,Gate address:17FBCA21090,Game address:2C01F5704F0
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 6 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61651	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:21,Gate address:17FBCA211C0,Game address:2C01F565558
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 5 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61754	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:14,Gate address:17FBCA24990,Game address:2C01F577A00
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 1 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 1 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61896	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:3,Gate address:17FBCA24F80,Game address:2C01F582998
+[09-23 14:10:37]client: 25.80.52.210:61851	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:17,Gate address:17FBCA23B50,Game address:2C01F57B488
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 1 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61925	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:5,Gate address:17FBCA270C0,Game address:2C01F586420
+[09-23 14:10:37]client: 25.80.52.210 gone...Socket num: 1 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-23 14:10:37]client: 25.80.52.210:61875	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:12,Gate address:17FBCA24140,Game address:2C01F57EF10
+[09-23 14:11:20]client: 25.80.52.210:61940	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA27450,Game address:2C01F55E048
+[09-23 14:11:20]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 14:56:36]client: 25.80.52.210	come...Socket num: 1
+[09-23 14:56:36]client: 25.80.52.210	login ok.
+[09-23 14:56:42]client: 25.80.52.210:63634	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA250B0
+[09-23 14:56:42]clinet: 25.80.52.210:63634	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA250B0
+[09-23 14:56:58]client: 25.80.52.210:63634	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA250B0,Game address:2C01F55E048
+[09-23 14:56:58]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 14:58:24]client: 25.80.52.210	come...Socket num: 1
+[09-23 14:58:25]client: 25.80.52.210	login ok.
+[09-23 14:58:26]client: 25.80.52.210:63659	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA26870
+[09-23 14:58:26]clinet: 25.80.52.210:63659	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA26870
+[09-23 14:59:28]client: 25.80.52.210:63659	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA26870,Game address:2C01F55E048
+[09-23 14:59:28]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 14:59:35]client: 25.80.52.210	come...Socket num: 1
+[09-23 14:59:36]client: 25.80.52.210	login ok.
+[09-23 14:59:37]client: 25.80.52.210:63680	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA24AC0
+[09-23 14:59:37]clinet: 25.80.52.210:63680	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA24AC0
+[09-23 15:01:01]client: 25.80.52.210:63680	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA24AC0,Game address:2C01F55E048
+[09-23 15:01:01]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 15:01:09]client: 25.80.52.210	come...Socket num: 1
+[09-23 15:01:10]client: 25.80.52.210	login ok.
+[09-23 15:01:11]client: 25.80.52.210:63712	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA269A0
+[09-23 15:01:11]clinet: 25.80.52.210:63712	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA269A0
+[09-23 15:02:22]client: 25.80.52.210:63712	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA269A0,Game address:2C01F55E048
+[09-23 15:02:22]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 15:05:51]client: 25.80.52.210	come...Socket num: 1
+[09-23 15:05:52]client: 25.80.52.210	login ok.
+[09-23 15:05:54]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 15:07:17]client: 25.80.52.210	come...Socket num: 1
+[09-23 15:07:18]client: 25.80.52.210	login ok.
+[09-23 15:07:20]client: 25.80.52.210:63800	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA26E60
+[09-23 15:07:20]clinet: 25.80.52.210:63800	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA26E60
+[09-23 15:07:48]client: 25.80.52.210:63800	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA26E60,Game address:2C01F55E048
+[09-23 15:07:48]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 15:08:34]client: 25.80.52.210	come...Socket num: 1
+[09-23 15:08:34]client: 25.80.52.210	login ok.
+[09-23 15:08:36]client: 25.80.52.210:63824	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA251E0
+[09-23 15:08:36]clinet: 25.80.52.210:63824	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA251E0
+[09-23 15:13:56]client: 25.80.52.210:63824	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA251E0,Game address:2C01F55E048
+[09-23 15:13:56]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 15:14:02]client: 25.80.52.210	come...Socket num: 1
+[09-23 15:14:03]client: 25.80.52.210	login ok.
+[09-23 15:14:04]client: 25.80.52.210:63931	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA271F0
+[09-23 15:14:04]clinet: 25.80.52.210:63931	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA271F0
+[09-23 15:14:26]client: 25.80.52.210:63931	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA271F0,Game address:2C01F55E048
+[09-23 15:14:26]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 15:15:23]client: 25.80.52.210	come...Socket num: 1
+[09-23 15:15:24]client: 25.80.52.210	login ok.
+[09-23 15:15:25]client: 25.80.52.210:63953	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA23A20
+[09-23 15:15:25]clinet: 25.80.52.210:63953	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA23A20
+[09-23 15:15:32]client: 25.80.52.210:63953	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA23A20,Game address:2C01F55E048
+[09-23 15:15:32]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 15:20:54]client: 25.80.52.210	come...Socket num: 1
+[09-23 15:20:55]client: 25.80.52.210	login ok.
+[09-23 15:20:56]client: 25.80.52.210:64065	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA25310
+[09-23 15:20:56]clinet: 25.80.52.210:64065	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA25310
+[09-23 15:34:44]client: 25.80.52.210:64065	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA25310,Game address:2C01F55E048
+[09-23 15:34:44]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 15:34:54]client: 25.80.52.210	come...Socket num: 1
+[09-23 15:34:55]client: 25.80.52.210	login ok.
+[09-23 15:34:57]client: 25.80.52.210:64458	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA26C00
+[09-23 15:34:57]clinet: 25.80.52.210:64458	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA26C00
+[09-23 16:40:39]client: 25.80.52.210:64458	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA26C00,Game address:2C01F55E048
+[09-23 16:40:39]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 16:41:17]client: 25.80.52.210	come...Socket num: 1
+[09-23 16:41:18]client: 25.80.52.210	login ok.
+[09-23 16:41:20]client: 25.80.52.210:6579	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA24010
+[09-23 16:41:20]clinet: 25.80.52.210:6579	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA24010
+[09-23 16:49:38]client: 25.80.52.210:6579	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA24010,Game address:2C01F55E048
+[09-23 16:49:38]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-23 16:50:34]client: 25.80.52.210	come...Socket num: 1
+[09-23 16:50:35]client: 25.80.52.210	login ok.
+[09-23 16:50:36]client: 25.80.52.210:7749	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:17FBCA25DC0
+[09-23 16:50:36]clinet: 25.80.52.210:7749	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2C01F55E048,Gate address:17FBCA25DC0
+[09-23 17:08:49]client: 25.80.52.210	come...Socket num: 2
+[09-23 17:09:29]client: 25.80.52.210 gone...Socket num: 1 ,reason=网络被对方正常关闭。
+[09-23 17:11:05]client: 25.80.52.210:7749	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:17FBCA25DC0,Game address:2C01F55E048
+[09-23 17:11:05]client: 25.80.52.210 gone...Socket num: 0 ,reason=user has logged out.
+[09-23 17:12:45]GameServer= [25.80.52.210] come,Socket num= 1
+[09-23 17:12:45]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-23 17:12:45]not found [garner] map!!!
+[09-23 17:12:45]not found [DreamIsland] map!!!
+[09-23 17:12:45]not found [eastgoaf] map!!!
+[09-23 17:12:45]not found [lonetower] map!!!
+[09-23 17:12:45]not found [teampk] map!!!
+[09-23 17:12:45]add GameServer [GameServer1] ok
+[09-23 17:12:45]add [GameServer1]  [garner] map ok
+[09-23 17:12:45]add [GameServer1]  [DreamIsland] map ok
+[09-23 17:12:45]add [GameServer1]  [eastgoaf] map ok
+[09-23 17:12:45]add [GameServer1]  [lonetower] map ok
+[09-23 17:12:45]add [GameServer1]  [teampk] map ok
+[09-23 17:13:26]client: 25.80.52.210	come...Socket num: 1
+[09-23 17:14:00]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。

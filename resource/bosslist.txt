@@ -1,0 +1,16 @@
+//id	name	level	coordinates	map
+1	Little Squidy Captain	5	2287,2555	Ascaron
+2	Strong Little Deer	7	1126,314	Deep Blue
+3	Aberrance Hopping Lizard	10	933,3307	Magical Ocean
+4	Vampiric Elk	14	860,352	Deep Blue
+5	Snowy Snail Monarch	19	672,327	Deep Blue
+6	Smuggler Leader	20	1624,3017	Ascaron
+7	Ancient Sandy Tortoise	21	1240,3220	Magical Ocean
+8	Violent Air Porky	23	1414,2896	Ascaron
+9	Man-Eating Spider Queen	27	1099,2959	Magical Ocean
+10	Berserk Mad Boar	30	865,2971	Ascaron
+11	Grassland Wolf Champion	33	1143,2705	Ascaron
+12	Fearsome Skeletal Archer	36	2213,435	Deep Blue
+13	Elite Tempest Sea Jelly	36	1972,3124	Magical Ocean
+14	Malicious Azure Siren	40	3050,400	Ascaron
+15	Aberrance Blood Polliwog	55	3584,3758	Deep Blue

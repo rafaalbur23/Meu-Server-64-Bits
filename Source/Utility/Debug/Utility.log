@@ -1,0 +1,44 @@
+﻿  SehException.cpp
+  algo.cpp
+  bill.cpp
+  CPerformance.cpp
+  db.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(24,15): warning C4101: 'szPath': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(23,15): warning C4101: 'bMiniDumpSuccessful': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(31,35): warning C4101: 'ExpParam': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(29,17): warning C4101: 'hDumpFile': variável local não referenciada
+  db3.cpp
+  ErrorReport.cpp
+  LanguageRecord.cpp
+  LicenseManager.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(15,1): warning C4005: 'LOG_UTIL_DB_ENABLE': redefinição de macro
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(13,1):
+  consulte a definição anterior de 'LOG_UTIL_DB_ENABLE'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(2195,17): warning C4101: 'time_2': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(2195,9): warning C4101: 'time_1': variável local não referenciada
+  log.cpp
+  log2.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(1862,14): warning C4305: 'argumento': truncamento de 'int' para 'bool'
+  logutil.cpp
+  MapDataVer.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(63): warning C4715: 'LicenseManager::verifyLicense': nem todos os caminhos de controle retornam um valor
+  MapUtil.cpp
+  MyMemory.cpp
+  packet.cpp
+  pch.cpp
+  playsound.cpp
+  PrivilegeCheck.cpp
+  SectionData.cpp
+  sym_engine.cpp
+  util2.cpp
+  Win32Guid.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(552,48): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(553,55): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(556,19): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\util2.cpp(429,71): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\util2.cpp(429,71):
+  espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 2 foram fornecidos
+  
+  md5c.c
+  Utility.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\x86\Debug\Utility_x86.lib

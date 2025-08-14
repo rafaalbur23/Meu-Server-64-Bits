@@ -1,0 +1,1 @@
+start GameServer_x64_Release.exe GameServer3.cfg

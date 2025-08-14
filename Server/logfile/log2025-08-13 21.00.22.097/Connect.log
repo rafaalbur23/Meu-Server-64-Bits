@@ -1,0 +1,15 @@
+[07-06 23:05:06]begin connect database
+[07-06 23:05:06]begin init AccountServer connect
+[07-06 23:05:06]AccountServer:25.80.52.210,2321come ! Socket num:1
+[07-06 23:05:06]begin read GroupServer.cfg
+[07-06 23:05:06]begin load ChaNameFilter.txt
+[07-06 23:05:06]begin listen port:2322
+[07-06 23:05:06]open listen port:2322success, init is ok
+[07-06 23:05:07]Conencting to GroupServer...
+[07-06 23:05:07]GateServer:25.80.52.210,16938come ! Socket num:2
+[07-06 23:05:07]connect GroupServer: 25.80.52.210,Socket num:1
+[07-06 23:05:07]GateServer:25.80.52.210,16938TP_LOGIN1
+[07-06 23:05:07]GateServer:25.80.52.210,16938TP_LOGIN2
+[07-06 23:05:07]GateServer:25.80.52.210,16938TP_LOGIN3
+[07-06 23:05:07]Successfully logged into GroupServer!
+[07-07 15:37:12]disconnection with GroupServer,Socket num: 0,reason =远程主机强迫关闭了一个现有的连接。, reconnecting...

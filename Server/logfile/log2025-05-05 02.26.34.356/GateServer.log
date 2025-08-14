@@ -1,0 +1,93 @@
+[05-05 02:23:33]GameServer= [25.80.52.210] come,Socket num= 1
+[05-05 02:23:33]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;Hellchapter;] total [7]
+[05-05 02:23:33]not found [abandonedcity] map!!!
+[05-05 02:23:33]not found [abandonedcity2] map!!!
+[05-05 02:23:33]not found [abandonedcity3] map!!!
+[05-05 02:23:33]not found [darkswamp] map!!!
+[05-05 02:23:33]not found [puzzleworld] map!!!
+[05-05 02:23:33]not found [puzzleworld2] map!!!
+[05-05 02:23:33]not found [Hellchapter] map!!!
+[05-05 02:23:33]add GameServer [GameServer4] ok
+[05-05 02:23:33]add [GameServer4]  [abandonedcity] map ok
+[05-05 02:23:33]add [GameServer4]  [abandonedcity2] map ok
+[05-05 02:23:33]add [GameServer4]  [abandonedcity3] map ok
+[05-05 02:23:33]add [GameServer4]  [darkswamp] map ok
+[05-05 02:23:33]add [GameServer4]  [puzzleworld] map ok
+[05-05 02:23:33]add [GameServer4]  [puzzleworld2] map ok
+[05-05 02:23:33]add [GameServer4]  [Hellchapter] map ok
+[05-05 02:23:33]GameServer= [25.80.52.210] come,Socket num= 2
+[05-05 02:23:33]GameServer= [25.80.52.210] come,Socket num= 3
+[05-05 02:23:33]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[05-05 02:23:33]not found [magicsea] map!!!
+[05-05 02:23:33]not found [jialebi] map!!!
+[05-05 02:23:33]not found [binglang2] map!!!
+[05-05 02:23:33]not found [leiting2] map!!!
+[05-05 02:23:33]not found [shalan2] map!!!
+[05-05 02:23:33]add GameServer [GameServer2] ok
+[05-05 02:23:33]add [GameServer2]  [magicsea] map ok
+[05-05 02:23:33]add [GameServer2]  [jialebi] map ok
+[05-05 02:23:33]add [GameServer2]  [binglang2] map ok
+[05-05 02:23:33]add [GameServer2]  [leiting2] map ok
+[05-05 02:23:33]add [GameServer2]  [shalan2] map ok
+[05-05 02:23:33]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;kyjj_1;] total [4]
+[05-05 02:23:33]not found [darkblue] map!!!
+[05-05 02:23:33]not found [garner2] map!!!
+[05-05 02:23:33]not found [winterland] map!!!
+[05-05 02:23:33]not found [kyjj_1] map!!!
+[05-05 02:23:33]add GameServer [GameServer3] ok
+[05-05 02:23:33]add [GameServer3]  [darkblue] map ok
+[05-05 02:23:33]add [GameServer3]  [garner2] map ok
+[05-05 02:23:33]add [GameServer3]  [winterland] map ok
+[05-05 02:23:33]add [GameServer3]  [kyjj_1] map ok
+[05-05 02:23:35]GameServer= [25.80.52.210] come,Socket num= 4
+[05-05 02:23:36]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[05-05 02:23:36]not found [garner] map!!!
+[05-05 02:23:36]not found [DreamIsland] map!!!
+[05-05 02:23:36]not found [eastgoaf] map!!!
+[05-05 02:23:36]not found [lonetower] map!!!
+[05-05 02:23:36]not found [teampk] map!!!
+[05-05 02:23:36]add GameServer [GameServer1] ok
+[05-05 02:23:36]add [GameServer1]  [garner] map ok
+[05-05 02:23:36]add [GameServer1]  [DreamIsland] map ok
+[05-05 02:23:36]add [GameServer1]  [eastgoaf] map ok
+[05-05 02:23:36]add [GameServer1]  [lonetower] map ok
+[05-05 02:23:36]add [GameServer1]  [teampk] map ok
+[05-05 02:24:26]client: 25.80.52.210	come...Socket num: 1
+[05-05 02:24:26]client: 25.80.52.210	login error, error:1001
+[05-05 02:24:26]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[05-05 02:24:36]client: 25.80.52.210	come...Socket num: 1
+[05-05 02:24:36]client: 25.80.52.210	login error, error:1001
+[05-05 02:24:36]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[05-05 02:26:27]GameServer= [25.80.52.210] gone,Socket num= 4,reason= 远程主机强迫关闭了一个现有的连接。
+[05-05 02:26:27] delete [GameServer3]
+[05-05 02:26:27]delete map [darkblue]
+[05-05 02:26:27]delete map [garner2]
+[05-05 02:26:27]delete map [winterland]
+[05-05 02:26:27]delete map [kyjj_1]
+[05-05 02:26:27]becaulse GameServer trouble, notice 0 user offline
+[05-05 02:26:27]GameServer= [25.80.52.210] gone,Socket num= 3,reason= 远程主机强迫关闭了一个现有的连接。
+[05-05 02:26:27] delete [GameServer1]
+[05-05 02:26:27]delete map [garner]
+[05-05 02:26:27]delete map [DreamIsland]
+[05-05 02:26:27]delete map [eastgoaf]
+[05-05 02:26:27]delete map [lonetower]
+[05-05 02:26:27]delete map [teampk]
+[05-05 02:26:27]GameServer= [25.80.52.210] gone,Socket num= 2,reason= 远程主机强迫关闭了一个现有的连接。
+[05-05 02:26:27] delete [GameServer4]
+[05-05 02:26:27]delete map [abandonedcity]
+[05-05 02:26:27]delete map [abandonedcity2]
+[05-05 02:26:27]delete map [abandonedcity3]
+[05-05 02:26:27]delete map [darkswamp]
+[05-05 02:26:27]delete map [puzzleworld]
+[05-05 02:26:27]delete map [puzzleworld2]
+[05-05 02:26:27]delete map [Hellchapter]
+[05-05 02:26:27]becaulse GameServer trouble, notice 0 user offline
+[05-05 02:26:27]becaulse GameServer trouble, notice 0 user offline
+[05-05 02:26:28]GameServer= [25.80.52.210] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[05-05 02:26:28] delete [GameServer2]
+[05-05 02:26:28]delete map [magicsea]
+[05-05 02:26:28]delete map [jialebi]
+[05-05 02:26:28]delete map [binglang2]
+[05-05 02:26:28]delete map [leiting2]
+[05-05 02:26:28]delete map [shalan2]
+[05-05 02:26:28]becaulse GameServer trouble, notice 0 user offline

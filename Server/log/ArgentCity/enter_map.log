@@ -1,0 +1,132 @@
+[08-14 01:34:35]start entry map cha_id = 1006 enter--------------------------
+[08-14 01:34:35]cha_id = 1006, begin read data from database: 
+[08-14 01:34:35]Loading database succeed��_get_row.
+[08-14 01:34:35]Set the whole data succeed.
+[08-14 01:34:35]Load kitbag data succeed.
+[08-14 01:34:35]Load temp kitbag data succeed.
+[08-14 01:34:35]Load bank data succeed.
+[08-14 01:34:35]Load the character whole data succeed.
+[08-14 01:34:35]cha_id = 1006 (Abel) end entermap
+[08-14 01:34:35]finish enter game scene Cha-Abel+1006(Cha-Abel+1006)
+[08-14 01:34:35]end up entry map  [Cha-Abel+1006]================
+
+[08-14 01:34:43]start entry map cha_id = 1 enter--------------------------
+[08-14 01:34:43]cha_id = 1, begin read data from database: 
+[08-14 01:34:43]Loading database succeed��_get_row.
+[08-14 01:34:43]Set the whole data succeed.
+[08-14 01:34:43]Load kitbag data succeed.
+[08-14 01:34:43]Load temp kitbag data succeed.
+[08-14 01:34:43]Load bank data succeed.
+[08-14 01:34:43]Load the character whole data succeed.
+[08-14 01:34:43]cha_id = 1 (Treasure) end entermap
+[08-14 01:34:43]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 01:34:43]end up entry map  [Cha-Treasure+1]================
+
+[08-14 01:39:35]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 01:39:35]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 01:40:30]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 01:40:30]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 01:41:16]SwitchMap(the same map switch,control player name Cha-Abel+1006[mainplayer Cha-Abel+1006],mapname garner)--------
+[08-14 01:41:16]finish enter game scene Cha-Abel+1006(Cha-Abel+1006)
+[08-14 01:44:20]SwitchMap(the same map switch,control player name Cha-Abel+1006[mainplayer Cha-Abel+1006],mapname garner)--------
+[08-14 01:44:20]finish enter game scene Cha-Abel+1006(Cha-Abel+1006)
+[08-14 01:44:21]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 01:44:21]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 01:46:01]SwitchMap(the same map switch,control player name Cha-Abel+1006[mainplayer Cha-Abel+1006],mapname garner)--------
+[08-14 01:46:01]finish enter game scene Cha-Abel+1006(Cha-Abel+1006)
+[08-14 01:46:48]SwitchMap(the same map switch,control player name Cha-Abel+1006[mainplayer Cha-Abel+1006],mapname garner)--------
+[08-14 01:46:48]finish enter game scene Cha-Abel+1006(Cha-Abel+1006)
+[08-14 01:46:49]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 01:46:49]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 01:47:51]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 01:47:51]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 01:47:56]SwitchMap(the same map switch,control player name Cha-Abel+1006[mainplayer Cha-Abel+1006],mapname garner)--------
+[08-14 01:47:56]finish enter game scene Cha-Abel+1006(Cha-Abel+1006)
+[08-14 01:53:28]SwitchMap(the same map switch,control player name Cha-Abel+1006[mainplayer Cha-Abel+1006],mapname garner)--------
+[08-14 01:53:28]finish enter game scene Cha-Abel+1006(Cha-Abel+1006)
+[08-14 01:54:35]OnDBUpdate start!
+[08-14 01:54:35]Cha-Abel+1006 start configure save data.
+[08-14 01:54:35]save the main character whole data succeed!
+[08-14 01:54:35]finish kitbag save.
+[08-14 01:54:35]finish save the temp kitbag.
+[08-14 01:54:35]finish the whole bank[0->0]save
+[08-14 01:54:35]save the whole boat data succeed
+[08-14 01:54:35]save character whole data succeed.
+[08-14 01:54:35]OnDBUpdate end!
+[08-14 01:54:43]OnDBUpdate start!
+[08-14 01:54:43]Cha-Treasure+1 start configure save data.
+[08-14 01:54:43]save the main character whole data succeed!
+[08-14 01:54:43]finish kitbag save.
+[08-14 01:54:43]finish save the temp kitbag.
+[08-14 01:54:43]finish the whole bank[0->0]save
+[08-14 01:54:43]save the whole boat data succeed
+[08-14 01:54:43]save character whole data succeed.
+[08-14 01:54:43]OnDBUpdate end!
+[08-14 01:57:40]start leave map--------
+[08-14 01:57:40]Delete Player [Cha-Abel+1006]
+[08-14 01:57:40]cha_id = 1006, begin goout
+[08-14 01:57:40]Cha-Abel+1006 start configure save data.
+[08-14 01:57:40]save the main character whole data succeed!
+[08-14 01:57:40]finish kitbag save.
+[08-14 01:57:40]finish save the temp kitbag.
+[08-14 01:57:40]finish the whole bank[0->0]save
+[08-14 01:57:40]save the whole boat data succeed
+[08-14 01:57:40]save character whole data succeed.
+[08-14 01:57:40]cha_id = 1006, goout
+[08-14 01:57:40]end and leave the map========
+
+[08-14 01:59:18]start entry map cha_id = 1006 enter--------------------------
+[08-14 01:59:18]cha_id = 1006, begin read data from database: 
+[08-14 01:59:18]Loading database succeed��_get_row.
+[08-14 01:59:18]Set the whole data succeed.
+[08-14 01:59:18]Load kitbag data succeed.
+[08-14 01:59:18]Load temp kitbag data succeed.
+[08-14 01:59:18]Load bank data succeed.
+[08-14 01:59:18]Load the character whole data succeed.
+[08-14 01:59:18]cha_id = 1006 (Abel) end entermap
+[08-14 01:59:18]finish enter game scene Cha-Abel+1006(Cha-Abel+1006)
+[08-14 01:59:18]end up entry map  [Cha-Abel+1006]================
+
+[08-14 02:02:08]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 02:02:08]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 02:03:04]Start save character assets.
+[08-14 02:03:04]finish kitbag save.
+[08-14 02:03:04]Save character Cha-Treasure+1(Cha-Treasure+1)assets succeed.
+[08-14 02:03:07]Start save character assets.
+[08-14 02:03:07]finish kitbag save.
+[08-14 02:03:07]Save character Cha-Treasure+1(Cha-Treasure+1)assets succeed.
+[08-14 02:03:10]Start save character assets.
+[08-14 02:03:10]finish kitbag save.
+[08-14 02:03:10]Save character Cha-Treasure+1(Cha-Treasure+1)assets succeed.
+[08-14 02:03:24]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 02:03:24]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 02:03:33]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 02:03:33]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 02:03:43]SwitchMap(the same map switch,control player name Cha-Treasure+1[mainplayer Cha-Treasure+1],mapname garner)--------
+[08-14 02:03:43]finish enter game scene Cha-Treasure+1(Cha-Treasure+1)
+[08-14 02:08:18]start leave map--------
+[08-14 02:08:18]Delete Player [Cha-Treasure+1]
+[08-14 02:08:18]cha_id = 1, begin goout
+[08-14 02:08:18]Cha-Treasure+1 start configure save data.
+[08-14 02:08:19]save the main character whole data succeed!
+[08-14 02:08:19]finish kitbag save.
+[08-14 02:08:19]finish save the temp kitbag.
+[08-14 02:08:19]finish the whole bank[0->0]save
+[08-14 02:08:19]save the whole boat data succeed
+[08-14 02:08:19]save character whole data succeed.
+[08-14 02:08:19]cha_id = 1, goout
+[08-14 02:08:19]end and leave the map========
+
+[08-14 02:08:23]start leave map--------
+[08-14 02:08:23]Delete Player [Cha-Abel+1006]
+[08-14 02:08:23]cha_id = 1006, begin goout
+[08-14 02:08:23]Cha-Abel+1006 start configure save data.
+[08-14 02:08:23]save the main character whole data succeed!
+[08-14 02:08:23]finish kitbag save.
+[08-14 02:08:23]finish save the temp kitbag.
+[08-14 02:08:23]finish the whole bank[0->0]save
+[08-14 02:08:23]save the whole boat data succeed
+[08-14 02:08:23]save character whole data succeed.
+[08-14 02:08:23]cha_id = 1006, goout
+[08-14 02:08:23]end and leave the map========
+

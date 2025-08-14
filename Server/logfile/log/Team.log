@@ -1,0 +1,14 @@
+[08-14 01:43:36]player Abeladd teamTreasure
+[08-14 01:43:36]MP_TEAM_CREATE() send ToGameServer data to GateServer
+[08-14 01:44:20]playerAbelrefresh team by switch mapTreasure
+[08-14 01:44:21]playerTreasurerefresh team by switch mapTreasure
+[08-14 01:46:01]playerAbelrefresh team by switch mapTreasure
+[08-14 01:46:48]playerAbelrefresh team by switch mapTreasure
+[08-14 01:46:49]playerTreasurerefresh team by switch mapTreasure
+[08-14 01:47:51]playerTreasurerefresh team by switch mapTreasure
+[08-14 01:47:56]playerAbelrefresh team by switch mapTreasure
+[08-14 01:53:28]playerAbelrefresh team by switch mapTreasure
+[08-14 01:57:40]player Abelleave team Treasure,free team.
+[08-14 02:03:56]player Treasureadd teamAbel
+[08-14 02:03:56]MP_TEAM_CREATE() send ToGameServer data to GateServer
+[08-14 02:08:19]player Treasureleave team Abel,free team.

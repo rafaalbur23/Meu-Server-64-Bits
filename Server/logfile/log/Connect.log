@@ -1,0 +1,14 @@
+[08-14 01:24:16]begin connect database
+[08-14 01:24:17]begin init AccountServer connect
+[08-14 01:24:17]AccountServer:25.80.52.210,2321come ! Socket num:1
+[08-14 01:24:17]begin read GroupServer.cfg
+[08-14 01:24:17]begin load ChaNameFilter.txt
+[08-14 01:24:17]begin listen port:2322
+[08-14 01:24:17]open listen port:2322success, init is ok
+[08-14 01:24:17]Conencting to GroupServer...
+[08-14 01:24:17]GateServer:25.80.52.210,17174come ! Socket num:2
+[08-14 01:24:17]connect GroupServer: 25.80.52.210,Socket num:1
+[08-14 01:24:17]GateServer:25.80.52.210,17174TP_LOGIN1
+[08-14 01:24:17]GateServer:25.80.52.210,17174TP_LOGIN2
+[08-14 01:24:17]GateServer:25.80.52.210,17174TP_LOGIN3
+[08-14 01:24:17]Successfully logged into GroupServer!

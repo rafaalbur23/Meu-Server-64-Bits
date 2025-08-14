@@ -1,0 +1,3 @@
+//ID	binded entity ID	incident type	entity placement location	entity placement direction	Target map name	Target map location	Activate Determinant Requirement	Name
+
+//4	2492	4	230011,289511	-1	jialebi	50711,103711	1	º”ƒ…£≠º”¿’±»

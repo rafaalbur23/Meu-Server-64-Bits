@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Msbuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (.\obj\) contém arquivos compartilhados de outro projeto (lualib.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  lapi.c
+  lcode.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  llex.c
+  lmem.c
+  lobject.c
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(174,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(177,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(179,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(185,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(188,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(191,15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(192,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(165,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lobject.c(187,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lopcodes.c
+  lparser.c
+  lstate.c
+  lstring.c
+  ltable.c
+  ltests.c
+  ltm.c
+  lundump.c
+  lvm.c
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\Lua\lvm.c(60,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lzio.c
+  Gerando Código...
+  lua50.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\CaLua\lib\lua50.lib

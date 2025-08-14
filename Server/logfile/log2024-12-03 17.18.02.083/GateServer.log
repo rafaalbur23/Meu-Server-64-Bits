@@ -1,0 +1,151 @@
+[12-03 12:05:00]GameServer= [25.80.52.210] come,Socket num= 1
+[12-03 12:05:00]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[12-03 12:05:00]not found [magicsea] map!!!
+[12-03 12:05:00]not found [jialebi] map!!!
+[12-03 12:05:00]not found [binglang2] map!!!
+[12-03 12:05:00]not found [leiting2] map!!!
+[12-03 12:05:00]not found [shalan2] map!!!
+[12-03 12:05:00]add GameServer [GameServer2] ok
+[12-03 12:05:00]add [GameServer2]  [magicsea] map ok
+[12-03 12:05:00]add [GameServer2]  [jialebi] map ok
+[12-03 12:05:00]add [GameServer2]  [binglang2] map ok
+[12-03 12:05:00]add [GameServer2]  [leiting2] map ok
+[12-03 12:05:00]add [GameServer2]  [shalan2] map ok
+[12-03 12:05:00]GameServer= [25.80.52.210] come,Socket num= 2
+[12-03 12:05:00]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;starena13;starena14;starena15;starena23;starena24;starena25;starena33;starena34;starena35;] total [12]
+[12-03 12:05:00]not found [darkblue] map!!!
+[12-03 12:05:00]not found [garner2] map!!!
+[12-03 12:05:00]not found [winterland] map!!!
+[12-03 12:05:00]not found [starena13] map!!!
+[12-03 12:05:00]not found [starena14] map!!!
+[12-03 12:05:00]not found [starena15] map!!!
+[12-03 12:05:00]not found [starena23] map!!!
+[12-03 12:05:00]not found [starena24] map!!!
+[12-03 12:05:00]not found [starena25] map!!!
+[12-03 12:05:00]not found [starena33] map!!!
+[12-03 12:05:00]not found [starena34] map!!!
+[12-03 12:05:00]not found [starena35] map!!!
+[12-03 12:05:00]add GameServer [GameServer3] ok
+[12-03 12:05:00]add [GameServer3]  [darkblue] map ok
+[12-03 12:05:00]add [GameServer3]  [garner2] map ok
+[12-03 12:05:00]add [GameServer3]  [winterland] map ok
+[12-03 12:05:00]add [GameServer3]  [starena13] map ok
+[12-03 12:05:00]add [GameServer3]  [starena14] map ok
+[12-03 12:05:00]add [GameServer3]  [starena15] map ok
+[12-03 12:05:00]add [GameServer3]  [starena23] map ok
+[12-03 12:05:00]add [GameServer3]  [starena24] map ok
+[12-03 12:05:00]add [GameServer3]  [starena25] map ok
+[12-03 12:05:00]add [GameServer3]  [starena33] map ok
+[12-03 12:05:00]add [GameServer3]  [starena34] map ok
+[12-03 12:05:00]add [GameServer3]  [starena35] map ok
+[12-03 12:05:04]not found [garner] map!!!
+[12-03 12:05:05]GameServer= [25.80.52.210] come,Socket num= 3
+[12-03 12:05:05]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[12-03 12:05:05]not found [garner] map!!!
+[12-03 12:05:05]not found [DreamIsland] map!!!
+[12-03 12:05:05]not found [eastgoaf] map!!!
+[12-03 12:05:05]not found [lonetower] map!!!
+[12-03 12:05:05]not found [teampk] map!!!
+[12-03 12:05:05]add GameServer [GameServer1] ok
+[12-03 12:05:05]add [GameServer1]  [garner] map ok
+[12-03 12:05:05]add [GameServer1]  [DreamIsland] map ok
+[12-03 12:05:05]add [GameServer1]  [eastgoaf] map ok
+[12-03 12:05:05]add [GameServer1]  [lonetower] map ok
+[12-03 12:05:05]add [GameServer1]  [teampk] map ok
+[12-03 12:05:34]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:05:35]client: 25.80.52.210	login ok.
+[12-03 12:05:45]client: 25.80.52.210:58005	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFEDBA6F0
+[12-03 12:05:46]clinet: 25.80.52.210:58005	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:22B35CBB048,Gate address:1DBFEDBA6F0
+[12-03 12:06:21]client: 25.80.52.210:58005	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:1DBFEDBA6F0,Game address:22B35CBB048
+[12-03 12:06:21]client: 25.80.52.210 gone...Socket num: 0 ,reason=user has logged out.
+[12-03 12:07:46]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:07:50]client: 25.80.52.210	login error: GroupServer is disresponse!
+[12-03 12:07:50]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:07:59]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:08:00]client: 25.80.52.210	login error, error:1104
+[12-03 12:08:01]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:08:09]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:08:10]client: 25.80.52.210	login error, error:1105
+[12-03 12:08:10]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:08:31]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:08:35]client: 25.80.52.210	login error: GroupServer is disresponse!
+[12-03 12:08:35]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:09:30]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:09:30]client: 25.80.52.210	login error, error:522
+[12-03 12:09:30]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:09:39]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:09:39]client: 25.80.52.210	login error, error:522
+[12-03 12:09:39]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:09:53]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:09:53]client: 25.80.52.210	login error, error:522
+[12-03 12:09:53]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:11:03]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:11:04]client: 25.80.52.210	login error, error:1104
+[12-03 12:11:04]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:11:09]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:11:10]client: 25.80.52.210	login error, error:1105
+[12-03 12:11:10]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:11:16]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:11:17]client: 25.80.52.210	login error, error:1105
+[12-03 12:11:17]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[12-03 12:11:18]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:11:19]client: 25.80.52.210	login ok.
+[12-03 12:11:20]client: 25.80.52.210:58329	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF571410
+[12-03 12:11:20]clinet: 25.80.52.210:58329	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:22B35CBB048,Gate address:1DBFF571410
+[12-03 12:11:51]clinet: 25.80.52.210:58329	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF571410
+[12-03 12:11:51]clinet: 25.80.52.210:58329	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF571410
+[12-03 12:12:55]clinet: 25.80.52.210:58329	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF571410
+[12-03 12:12:55]clinet: 25.80.52.210:58329	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2003F2C1048,Gate address:1DBFF571410
+[12-03 12:14:05]clinet: 25.80.52.210:58329	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF571410
+[12-03 12:14:05]clinet: 25.80.52.210:58329	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF571410
+[12-03 12:14:35]clinet: 25.80.52.210:58329	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF571410
+[12-03 12:14:50]clinet: 25.80.52.210:58329	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF571410
+[12-03 12:14:50]clinet: 25.80.52.210:58329	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF571410
+[12-03 12:15:34]clinet: 25.80.52.210:58329	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF571410
+[12-03 12:21:02]client: 25.80.52.210:58329	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:1DBFF571410,Game address:1DBE7857048
+[12-03 12:21:02]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[12-03 12:22:02]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:22:03]client: 25.80.52.210	login ok.
+[12-03 12:22:09]client: 25.80.52.210:58636	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF5718D0
+[12-03 12:22:09]clinet: 25.80.52.210:58636	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF5718D0
+[12-03 12:22:21]client: 25.80.52.210:58636	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:1DBFF5718D0,Game address:1DBE7857048
+[12-03 12:22:21]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[12-03 12:24:43]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:24:44]client: 25.80.52.210	login ok.
+[12-03 12:24:45]client: 25.80.52.210:58711	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF571A00
+[12-03 12:24:45]clinet: 25.80.52.210:58711	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF571A00
+[12-03 12:27:01]client: 25.80.52.210:58711	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:1DBFF571A00,Game address:1DBE7857048
+[12-03 12:27:01]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[12-03 12:31:25]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:31:25]client: 25.80.52.210	login ok.
+[12-03 12:31:27]client: 25.80.52.210:58850	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF572120
+[12-03 12:31:27]clinet: 25.80.52.210:58850	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF572120
+[12-03 12:32:24]clinet: 25.80.52.210:58850	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF572120
+[12-03 12:32:53]clinet: 25.80.52.210:58850	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF572120
+[12-03 12:32:53]clinet: 25.80.52.210:58850	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2003F2C1048,Gate address:1DBFF572120
+[12-03 12:42:42]client: 25.80.52.210:58850	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:1DBFF572120,Game address:2003F2C1048
+[12-03 12:42:42]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[12-03 12:47:16]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:47:17]client: 25.80.52.210	login ok.
+[12-03 12:47:18]client: 25.80.52.210:59274	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF571B30
+[12-03 12:47:18]clinet: 25.80.52.210:59274	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2003F2C1048,Gate address:1DBFF571B30
+[12-03 12:52:44]client: 25.80.52.210:59274	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:1DBFF571B30,Game address:2003F2C1048
+[12-03 12:52:44]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[12-03 12:52:53]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:52:54]client: 25.80.52.210	login ok.
+[12-03 12:52:55]client: 25.80.52.210:59385	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF572380
+[12-03 12:52:55]clinet: 25.80.52.210:59385	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2003F2C1048,Gate address:1DBFF572380
+[12-03 12:56:21]client: 25.80.52.210:59385	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:1DBFF572380,Game address:2003F2C1048
+[12-03 12:56:21]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[12-03 12:56:52]client: 25.80.52.210	come...Socket num: 1
+[12-03 12:56:53]client: 25.80.52.210	login ok.
+[12-03 12:56:55]client: 25.80.52.210:59468	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF570CF0
+[12-03 12:56:55]clinet: 25.80.52.210:59468	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2003F2C1048,Gate address:1DBFF570CF0
+[12-03 13:00:36]client: 25.80.52.210:59468	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:16,Gate address:1DBFF570CF0,Game address:2003F2C1048
+[12-03 13:00:37]client: 25.80.52.210:59468	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF570CF0
+[12-03 13:00:37]clinet: 25.80.52.210:59468	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2003F2C1048,Gate address:1DBFF570CF0
+[12-03 13:03:23]clinet: 25.80.52.210:59468	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF570CF0
+[12-03 13:03:23]clinet: 25.80.52.210:59468	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF570CF0
+[12-03 13:03:30]client: 25.80.52.210:59468	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:16,Gate address:1DBFF570CF0,Game address:1DBE7857048
+[12-03 13:03:31]client: 25.80.52.210:59468	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1DBFF570CF0
+[12-03 13:03:31]clinet: 25.80.52.210:59468	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1DBE7857048,Gate address:1DBFF570CF0

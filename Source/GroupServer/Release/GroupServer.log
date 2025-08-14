@@ -1,0 +1,97 @@
+﻿  DBConnect.cpp
+  Friend.cpp
+  GroupServerApp.cpp
+  GroupServerAppChat.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'DBConnect.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(420,7): warning C4101: 'sql': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(595,7): warning C4101: 'sql': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1163,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1287,7): warning C4101: 'filter': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1305,7): warning C4101: 'filter': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1369,7): warning C4101: 'sql': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1464,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1465,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1466,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1467,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1468,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1469,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1470,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1471,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1472,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1607,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1608,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1609,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1610,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1611,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1612,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1613,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1614,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1615,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1795,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\DBConnect.cpp(1820,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerApp.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppChat.cpp')
+  
+  GroupServerAppFrnd.cpp
+  GroupServerAppGuld.cpp
+  GroupServerAppInit.cpp
+  GroupServerAppMaster.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppFrnd.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppGuld.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\GroupServerAppFrnd.cpp(511,39): warning C4244: 'argumento': conversão de 'unsigned __int64' para 'LONG', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppInit.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppMaster.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\GroupServerAppMaster.cpp(373,43): warning C4244: 'argumento': conversão de 'unsigned __int64' para 'LONG', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\GroupServerAppMaster.cpp(440,41): warning C4244: 'argumento': conversão de 'unsigned __int64' para 'LONG', possível perda de dados
+  GroupServerAppPrsn.cpp
+  GroupServerAppServ.cpp
+  GroupServerAppTeam.cpp
+  GroupSMain.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppPrsn.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppServ.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\GroupServerAppPrsn.cpp(209,37): warning C4244: 'argumento': conversão de 'SQLINTEGER' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppTeam.cpp')
+  
+  Guild.cpp
+  GuildMember.cpp
+  Invitation.cpp
+  LuaFunc.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\netcommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Guild.cpp')
+  
+  Master.cpp
+  Parser.cpp
+  Player.cpp
+  Script.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\Parser.cpp(167,18): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+  SessionChat.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Player.cpp')
+  
+  stdafx.cpp
+  Team.cpp
+  TeamMember.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(63): warning C4715: 'LicenseManager::verifyLicense': nem todos os caminhos de controle retornam um valor
+  All 3187 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  GroupServer.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Server\GroupServer_x86_Release.exe

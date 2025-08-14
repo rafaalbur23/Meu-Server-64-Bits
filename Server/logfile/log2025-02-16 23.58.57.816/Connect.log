@@ -1,0 +1,18 @@
+[01-29 21:29:57]Conencting to GroupServer...
+[01-29 21:29:59]Connecting to GroupServer failed, reconnecting in 5 secs...
+[01-29 21:30:04]Conencting to GroupServer...
+[01-29 21:30:06]Connecting to GroupServer failed, reconnecting in 5 secs...
+[01-29 21:30:07]begin connect database
+[01-29 21:30:08]begin init AccountServer connect
+[01-29 21:30:08]AccountServer:25.80.52.210,2321come ! Socket num:1
+[01-29 21:30:08]begin read GroupServer.cfg
+[01-29 21:30:08]begin load ChaNameFilter.txt
+[01-29 21:30:08]begin listen port:2322
+[01-29 21:30:08]open listen port:2322success, init is ok
+[01-29 21:30:11]Conencting to GroupServer...
+[01-29 21:30:11]connect GroupServer: 25.80.52.210,Socket num:1
+[01-29 21:30:11]GateServer:25.80.52.210,31496come ! Socket num:2
+[01-29 21:30:11]GateServer:25.80.52.210,31496TP_LOGIN1
+[01-29 21:30:11]GateServer:25.80.52.210,31496TP_LOGIN2
+[01-29 21:30:11]GateServer:25.80.52.210,31496TP_LOGIN3
+[01-29 21:30:11]Successfully logged into GroupServer!

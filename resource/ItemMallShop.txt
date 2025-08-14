@@ -1,0 +1,1095 @@
+//ID	Item Name	Description	Price	Hot	Items	Quantity	Duration	Stock
+1	Fairy Ration	Recovers the stamina of a Pet	20	-1	227	99	1682401669	0
+2	Iron Man	Lance Apparel	50	-1	8831,8832,8833,8834	1,1,1,1	-1	-1
+3	No Exp Stone	Exp Carrion	10	-1	9386	1	-1	-1
+//Pet
+4	Fairy Rations	Fairy Ration	199	-1	227,2312	99,49	-1	-1
+5	Demonic Fruit of Acidity	Marriage	249	-1	3918	1	-1	-1
+6	Demonic Fruit of Courage	Marriage	249	-1	3919	1	-1	-1
+7	Demonic Fruit of Strength	Marriage	249	-1	3920	1	-1	-1
+8	Demonic Fruit of Intellect	Marriage	249	-1	3921	1	-1	-1
+9	Demonic Fruit of Energy	Marriage	249	-1	3922	1	-1	-1
+10	Demonic Fruit of Aberrant	Marriage	249	-1	3924	1	-1	-1
+11	Demonic Fruit of Mystery	Marriage	249	-1	3925	1	-1	-1
+12	Standard Meditation	Pet Skill	49	-1	260	1	-1	-1
+13	Standard Recover	Pet Skill	49	-1	253	1	-1	-1
+14	Standard Magic	Pet Skill	49	-1	250	1	-1	-1
+15	Standard Berserk	Pet Skill	49	-1	247	1	-1	-1
+16	Standard Protection	Pet Skill	49	-1	244	1	-1	-1
+17	Great Snow Dragon Fruit	Pet Food	49	-1	276	1	-1	-1
+18	Great Icespire Plum	Pet Food	49	-1	277	1	-1	-1
+19	Great Zephyr Fish Floss	Pet Food	49	-1	278	1	-1	-1
+20	Great Argent Mango	Pet Food	49	-1	279	1	-1	-1
+21	Great Shaitan Biscuit	Pet Food	49	-1	280	1	-1	-1
+22	Fruit of Growth	Pet Food	13	-1	578	1	-1	-1
+//Level
+23	Heaven's Berry & Nana	EXP	199	-1	3844,849	9,3	-1	-1
+24	Hi-Amplifier of Strive	EXP	99	-1	3095	1	-1	-1
+25	Hi-Amplifier of Luck	Drop	99	-1	3097	1	-1	-1
+26	Heaven's Berry	EXP	17	-1	3844	1	-1	-1
+27	Charmed Berry	Drop	17	-1	3845	1	-1	-1
+28	Party EXP Fruit	EXP	17	-1	849	1	-1	-1
+29	Vial of Strength Reset	Reset	9	-1	3109	9	-1	-1
+30	Vial of Consitution Reset	Reset	9	-1	3110	9	-1	-1
+31	Vial of Agility Reset	Reset	9	-1	3111	9	-1	-1
+32	Vial of Accuracy Reset	Reset	9	-1	3112	9	-1	-1
+33	Vial of Spirit Reset	Reset	9	-1	3113	9	-1	-1
+34	Voodoo Puppet	Voodoo	4	-1	3047	9	-1	-1
+35	Super Candy Stick	Candy	4	-1	3910	9	-1	-1
+36	Magical Clover	Clover	2	-1	3462	1	-1	-1
+37	Intense Magic	Skill Book	79	-1	3300	1	-1	-1
+38	Crystalline Blessing	Skill Book	79	-1	3301	1	-1	-1
+39	Icy Crystal	Crystal	2	-1	3463	1	-1	-1
+40	Constitution Recovery Flask	A potion	99	-1	3098	1	-1	-1
+41	SP Holy Water	A potion	9	-1	3099	1	-1	-1
+42	Power Sail	A potion	11	-1	3046	1	-1	-1
+43	lantern festival	A potion	12	-1	3107	1	-1	-1
+//Teleportation
+44	Pass to Lone Tower	Ticket	1	-1	3054	1	-1	-1
+45	Pass to Summer	Ticket	1	-1	563	1	-1	-1
+46	Pass to Autum	Ticket	1	-1	563	1	-1	-1
+47	Pass to Silver Mine 3	Ticket	1	-1	3058	1	-1	-1
+48	Pass to Abandoned Mine 2	Ticket	1	-1	3056	1	-1	-1
+49	Pass to Sacred Snow Mountain	Ticket	1	-1	3050	1	-1	-1
+50	Pass to Spring Town	Ticket	1	-1	3076	1	-1	-1
+//Forge
+51	Socket Pack	Socket	79	-1	890,891	1,1	-1	-1
+52	Fiery Gem Voucher	Gem Voucher	49	-1	856	1	-1	-1
+53	Furious Gem Voucher	Gem Voucher	49	-1	857	1	-1	-1
+54	Explosive Gem Voucher	Gem Voucher	49	-1	858	1	-1	-1
+55	Lustrious Gem Voucher	Gem Voucher	49	-1	859	1	-1	-1
+56	Spirit Gem Voucher	Gem Voucher	49	-1	911	1	-1	-1
+57	Glowing Gem Voucher	Gem Voucher	49	-1	914	1	-1	-1
+58	Shining Gem Voucher	Gem Voucher	49	-1	915	1	-1	-1
+59	Shadow Gem Voucher	Gem Voucher	49	-1	916	1	-1	-1
+60	Blacksmith Pliers	Allow gem to be extracted from weapons or equipments	2	-1	1020	3	-1	-1
+//Miscellaneous
+61	Full Body Armor	A Potion	119	-1	852	5	-1	-1
+62	Item-locking Stone	Items will be locked after using it	12	-1	5939	1	-1	-1
+63	Primary Magic Powder	Mysterious powder from Pet Fairies.	20	-1	6529	1	-1	-1
+64	Junior Magic Powder	Mysterious powder from Pet Fairies.	40	-1	6530	1	-1	-1
+65	Senior Magic Powder	Mysterious powder from Pet Fairies.	80	-1	6531	1	-1	-1
+66	Soul Detector Lv1	New weapon for usage on land.	4	-1	1138	1	-1	-1
+67	Skill-Snooty	Pet Skill Book	4	-1	1131	1	-1	-1
+68	Skill-Fool	Pet Skill Book	4	-1	1130	1	-1	-1
+69	Skill-Trickster	Pet Skill Book	4	-1	1132	1	-1	-1
+70	Skill-Coin Shower	Pet Skill Book	4	-1	1129	1	-1	-1
+71	Rose;18	Misc	4	-1	3343	18	-1	-1
+72	Lovers Chocolate;18	Misc	4	-1	3344	18	-1	-1
+73	Little Snow Ball;9	Misc	4	-1	2896	9	-1	-1
+74	Inventory Pack	Misc	599	-1	3088,3089,3090,3091,3092,3093	1,1,1,1,1,1	-1	-1
+75	Unique Ring Voucher	Ring	1099	-1	580	1	-1	-1
+76	Unique Necklace Voucher	Necklace	1099	-1	581	1	-1	-1
+//Forge Mall
+77	Refining Catalyst	Increases forging	19	-1	3074	1	-1	-1
+78	Composition Catalyst	Increases composition	19	-1	3075	1	-1	-1
+//Miscellaneous Mall
+79	Goddess's Favor	As it was blessed by the Goddess	99	-1	938	1	-1	-1
+80	Alloy Pickaxe	Equipped with this pickaxe to mine Meteorite	69	-1	3908	1	-1	-1
+81	Gold Pickaxe	Mining tool for all class that produce double yield	139	-1	208	1	-1	-1
+82	Gold Axe	Woodcutting tool for all class that produce double yield	139	-1	207	1	-1	-1
+//Forge Mall
+83	Fusion Scroll	Fusion Apparel	1	-1	453	1	-1	-1
+84	Fusion Catalyst	Dont lose gems on fusion	1	-1	454	1	-1	-1
+85	Strengthening Scroll	Strengthening	1	-1	455	1	-1	-1
+86	Strengthening Crystal	Strengthening	1	-1	456	1	-1	-1
+//Pet Mall
+87	Snow Dragon Fruit	Pet Food	4	-1	222	1	-1	-1
+88	Icespire Plum	Pet Food	4	-1	223	1	-1	-1
+89	Zephyr Fish Floss	Pet Food	4	-1	224	1	-1	-1
+90	Argent Mango	Pet Food	4	-1	225	1	-1	-1
+91	Shaitan Biscuit	Pet Food	4	-1	226	1	-1	-1
+///Apparels
+92	Tiger Cavalry Set	Phyllis Apparel	199	-1	5166,5167,5168	1,1,1	-1	-1
+93	Tiger Cavalry Set	Lance Apparel	199	-1	5154,5155,5156	1,1,1	-1	-1
+94	Capricious Dragon Set	Lance Apparel	199	-1	5159,5158,5157	1,1,1	-1	-1
+95	Capricious Dragon Set	Phyllis Apparel	199	-1	5169,5170,5171	1,1,1	-1	-1
+96	Sassy Princess Hat	Phyllis Apparel	199	-1	5146	1	-1	-1
+97	Bloodmoon Set	Lance Apparel	199	-1	5661,5662,5663,5664	1,1,1,1	-1	-1
+98	Bloodmoon Set	Carsise Apparel	199	-1	5665,5666,5667,5668	1,1,1,1	-1	-1
+99	Bloodmoon Set	Phyllis Apparel	199	-1	5669,5670,5671,5672	1,1,1,1	-1	-1
+100	Bloodmoon Set	Ami Apparel	199	-1	5673,5674,5675,5676	1,1,1,1	-1	-1
+101	Bruce Set	Lance Apparel	199	-1	5227,5228,5229	1,1,1	-1	-1
+102	Bruce Set	Phyllis Apparel	199	-1	5241,5242,5243	1,1,1	-1	-1
+///Reset Stone
+103	Resetting Stone	For resetting properties	299	-1	6868	1	-1	-1
+//Apps Added by ChaosGM
+104	Alluring Set	Phyllis Apparel	199	-1	5015,5023,5031	1,1,1	-1	-1
+/// Name of App Description    Price -1 ID,ID,ID, (if only 1 just add 1 id etc) quantily if 1 id just 1 , if 3 ids 1,1,1  -1  -1
+/// Weapons
+105	Sword of Azure Flame	Apparel	199	-1	5001	1	-1	-1
+106	Sword of Crimson Thunder	Apparel	199	-1	5002	1	-1	-1
+107	Great Hammer of Zest	Apparel	199	-1	5003	1	-1	-1
+108	Blade of the Frozen Crescent	Apparel	199	-1	5004	1	-1	-1
+109	Rattle Drum of the Burning	Apparel	199	-1	5006	1	-1	-1
+110	Sword of Crimson Flame	Apparel	199	-1	5007	1	-1	-1
+111	Sword of Azure Thunder	Apparel	199	-1	5008	1	-1	-1
+112	Great Hammer of Hone	Apparel	199	-1	5009	1	-1	-1
+113	Blade of Burning Crescent	Apparel	199	-1	5010	1	-1	-1
+114	Rattle Drum of the Frozen Crescent	Apparel	199	-1	5012	1	-1	-1
+115	Victorian	Apparel	199	-1	5011	1	-1	-1
+116	Sword of Cadaver	Apparel	199	-1	5070	1	-1	-1
+117	Greatsword of Cadaver	Apparel	199	-1	5071	1	-1	-1
+118	Firegun of Cadaver	Apparel	199	-1	5072	1	-1	-1
+119	Staff of Cadaver	Apparel	199	-1	5073	1	-1	-1
+120	Dagger of Cadaver	Apparel	199	-1	5074	1	-1	-1
+//Crystals
+121	10 Item Mall Points	Crystal	10	-1	9433	1	-1	-1
+122	50 Item Mall Points	Crystal	50	-1	9434	1	-1	-1
+123	100 Item Mall Points	Crystal	100	-1	9435	1	-1	-1
+//Weapons
+124	Falchion	Apparel	199	-1	5099	1	-1	-1
+125	Long Falchion	Apparel	199	-1	5100	1	-1	-1
+126	Katana	Apparel	199	-1	5101	1	-1	-1
+127	August Sword 1	Apparel	199	-1	5208	1	-1	-1
+128	August Greataxe 1	Apparel	199	-1	5209	1	-1	-1
+129	August Firegun 1	Apparel	199	-1	5210	1	-1	-1
+130	August Staff 1	Apparel	199	-1	5211	1	-1	-1
+131	August Dagger 1	Apparel	199	-1	5212	1	-1	-1
+132	August Sword 2	Apparel	199	-1	5213	1	-1	-1
+133	August Greataxe 2	Apparel	199	-1	5214	1	-1	-1
+134	August Firegun 2	Apparel	199	-1	5215	1	-1	-1
+135	August Staff 2	Apparel	199	-1	5216	1	-1	-1
+136	August Dagger 2	Apparel	199	-1	5217	1	-1	-1
+137	Foldable Chair	Apparel	199	-1	5276	1	-1	-1
+138	Langa's Cleaning Brush	Apparel	199	-1	5277	1	-1	-1
+139	Branch of Defecate	Apparel	199	-1	5278	1	-1	-1
+140	Goddess of Vengence	Apparel	199	-1	5279	1	-1	-1
+141	Soup Spoon	Apparel	199	-1	5280	1	-1	-1
+142	Pseudo Air Cannon	Apparel	199	-1	5281	1	-1	-1
+143	Oriental Mystic Chopsticks	Apparel	199	-1	5282	1	-1	-1
+144	Barborosa's Knife&Fork	Apparel	270	-1	5283,5284	1	-1	-1
+145	Matchstick Granny's Pan	Apparel	199	-1	5285	1	-1	-1
+146	Fine Crossbow	Apparel	199	-1	5286	1	-1	-1
+/// Apparels****
+147	Lance Aries Set	Apparel	199	-1	5341,5342,5343	1,1,1	-1	-1
+148	Caribbean Ami Set	Apparel	199	-1	5605,5606,5607,5608	1,1,1,1	-1	-1
+149	New Year's Lance Set	Apparel	199	-1	5651,5652,5653,5654	1,1,1,1	-1	-1
+150	New Year's Lance Set	Apparel	199	-1	5651,5652,5653,5654	1,1,1,1	-1	-1
+151	Ami Wild West Set	Apparel	199	-1	5689,5690,5691,5692	1,1,1,1	-1	-1
+152	Wanderer's Lance Set	Apparel	199	-1	5726,5727,5728,5729	1,1,1,1	-1	-1
+153	Battle King's Set	Carsise Apparel	199	-1	5746,5747,5748,5749	1,1,1,1	-1	-1
+154	Battle King's Phyllis Set	Apparel	199	-1	5850,5851,5852,5853	1,1,1,1	-1	-1
+155	Ami Blue Set	Apparel	199	-1	5862,5863,5864,5865	1,1,1,1	-1	-1
+156	Lance Enchanted Forest Set	Apparel	199	-1	5945,5946,5947,5948	1,1,1,1	-1	-1
+157	Carise Enchanted Forest Set	Apparel	199	-1	5949,5950,5951,5952	1,1,1,1	-1	-1
+158	Phyllis Enchanted Forest Set	Apparel	199	-1	5953,5954,5955,5956	1,1,1,1	-1	-1
+159	Ami Enchanted Forest Set	Apparel	199	-1	5957,5958,5959,5960	1,1,1,1	-1	-1
+160	Phyllis Jedi Set	Apparel	199	-1	7008,7009,7010,7011	1,1,1,1	-1	-1
+161	Ami Jedi Set	Apparel	199	-1	7012,7013,7014,7015	1,1,1,1	-1	-1
+162	Phyllis Kimono Set	Apparel	199	-1	7016,7017,7018,7019	1,1,1,1	-1	-1
+163	Ami Kimono Set	Apparel	199	-1	7020,7021,7022,7023	1,1,1,1	-1	-1
+164	Templar's Set	Apparel	199	-1	5992,5993,5994	1,1,1	-1	-1
+//Weapons
+165	Pirate's Hook	Apparel	199	-1	7024	1	-1	-1
+166	Light Saber	Apparel	199	-1	7025	1	-1	-1
+167	Paper Strips	Apparel	199	-1	7026	1	-1	-1
+168	Dagger	Apparel	199	-1	7027	1	-1	-1
+169	Sword	Apparel	199	-1	7028	1	-1	-1
+170	Broken Bottle	Apparel	199	-1	7029	1	-1	-1
+171	Bamboo	Apparel	199	-1	7030	1	-1	-1
+172	Baseball Bat	Apparel	199	-1	7031	1	-1	-1
+173	Chainsaw	Apparel	199	-1	7032	1	-1	-1
+174	Pole	Apparel	199	-1	7033	1	-1	-1
+175	Light Pole	Apparel	199	-1	7034	1	-1	-1
+176	Zampaktou	Apparel	199	-1	7035	1	-1	-1
+177	Rum Barrel	Apparel	199	-1	7036	1	-1	-1
+178	Banana	Apparel	199	-1	7037	1	-1	-1
+179	Super Soaker	Apparel	199	-1	7038	1	-1	-1
+180	Water Pistol	Apparel	199	-1	7039	1	-1	-1
+181	Bazooka	Apparel	199	-1	7040	1	-1	-1
+182	Salted Sword Fish	Apparel	199	-1	7041	1	-1	-1
+183	Lightning Gun	Apparel	199	-1	7042	1	-1	-1
+184	Shotgun	Apparel	199	-1	7043	1	-1	-1
+185	Laser Gun	Apparel	199	-1	7044	1	-1	-1
+186	Fishing Pole	Apparel	199	-1	7045	1	-1	-1
+187	Big Lollipop	Apparel	199	-1	7046	1	-1	-1
+188	Flag	Apparel	199	-1	7047	1	-1	-1
+189	Shepherd's Stick	Apparel	199	-1	7048	1	-1	-1
+190	Fan	Apparel	199	-1	7049	1	-1	-1
+///Apparels****
+191	Wanderer's Ami Set	Apparel	199	-1	5738,5739,5740,5741	1,1,1,1	-1	-1
+192	Catacomb Set	Lance Apparel	199	-1	5041,5045,5049	1,1,1	-1	-1
+193	Catacomb Set	Carsice Apparel	199	-1	5042,5046,5050	1,1,1	-1	-1
+194	Catacomb Set	Ami Apparel	199	-1	5044,5048,5052,5056	1,1,1,1	-1	-1
+195	Catacomb Set	Phyllis Apparel	199	-1	5043,5047,5051	1,1,1	-1	-1
+196	Buccaneer Set	Lance Apparel	199	-1	5057,5061,5065	1,1,1	-1	-1
+197	Buccaneer Set	Carsice Apparel	199	-1	5058,5062,5066	1,1,1	-1	-1
+198	Buccaneer Set	Phyllis Apparel	199	-1	5059,5063,5067	1,1,1	-1	-1
+199	Buccaneer Set	Ami Apparel	199	-1	5060,5064,5068,5069	1,1,1,1	-1	-1
+200	Aegis of Gods	Apparel	300	-1	8963	1	-1	-1
+201	Rilakkuma Carsise Set	Apparel	199	-1	8851,8852,8853,8854	1,1,1,1	-1	-1
+202	Rilakkuma Lance Set	Apparel	199	-1	8855,8856,8857,8858	1,1,1,1	-1	-1
+203	Rilakkuma Phyllis Set	Apparel	199	-1	8859,8860,8861,8862	1,1,1,1	-1	-1
+204	Rilakkuma Ami Set	Apparel	199	-1	8863,8864,8865,8866	1,1,1,1	-1	-1
+///Promotion
+205	Unique Appreal Card	Card	999	-1	9438	1	-1	-1
+/// Apparels****
+206	Hawaiian Lance Set	Apparel	199	-1	9417,9418,9419,9420	1,1,1,1	-1	-1
+207	Lucky Bull's Set	Apparel	199	-1	5965,5966,5967,5968,5969	1,1,1,1,1	-1	-1
+208	Lance Dark Royal Set	Apparel	199	-1	5221,5222,5223	1,1,1	-1	-1
+209	Lance Priest Set	Apparel	199	-1	5224,5225,5226	1,1,1	-1	-1
+210	Lance Bruce Set	Apparel	199	-1	5227,5228,5229	1,1,1	-1	-1
+211	Carsise Bishop Set	Apparel	199	-1	5230,5231,5232,5233	1,1,1,1	-1	-1
+212	Carsise Ranger Set	Apparel	199	-1	5234,5234,5236,5237	1,1,1,1	-1	-1
+213	Carsise Ebony Set	Apparel	199	-1	5238,5239,5240	1,1,1	-1	-1
+214	Phyllis Bruce Set	Apparel	199	-1	5241,5242,5243	1,1,1	-1	-1
+215	Phyllis Wedding Set	Apparel	199	-1	5244,5245,5245,5246	1,1,1,1	-1	-1
+216	Phyllis Vestal Set	Apparel	199	-1	5248,5249,5250,5251	1,1,1,1	-1	-1
+217	Ami Wedding Set	Apparel	199	-1	5252,5253,5254,5255	1,1,1,1	-1	-1
+218	Ami Vestal Set	Apparel	199	-1	5256,5257,5258,5259	1,1,1,1	-1	-1
+219	Ami Chibi Set	Apparel	199	-1	5260,5261,5262,5263	1,1,1,1	-1	-1
+220	Lance Christmas Set	Apparel	199	-1	5264,5265,5266	1,1,1	-1	-1
+221	Carsise Christmas Set	Apparel	199	-1	5267,5268,5269	1,1,1	-1	-1
+222	Phyllis Christmas Set	Apparel	199	-1	5270,5271,5272	1,1,1	-1	-1
+223	Ami Christmas Set	Apparel	199	-1	5273,5274,5275	1,1,1	-1	-1
+224	Lance Romantic Set	Apparel	199	-1	5303,5304,5305	1,1,1	-1	-1
+225	Carsise Romantic Set	Apparel	199	-1	5306,5307,5308	1,1,1	-1	-1
+226	Phyllis Romantic Set	Apparel	199	-1	5309,5310,5311	1,1,1	-1	-1
+227	Ami Romantic Set	Apparel	199	-1	5312,5313,5314	1,1,1	-1	-1
+228	Lance Piggy Set	Apparel	199	-1	5315,5316,5317,5318	1,1,1,1	-1	-1
+229	Carsise Piggy Set	Apparel	199	-1	5319,5320,5321,5322	1,1,1,1	-1	-1
+230	Phyllis Piggy Set	Apparel	199	-1	5323,5324,5325,5326	1,1,1,1	-1	-1
+231	Ami Piggy Set	Apparel	199	-1	5327,5328,5329,5330	1,1,1,1	-1	-1
+232	Hunny Ami Set	Apparel	199	-1	5400,5401,5402,5403	1,1,1,1	-1	-1
+233	Baccalaureate Lance Set	Apparel	199	-1	5404,5405,5406	1,1,1	-1	-1
+234	Baccalaureate Carsise Set	Apparel	199	-1	5407,5408,5409	1,1,1	-1	-1
+235	Baccalaureate Phyllis Set	Apparel	199	-1	5410,5411,5412	1,1,1	-1	-1
+236	Baccalaureate Ami Set	Apparel	199	-1	5413,5414,5415	1,1,1	-1	-1
+237	Student Phyllis Set	Apparel	199	-1	5416,5417,5418	1,1,1	-1	-1
+238	Student Ami Set	Apparel	199	-1	5419,5420,5421	1,1,1	-1	-1
+239	Romantic Pas Lance Set	Apparel	199	-1	5422,5423	1,1	-1	-1
+240	Romantic Pas Carsise Set	Apparel	199	-1	5424,5425	1,1	-1	-1
+241	Pink Angel Ami Set	Apparel	199	-1	5428,5429,5430,5431	1,1,1,1	-1	-1
+242	Deadly Ruler	Apparel	199	-1	5448	1	-1	-1
+243	Beef Tendon Bidirectional	Apparel	199	-1	5449	1	-1	-1
+244	Deluxe Binding Encyclopaedia	Apparel	199	-1	5450	1	-1	-1
+245	Snake-heart Magic	Apparel	199	-1	5451	1	-1	-1
+246	Sharp Dividers	Apparel	199	-1	5452	1	-1	-1
+247	Yahoo Duckbilled Hat-Lance	Apparel	199	-1	5472	1	-1	-1
+248	Yahoo Duckbilled Hat-Carsise	Apparel	199	-1	5473	1	-1	-1
+249	Yahoo Duckbilled Hat-Phyllis	Apparel	199	-1	5474	1	-1	-1
+250	Yahoo Duckbilled Hat-Ami	Apparel	199	-1	5475	1	-1	-1
+//Manu and Cooking Package
+251	Impact Arsenal	Manufacturing	299	1	1136,1137,1138,1146,1148	29,19,19,19,19	-1	-1
+252	Explosive Chef's Kit	Cooking	299	1	1078,4020,1087	29,19,4	-1	-1
+/// Apparels ROSO EXCLUSIVE
+253	Blue Dev Armor	Apparel	399	-1	10001	1	-1	-1
+254	Sky Dagger	Apparel	399	-1	10002	1	-1	-1
+255	Ninja Lance	Apparel	399	-1	10003,10005	1,1	-1	-1
+256	Ninja Ami	Apparel	399	-1	10004,10006	1,1	-1	-1
+257	M4 Gun	Apparel	399	-1	10007	1	-1	-1
+258	Shingeki Bow	Apparel	399	-1	10008	1	-1	-1
+259	KeiScythe	Apparel	399	-1	10009	1	-1	-1
+260	Trapper Hat	Apparel	399	-1	10010	1	-1	-1
+261	Ninja Glove	Apparel	399	-1	10011	1	-1	-1
+262	rtx helm+armor	Apparel	399	-1	10012,10013	1,1	-1	-1
+///Inivisio Helms
+263	Invisio Helm - Lance	Apparel	399	-1	9409	1	-1	-1
+264	Invisio Helm - Carsise	Apparel	399	-1	9410	1	-1	-1
+265	Invisio Helm - Phyllis	Apparel	399	-1	9411	1	-1	-1
+266	Invisio Helm - Ami	Apparel	399	-1	9412	1	-1	-1
+///Water Break Upgrade
+267	Soul of Water	Makes an water fusion	1199	1	9445	1	-1	-1
+/// Apparels ROSO EXCLUSIVE
+268	BlueDev Staff	Apparel	199	-1	10014	1	-1	-1
+269	Seba Lucifer Lance	Apparel	199	-1	10015,10016,10017,10023	1,1,1,1	-1	-1
+270	Chrunicus Knife	Apparel	199	-1	10018 1	-1	-1
+271	Chrunicus Cutter	Apparel	199	-1	10019 1	-1	-1
+272	Fallen God's Halo	Apparel	199	-1	10020 1	-1	-1
+273	Blue bow - Black Soul	Apparel	199	-1	10021	1	-1	-1
+274	Lucifer Bow	Apparel	199	-1	10022	1	-1	-1
+275	Lucifer Gun	Apparel	199	-1	10024	1	-1	-1
+276	Dark Luis Armor	Apparel	199	-1	10025	1	-1	-1
+277	Paul The Boss Lance	Apparel	199	-1	10026,10027	1,1	-1	-1
+278	BugsBunny Armor	Apparel	199	-1	10028	1	-1	-1
+279	Alvin Bow	Apparel	199	-1	10029	1	-1	-1
+280	Alvin Gun	Apparel	199	-1	10030	1	-1	-1
+281	NewFeb's Vest	Apparel	199	-1	10031	1	-1	-1
+282	A.K.A Emi	Apparel	199	-1	10032	1	-1	-1
+283	Febsky Red Bow	Apparel	199	-1	10033	1	-1	-1
+284	FebEdgar Hat v2	Apparel	199	-1	10034	1	-1	-1
+285	FebEdgar Armor v1	Apparel	199	-1	10035	1	-1	-1
+286	FebEdgar Staff v2	Apparel	199	-1	10036	1	-1	-1
+287	FebEdgar Hat	Apparel	199	-1	10037	1	-1	-1
+288	MsCute v1	Apparel	199	-1	10038	1	-1	-1
+289	FebEdgar Staff	Apparel	199	-1	10039	1	-1	-1
+290	Omar Lance	Apparel	199	-1	10040,10053	1,1	-1	-1
+291	Omar Gun	Apparel	199	-1	10041	1	-1	-1
+292	Omar Bow	Apparel	199	-1	10042	1	-1	-1
+293	Chapman Gucci Lance	Apparel	199	-1	10043,10044	1,1	-1	-1
+294	Chapman Ak 47	Apparel	199	-1	10045	1	-1	-1
+295	Red Devil Kin Armor	Apparel	199	-1	10046	1	-1	-1
+296	Red Devil Kin Knife	Apparel	199	-1	10047	1	-1	-1
+297	Red Devil Kin Cutter	Apparel	199	-1	10048	1	-1	-1
+298	Magic Armor	Apparel	199	-1	10049	1	-1	-1
+299	Mata Perr@s Amor	Apparel	199	-1	10050	1	-1	-1
+300	Mata Perr@s Gun	Apparel	199	-1	10051	1	-1	-1
+301	Mata Perr@s Hat	Apparel	199	-1	10052	1	-1	-1
+302	L- Hitter	Apparel	199	-1	10054	1	-1	-1
+303	K- Bolt	Apparel	199	-1	10055	1	-1	-1
+304	ilya's undies2020	Apparel	199	-1	10056	1	-1	-1
+305	ilya's Hat2020	Apparel	199	-1	10057	1	-1	-1
+306	ilya's Fooken Kunai	Apparel	199	-1	10058	1	-1	-1
+307	Dark Classic Lance	Apparel	199	-1	10059,10060,10061	1,1,1	-1	-1
+308	ilya's Armor 69	Apparel	199	-1	10062	1	-1	-1
+309	ilya's Crusifix Gun	Apparel	199	-1	10063	1	-1	-1
+310	ilya's Crusifix Bow	Apparel	199	-1	10064	1	-1	-1
+311	God Sword	Apparel	199	-1	10065	1	-1	-1
+312	Magic Hat	Apparel	199	-1	10066	1	-1	-1
+313	Michael Gun	Apparel	199	-1	10067	1	-1	-1
+314	Dark Classic Swords	Apparel	199	-1	10068	1	-1	-1
+315	Dark Classic Crown	Apparel	199	-1	10069	1	-1	-1
+316	Dark Classic Crown	Apparel	199	-1	10069	1	-1	-1
+317	Jotaah Hat	Apparel	199	-1	10070	1	-1	-1
+318	Kyllin-Drag Lance	Apparel	199	-1	10071,10072,10073	1,1,1	-1	-1
+319	Y- Pink Lance	Apparel	199	-1	10074,10075,10076	1,1,1	-1	-1
+320	M- Diamond Scepter	Apparel	199	-1	10077	1	-1	-1
+321	Y- Demon Hitters	Apparel	199	-1	10078	1	-1	-1
+322	Q- Demon Staff	Apparel	199	-1	10079	1	-1	-1
+323	Neo's Lance	Apparel	199	-1	10080,10081,10082,10083	1,1,1,1	-1	-1
+324	Neo's Scythe	Apparel	199	-1	10084	1	-1	-1
+325	Neo's Scythe II	Apparel	199	-1	10085	1	-1	-1
+326	Tobi Armor	Apparel	199	-1	10086	1	-1	-1
+327	Elias Armor	Apparel	199	-1	10087	1	-1	-1
+328	Tobi Bow	Apparel	199	-1	10088	1	-1	-1
+329	KhadzDaGr8 Knife	Apparel	199	-1	10089	1	-1	-1
+330	KhadzDaGr8 Cutter	Apparel	199	-1	10090	1	-1	-1
+331	Prison Break Armor	Apparel	199	-1	10091	1	-1	-1
+332	1 Shot 1 Kil	Apparel	199	-1	10092	1	-1	-1
+333	Nem's Lance	Apparel	199	-1	10093,10094,10095,10096	1,1,1,1	-1	-1
+334	Nem's Bow	Apparel	199	-1	10097	1	-1	-1
+335	Nem's Gun	Apparel	199	-1	10098	1	-1	-1
+336	Ancelmo's Lance	Apparel	199	-1	10099,10100	1,1	-1	-1
+337	Ancelmo's Swords	Apparel	199	-1	10101	1	-1	-1
+338	Damn Gun	Apparel	199	-1	10102	1	-1	-1
+339	Infinity Sexy Armor	Apparel	199	-1	10103	1	-1	-1
+340	Stunner's Sword	Apparel	199	-1	10104	1	-1	-1
+341	Holy Divine Ksora Carsice	Apparel	199	-1	10105,10106,10107,10108	1,1,1,1	-1	-1
+342	Lyra MP5 Gold Black	Apparel	199	-1	10109	1	-1	-1
+343	Cancer Body	Apparel	199	-1	10110	1	-1	-1
+344	Holy Divine Ksora Hammer	Apparel	199	-1	10111	1	-1	-1
+345	Holy Divine Ksora Swords	Apparel	199	-1	10112	1	-1	-1
+346	Scarl-Ray Gun	Apparel	199	-1	10113	1	-1	-1
+347	L- Suit of Constitution	Apparel	199	-1	10114	1	-1	-1
+348	L- Wilted Destiny	Apparel	199	-1	10115	1	-1	-1
+349	Hat of Envy	Apparel	199	-1	10116	1	-1	-1
+350	Mango Amor	Apparel	199	-1	10117	1	-1	-1
+351	Mango Hat	Apparel	199	-1	10118	1	-1	-1
+352	ING(JESS Q LB A)	Apparel	199	-1	10120	1	-1	-1
+353	ING(JESS Q LB G)	Apparel	199	-1	10121	1	-1	-1
+354	ING(JESS Q LB B)	Apparel	199	-1	10122	1	-1	-1
+355	ING(JESS Q LB H)	Apparel	199	-1	10123	1	-1	-1
+356	ING(JESS Q LB S)	Apparel	199	-1	10124	1	-1	-1
+357	ING(JESS K RED H)	Apparel	199	-1	10125	1	-1	-1
+358	ING (JESS K RED A)	Apparel	199	-1	10126	1	-1	-1
+359	ING (JESS K RED G)	Apparel	199	-1	10127	1	-1	-1
+360	ING(JESS K RED B)	Apparel	199	-1	10128	1	-1	-1
+361	ING(JESS K RED PHYTHON)	Apparel	199	-1	10129	1	-1	-1
+362	ING (JESS LB SKULL)	Apparel	199	-1	10130	1	-1	-1
+363	ING(JESS LB AR 1)	Apparel	199	-1	10131	1	-1	-1
+364	ING (JESS LB GL 1)	Apparel	199	-1	10132	1	-1	-1
+365	ING (JESS LB BO 1)	Apparel	199	-1	10133	1	-1	-1
+366	ING(JESS LB SUNG 1)	Apparel	199	-1	10134	1	-1	-1
+367	Mango Cutter	Apparel	199	-1	10135	1	-1	-1
+368	~Paper Hat	Apparel	199	-1	10136	1	-1	-1
+369	~Paper Robe	Apparel	199	-1	10137	1	-1	-1
+370	~Paper Bow	Apparel	199	-1	10138	1	-1	-1
+371	Wanda Amor	Apparel	199	-1	10139	1	-1	-1
+372	Mata perros	Apparel	199	-1	10140	1	-1	-1
+373	Wanda Dagger	Apparel	199	-1	10141	1	-1	-1
+374	Glitter Armor	Apparel	199	-1	10142	1	-1	-1
+375	Glitter Gun	Apparel	199	-1	10143	1	-1	-1
+376	Starry Eagle Bow	Apparel	199	-1	10144	1	-1	-1
+377	L-'s Shotgun of Misery	Apparel	199	-1	10145	1	-1	-1
+378	L-'s Sharp Gatling	Apparel	199	-1	10146	1	-1	-1
+379	Desert Eag[L-]e	Apparel	199	-1	10147	1	-1	-1
+380	L-'s Bolt Shooter	Apparel	199	-1	10148	1	-1	-1
+381	Mystic Bow of Sandrila	Apparel	199	-1	10149	1	-1	-1
+382	L-'s Sharpshooter	Apparel	199	-1	10228	1	-1	-1
+383	L-'s 16	Apparel	199	-1	10229	1	-1	-1
+384	Flail of the Widow	Apparel	199	-1	10230	1	-1	-1
+385	iRams' Shot	Apparel	199	-1	10231	1	-1	-1
+386	Mou armor	Apparel	199	-1	10232	1	-1	-1
+387	Apple armor	Apparel	199	-1	10234	1	-1	-1
+388	Heil dagger	Apparel	199	-1	10235	1	-1	-1
+389	Jotaah Gun	Apparel	199	-1	10236	1	-1	-1
+390	Starry Kunai	Apparel	199	-1	10237	1	-1	-1
+391	Beto White Bow	Apparel	199	-1	10238	1	-1	-1
+392	SpallzGun 1	Apparel	199	-1	10239	1	-1	-1
+393	SpallzHammer 1	Apparel	199	-1	10240	1	-1	-1
+394	SpallzBow 3	Apparel	199	-1	10241	1	-1	-1
+395	Thor Armor	Apparel	199	-1	10242	1	-1	-1
+396	Thor Gloves	Apparel	199	-1	10243	1	-1	-1
+397	Thor Boots	Apparel	199	-1	10244	1	-1	-1
+398	FBI Hat 2	Apparel	199	-1	10245	1	-1	-1
+399	Michael Phyllis 1	Apparel	199	-1	10246	1	-1	-1
+400	L-Skorpion	Apparel	199	-1	10247	1	-1	-1
+401	Death's Samurai Armor	Apparel	199	-1	10248	1	-1	-1
+402	Death's Samurai Cowl	Apparel	199	-1	10249	1	-1	-1
+403	Death's Samurai Katana	Apparel	199	-1	10250	1	-1	-1
+404	Lime Armor	Apparel	199	-1	10251	1	-1	-1
+405	Lime Swords	Apparel	199	-1	10252	1	-1	-1
+406	Mou Hat	Apparel	199	-1	10253	1	-1	-1
+407	M4A1-GoldRay Gun	Apparel	199	-1	10254	1	-1	-1
+408	Coyote-JoW Armor	Apparel	199	-1	10255	1	-1	-1
+409	Coyote-JoW Crown	Apparel	199	-1	10256	1	-1	-1
+410	Desert Eag[L-]e W	Apparel	199	-1	10257	1	-1	-1
+411	L-'s Thompson SMG	Apparel	199	-1	10258	1	-1	-1
+412	L-'s MP 40	Apparel	199	-1	10259	1	-1	-1
+413	Kim's Aqua Sword	Apparel	199	-1	10260	1	-1	-1
+414	Kim's Shielded Staff	Apparel	199	-1	10261	1	-1	-1
+415	Kim's Nurse Armor Phyllis	Apparel	199	-1	10262	1	-1	-1
+416	Great Sword of the Fallen	Apparel	199	-1	10263	1	-1	-1
+417	Axe of Phantasm	Apparel	199	-1	10264	1	-1	-1
+418	[L-] Magnum	w0298	Apparel	199	-1	10265	1	-1	-1
+419	Scythe of Sanguine	Apparel	199	-1	10266	1	-1	-1
+420	Armor of Blood	Apparel	199	-1	10267	1	-1	-1
+421	Halo of the Reaper	Apparel	199	-1	10268	1	-1	-1
+422	Corrupted Great Sword	Apparel	199	-1	10269	1	-1	-1
+423	Armor of the Corrupted	Apparel	199	-1	10270	1	-1	-1
+424	Devil's Eye	Apparel	199	-1	10271	1	-1	-1
+425	Avatar Armor 2	Apparel	199	-1	10272	1	-1	-1
+426	SpallzHammer 2	Apparel	199	-1	10273	1	-1	-1
+427	Yisus Staff	Apparel	199	-1	10274	1	-1	-1
+428	King Savage Armor	Apparel	199	-1	10275	1	-1	-1
+429	King Savage Gloves	Apparel	199	-1	10276	1	-1	-1
+430	King Savage Spear	Apparel	199	-1	10277	1	-1	-1
+431	Ryuk Hammer	Apparel	199	-1	10278	1	-1	-1
+432	Ryuk Armor	Apparel	199	-1	10279	1	-1	-1
+433	Ryuk Hat	Apparel	199	-1	10280	1	-1	-1
+434	German Sovereign Vest	Apparel	199	-1	10281	1	-1	-1
+435	Gen'ei Ryodan #7	Apparel	199	-1	10282	1	-1	-1
+436	WWII MP40	Apparel	199	-1	10283	1	-1	-1
+437	Lila PUC Armor	Apparel	199	-1	10284	1	-1	-1
+438	Lila PUC Horns	Apparel	199	-1	10285	1	-1	-1
+439	Lila PUC Gun	Apparel	199	-1	10286	1	-1	-1
+440	Pin 18 Armor	Apparel	199	-1	10287	1	-1	-1
+441	Pin 18 Hat	Apparel	199	-1	10288	1	-1	-1
+442	Pin 18 Gun	Apparel	199	-1	10289	1	-1	-1
+443	Goku Dagger	Apparel	199	-1	10290	1	-1	-1
+444	Goku Hat	Apparel	199	-1	10291	1	-1	-1
+445	Goku Armor	Apparel	199	-1	10292	1	-1	-1
+446	Goku Gloves	Apparel	199	-1	10293	1	-1	-1
+447	Goku Boots	Apparel	199	-1	10294	1	-1	-1
+448	Ami Jow Hat	hatami	Apparel	199	-1	10295	1	-1	-1
+449	X- Suit of the Vale	Apparel	199	-1	10296	1	-1	-1
+450	Cerberus Pistol	Apparel	199	-1	10297	1	-1	-1
+451	L-'s M4A1	Apparel	199	-1	10298	1	-1	-1
+452	Zamudio Sm A	Apparel	199	-1	10299	1	-1	-1
+453	Zamido Rose A	Apparel	199	-1	10300	1	-1	-1
+454	Zamudio Sm H	Apparel	199	-1	10301	1	-1	-1
+455	Drake's Bunny Armour	Apparel	199	-1	10302	1	-1	-1
+456	Drake's Bunny Shoes	Bunny2	Apparel	199	-1	10303	1	-1	-1
+457	Drake's Bunny Gloves	Apparel	199	-1	10304	1	-1	-1
+458	AWP Dragon-Lore Gun	Apparel	199	-1	10305	1	-1	-1
+459	Qbz-SilverRay Gun	Apparel	199	-1	10306	1	-1	-1
+460	Dragon-JoW Sword	Apparel	199	-1	10307	1	-1	-1
+461	Cleric Queen's Armor	Apparel	199	-1	10308	1	-1	-1
+462	Crown of the Undead	Apparel	199	-1	10309	1	-1	-1
+463	Serenity	Apparel	199	-1	10310	1	-1	-1
+464	Chronos Halberd	Apparel	199	-1	10311	1	-1	-1
+465	Chronos Armor	Apparel	199	-1	10312	1	-1	-1
+466	Chronos Hat	Apparel	199	-1	10313	1	-1	-1
+467	Starry White Coat	Apparel	199	-1	10314	1	-1	-1
+468	Starry White Boots	Apparel	199	-1	10315	1	-1	-1
+469	White Hair Red Horns	Apparel	199	-1	10316	1	-1	-1
+470	Alaida Hat	jowp1	Apparel	199	-1	10317	1	-1	-1
+471	Alaida Armor	Apparel	199	-1	10318	1	-1	-1
+472	Narcos B-RED Suit	Apparel	199	-1	10319	1	-1	-1
+473	L- Cyber Shot	Apparel	199	-1	10320	1	-1	-1
+474	M- Staff of the Mystic	Apparel	199	-1	10321	1	-1	-1
+475	L- Brown Hat	Apparel	199	-1	10322	1	-1	-1
+476	K- Surge Axe	Apparel	199	-1	10333	1	-1	-1
+477	L- Hair Style 1	Apparel	199	-1	10334	1	-1	-1
+478	K- Surge Armor	Apparel	199	-1	10335	1	-1	-1
+479	L-'s Golden Colt	Apparel	199	-1	10336	1	-1	-1
+480	L-'s Benelli 828U	Apparel	199	-1	10337	1	-1	-1
+481	L-'s Suit of Fervor	Apparel	199	-1	10338	1	-1	-1
+482	L- Gold Dragon	Apparel	199	-1	10339	1	-1	-1
+483	L-'s SPR-X3	Apparel	199	-1	10340	1	-1	-1
+484	L-'s Tommy Gun 2.0	Apparel	199	-1	10341	1	-1	-1
+485	[~Escanor~] Ax	Apparel	199	-1	10342	1	-1	-1
+486	[~Gowther~] Dagger	Apparel	199	-1	10343	1	-1	-1
+487	Spallz Hat	Apparel	199	-1	10344	1	-1	-1
+488	Armor Bunny P1NK	Apparel	199	-1	10345	1	-1	-1
+489	Gloves Bunny P2NK	Apparel	199	-1	10346	1	-1	-1
+490	Boots Bunny P3NK	Apparel	199	-1	10347	1	-1	-1
+491	ULTr4KiLL M4ST3R Dagger	Apparel	199	-1	10348	1	-1	-1
+492	ULTr4KiLL StaFF	Apparel	199	-1	10349	1	-1	-1
+493	Hat Bunny P4NK	Apparel	199	-1	10350	1	-1	-1
+494	Night Hat	Apparel	199	-1	10351	1	-1	-1
+495	Night Armor	Apparel	199	-1	10352	1	-1	-1
+496	Night Gloves	Apparel	199	-1	10353	1	-1	-1
+497	Night Boots	Apparel	199	-1	10354	1	-1	-1
+498	Black Swords	Apparel	199	-1	10355	1	-1	-1
+499	Staff of Primo By ilya	Apparel	199	-1	10356	1	-1	-1
+500	JoW-Chuck Hat	Apparel	199	-1	10357	1	-1	-1
+501	JoW-Chuck Armor	Apparel	199	-1	10358	1	-1	-1
+502	JoW-Chuck Boots	Apparel	199	-1	10359	1	-1	-1
+503	JoW-Chuck Dagger	Apparel	199	-1	10360	1	-1	-1
+504	JoW-Toca Hat	Apparel	199	-1	10361	1	-1	-1
+505	JoW-Black Hammer	Apparel	199	-1	10362	1	-1	-1
+506	Dracula Armor	Apparel	199	-1	10363	1	-1	-1
+507	Dracula Gloves	Apparel	199	-1	10364	1	-1	-1
+508	Dracula Boots	Apparel	199	-1	10365	1	-1	-1
+509	Aug A3-JoW Gun	Apparel	199	-1	10366	1	-1	-1
+510	JoW-White Fury	Apparel	199	-1	10367	1	-1	-1
+511	JoW-Soldier Armor	Apparel	199	-1	10368	1	-1	-1
+//275	Wizard Staff	Apparel	199	-1	10369	1	-1	-1
+//275	Blade Hammer	Apparel	199	-1	10370	1	-1	-1
+//275	Jotaah Bow	Apparel	199	-1	10371	1	-1	-1
+//275	Bunny Black I	Apparel	199	-1	10372	1	-1	-1
+//275	Bunny Black II	Apparel	199	-1	10373	1	-1	-1
+//275	Bunny Black III	Apparel	199	-1	10374	1	-1	-1
+//275	SkiNNy Staff	Apparel	199	-1	10375	1	-1	-1
+//275	Haze Pink Dagger	Apparel	199	-1	10376	1	-1	-1
+//275	Bunny Black IV	Apparel	199	-1	10377	1	-1	-1
+//275	Trapper Dagger.	Apparel	199	-1	10378	1	-1	-1
+//275	Pink-White.	Apparel	199	-1	10379	1	-1	-1
+//275	XOXO-HAT	Apparel	199	-1	10380	1	-1	-1
+//275	Ragnar's Armor	Apparel	199	-1	10381	1	-1	-1
+//275	Ragnar's Bow	Apparel	199	-1	10382	1	-1	-1
+//275	ElSanto's	Apparel	199	-1	10383	1	-1	-1
+//275	L-'s Suit of Vigor	Apparel	199	-1	10384	1	-1	-1
+//275	X-'s Dress of Vanity	Apparel	199	-1	10385	1	-1	-1
+//275	L-'s Newsboy Cap	Apparel	199	-1	10386	1	-1	-1
+//275	X-'s Bow of Vanity	Apparel	199	-1	10387	1	-1	-1
+//275	X- Mp40	Apparel	199	-1	10388	1	-1	-1
+//275	L-'s Great Eagle Bow	Apparel	199	-1	10389	1	-1	-1
+//275	X-'s Colt m1911	Apparel	199	-1	10390	1	-1	-1
+//275	L-'s Modular RIfle	Apparel	199	-1	10391	1	-1	-1
+//275	X-'s Sunny Day Hat	Apparel	199	-1	10392	1	-1	-1
+//275	BrianAiS Armor Sm	Apparel	199	-1	10393	1	-1	-1
+//275	BrianAiS Hat Sm	Apparel	199	-1	10394	1	-1	-1
+//275	BrianAiS Hammer	Apparel	199	-1	10395	1	-1	-1
+//275	BrianAiS Armor	Apparel	199	-1	10396	1	-1	-1
+//275	BrianAiS Boots	Apparel	199	-1	10397	1	-1	-1
+//275	BrianAiS Gloves	Apparel	199	-1	10398	1	-1	-1
+//275	BrianAiS Gun	Apparel	199	-1	10399	1	-1	-1
+//275	BrianAiS Hat	Apparel	199	-1	10400	1	-1	-1
+//275	PaulEvolution Staff	Apparel	199	-1	10401	1	-1	-1
+//275	Julite Armor	Apparel	199	-1	10402	1	-1	-1
+//275	Julite Hat	Apparel	199	-1	10403	1	-1	-1
+//275	Kiran Armor	Apparel	199	-1	10404	1	-1	-1
+//275	L-'s Hairstyle 2	Apparel	199	-1	10405	1	-1	-1
+//275	[L-]EGEND	Apparel	199	-1	10406	1	-1	-1
+//275	X-'s Tec-9	Apparel	199	-1	10407	1	-1	-1
+//275	Drake Armor 1	Apparel	199	-1	10408	1	-1	-1
+//275	PaulEvolution1	Apparel	199	-1	10409	1	-1	-1
+//275	PaulHatEvolution	Apparel	199	-1	10410	1	-1	-1
+//275	Rydeer Armor	Apparel	199	-1	10411	1	-1	-1
+//275	Rydeer Red Armor	Apparel	199	-1	10412	1	-1	-1
+//275	Rydeer Dagger	Apparel	199	-1	10413	1	-1	-1
+//275	Yan Assault Scar Gun	Apparel	199	-1	10414	1	-1	-1
+//275	Yan Army Armor	Apparel	199	-1	10415	1	-1	-1
+//275	Yan Lord BoW	Apparel	199	-1	10416	1	-1	-1
+//275	Akutsaki Blue Sword	Apparel	199	-1	10417	1	-1	-1
+//275	PST Sword	Apparel	199	-1	10418	1	-1	-1
+//275	Keithzh-Hat	Apparel	199	-1	10419	1	-1	-1
+//275	RayLander-4.0 BoW	Apparel	199	-1	10420	1	-1	-1
+//275	JoW-Darkness Hat	Apparel	199	-1	10421	1	-1	-1
+//275	JoW-Darkness Armor	Apparel	199	-1	10422	1	-1	-1
+//275	Drake Armor	Drake1	Apparel	199	-1	10423	1	-1	-1
+//275	Drake Gloves	Apparel	199	-1	10424	1	-1	-1
+//275	Drake Boots	Drake3	Apparel	199	-1	10425	1	-1	-1
+//275	Bear Hammer	Apparel	199	-1	10426	1	-1	-1
+//275	Odysseus Armor	Apparel	199	-1	10427	1	-1	-1
+//275	Odysseus Gloves	Apparel	199	-1	10428	1	-1	-1
+//275	Odysseus Boots	Apparel	199	-1	10429	1	-1	-1
+//275	Odysseus Sword	Apparel	199	-1	10430	1	-1	-1
+//275	Odysseus Shield	Apparel	199	-1	10431	1	-1	-1
+//275	Odysseus Hat	Apparel	199	-1	10432	1	-1	-1
+//275	DanArmor	Apparel	199	-1	10433	1	-1	-1
+//275	SnowHelm	Apparel	199	-1	10444	1	-1	-1
+//275	VampMetalDagger	Apparel	199	-1	10445	1	-1	-1
+//275	Andromaha Armor	Apparel	199	-1	10446	1	-1	-1
+//275	Andromaha Glove	Apparel	199	-1	10447	1	-1	-1
+//275	Andromaha Boots	Apparel	199	-1	10448	1	-1	-1
+//275	Andromaha Hat	Apparel	199	-1	10449	1	-1	-1
+//275	Andromaha Staff	Apparel	199	-1	10450	1	-1	-1
+//275	Odysseus Hat 2	Apparel	199	-1	10451	1	-1	-1
+//275	Nishi's Longtail	Apparel	199	-1	10452	1	-1	-1
+//275	Nishi's Heirloom	Apparel	199	-1	10453	1	-1	-1
+//275	Nishi's Hallows	nier6	Apparel	199	-1	10454	1	-1	-1
+//275	L-'s Cuffs	Apparel	199	-1	10455	1	-1	-1
+//275	L-'s Winter Coat	Apparel	199	-1	10456	1	-1	-1
+//275	L- Hairstyle 3	Apparel	199	-1	10457	1	-1	-1
+//275	Jess BW Arm	Apparel	199	-1	10458	1	-1	-1
+//275	Jess BW Bts	Apparel	199	-1	10459	1	-1	-1
+//275	Jess BW Hat	Apparel	199	-1	10460	1	-1	-1
+//275	Jess BW Glv	Apparel	199	-1	10461	1	-1	-1
+//275	Jess BW Mgh	Apparel	199	-1	10462	1	-1	-1
+//275	BJess BW Fry	Apparel	199	-1	10463	1	-1	-1
+//275	PaulKingMarroneo Armor	Apparel	199	-1	10464	1	-1	-1
+//275	PaulKingMarroneo Hammer	Apparel	199	-1	10465	1	-1	-1
+//275	PaulKingMarroneo Hat	Apparel	199	-1	10466	1	-1	-1
+//275	BrianAiS Cleric Armor	Apparel	199	-1	10467	1	-1	-1
+//275	BrianAiS Cleric Staff	Apparel	199	-1	10468	1	-1	-1
+//275	BrianAiS Cleric Hat	Apparel	199	-1	10469	1	-1	-1
+//275	BrianAiS Voy Armor	Apparel	199	-1	10470	1	-1	-1
+//275	BrianAiS Voy Gloves	Apparel	199	-1	10471	1	-1	-1
+//275	BrianAiS Voy Boots	Apparel	199	-1	10472	1	-1	-1
+//275	Om Cruz 1	Apparel	199	-1	10473	1	-1	-1
+//275	Om Cruz 2	Apparel	199	-1	10474	1	-1	-1
+//275	Om Cruz 3	Apparel	199	-1	10475	1	-1	-1
+//275	Om Cruz 4	Apparel	199	-1	10476	1	-1	-1
+//275	Om Cruz 5	Apparel	199	-1	10477	1	-1	-1
+//275	Night-Hair	Apparel	199	-1	10478	1	-1	-1
+//275	Night Armor	Apparel	199	-1	10479	1	-1	-1
+//275	Night Gloves	Apparel	199	-1	10480	1	-1	-1
+//275	Night Boots	Apparel	199	-1	10481	1	-1	-1
+//275	Night-SwordsP	Apparel	199	-1	10482	1	-1	-1
+//275	Night Hair*	Apparel	199	-1	10483	1	-1	-1
+//275	Night Hair~	Apparel	199	-1	10484	1	-1	-1
+//275	Night Phy Hair$	Apparel	199	-1	10485	1	-1	-1
+//275	Night Phy Hair#12	Apparel	199	-1	10486	1	-1	-1
+//275	Keithzh!! Lance Hair	Apparel	199	-1	10487	1	-1	-1
+//275	BDK Armor-	Apparel	199	-1	10488	1	-1	-1
+//275	BDK Gloves+	Apparel	199	-1	10489	1	-1	-1
+//275	BDK Boots*	Apparel	199	-1	10490	1	-1	-1
+//275	Demonic1-Swords	Apparel	199	-1	10491	1	-1	-1
+//275	Demonic2-Swords	Apparel	199	-1	10492	1	-1	-1
+//275	C'est-Staff	Apparel	199	-1	10493	1	-1	-1
+//275	Didi-Staff	Apparel	199	-1	10494	1	-1	-1
+//275	Blue-Demoni*	Apparel	199	-1	10495	1	-1	-1
+//275	ZPXO Swords	Apparel	199	-1	10496	1	-1	-1
+//275	Night SM2	Apparel	199	-1	10497	1	-1	-1
+//275	Night SM3	Apparel	199	-1	10498	1	-1	-1
+//275	Night SM4	Apparel	199	-1	10499	1	-1	-1
+//275	Night Staff	Apparel	199	-1	10500	1	-1	-1
+//275	Night Voy1	Apparel	199	-1	10501	1	-1	-1
+//275	Hat of Angel~!	Apparel	199	-1	10502	1	-1	-1
+//275	Armor of Angel Cyan	Apparel	199	-1	10503	1	-1	-1
+//275	Demon Gun Whitezx	Apparel	199	-1	10504	1	-1	-1
+//275	Night Dagger1	Apparel	199	-1	10505	1	-1	-1
+//275	Night Dagger2	Apparel	199	-1	10506	1	-1	-1
+//275	Reykjavik Hair1	Apparel	199	-1	10507	1	-1	-1
+//275	Reykjavik Armor2	Apparel	199	-1	10508	1	-1	-1
+//275	Reykjavik Gloves3	Apparel	199	-1	10509	1	-1	-1
+//275	Reykjavik Boots4	Apparel	199	-1	10510	1	-1	-1
+//275	Reykjavik Dagger5	Apparel	199	-1	10511	1	-1	-1
+//275	Bevthorn Armor	Apparel	199	-1	10512	1	-1	-1
+//275	Bevthorn Gloves	Apparel	199	-1	10513	1	-1	-1
+//275	Bevthorn Boots	Apparel	199	-1	10514	1	-1	-1
+//275	M4A1 Special	Apparel	199	-1	10515	1	-1	-1
+//275	GoldenMAN	Apparel	199	-1	10516	1	-1	-1
+//275	Black-Kaos	Apparel	199	-1	10517	1	-1	-1
+//275	V8 Sword	Apparel	199	-1	10518	1	-1	-1
+//275	V9 Sword	Apparel	199	-1	10519	1	-1	-1
+//275	JoW-BlackAngel BoW	Apparel	199	-1	10520	1	-1	-1
+//275	Spallz Armor	Apparel	199	-1	10521	1	-1	-1
+//275	Spallz Hat	Apparel	199	-1	10522	1	-1	-1
+//275	Blade Axe	Apparel	199	-1	10523	1	-1	-1
+//275	Koto Armor	Apparel	199	-1	10524	1	-1	-1
+//275	Koto BD	Apparel	199	-1	10525	1	-1	-1
+//275	Koto BROLY	Apparel	199	-1	10526	1	-1	-1
+//275	Titingbaliko- Bow	Apparel	199	-1	10527	1	-1	-1
+//275	Titingbaliko- Hat	Apparel	199	-1	10528	1	-1	-1
+//275	Titingbaliko- Gloves	Apparel	199	-1	10529	1	-1	-1
+//275	Kaoru's Fangs Sword	Apparel	199	-1	10530	1	-1	-1
+//275	Void Dagger	Apparel	199	-1	10531	1	-1	-1
+//275	God Arc Hammer	Apparel	199	-1	10532	1	-1	-1
+//275	.Trapper+Dagger	Apparel	199	-1	10533	1	-1	-1
+//275	Shingeki Hair Cyan Black+-	Apparel	199	-1	10534	1	-1	-1
+//275	Phy*Pink Hair	Apparel	199	-1	10535	1	-1	-1
+//275	ZPQW Gun Cyan	Apparel	199	-1	10536	1	-1	-1
+//275	Shingeki Bow Cyan$	Apparel	199	-1	10537	1	-1	-1
+//275	Keithzh White Claw+	199	-1	10538	1	-1	-1
+//275	Jhay's Black Armor	Apparel	199	-1	10539	1	-1	-1
+//275	Jhay's Dark Blades	Apparel	199	-1	10540	1	-1	-1
+//275	Jhay's Black Mask	Apparel	199	-1	10541	1	-1	-1
+//275	Jhim's Coffee	Apparel	199	-1	10542	1	-1	-1
+//275	Black Jhay's Gloves	Apparel	199	-1	10543	1	-1	-1
+//275	Black Jhay's Boots	Apparel	199	-1	10544	1	-1	-1
+//275	Honor's Hat	jowCho	Apparel	199	-1	10545	1	-1	-1
+//275	JoW-KylinDrag Armor	Apparel	199	-1	10546	1	-1	-1
+//275	JoW-KylinDrag Gloves	Apparel	199	-1	10547	1	-1	-1
+//275	JoW-KylinDrag Boots	Apparel	199	-1	10548	1	-1	-1
+//275	JoW-KylinDrag Fury	Apparel	199	-1	10549	1	-1	-1
+//275	JoW-KylinDrag Hammer	Apparel	199	-1	10550	1	-1	-1
+//275	Jess BGR A	Apparel	199	-1	10551	1	-1	-1
+//275	Jess BGR B	Apparel	199	-1	10552	1	-1	-1
+//275	Jess BGR G	Apparel	199	-1	10553	1	-1	-1
+//275	Jess BGR S	Apparel	199	-1	10554	1	-1	-1
+//275	Jess PBD H	Apparel	199	-1	10555	1	-1	-1
+//275	Jess PBD A	Apparel	199	-1	10556	1	-1	-1
+//275	Jess PBD B	Apparel	199	-1	10557	1	-1	-1
+//275	Jess PBD G	Apparel	199	-1	10558	1	-1	-1
+//275	Jess PBD G	Apparel	199	-1	10559	1	-1	-1
+//275	Jess CY H	Apparel	199	-1	10560	1	-1	-1
+//275	Jess CY A	Apparel	199	-1	10561	1	-1	-1
+//275	Jess CY G	Apparel	199	-1	10562	1	-1	-1
+//275	Jess CY B	Apparel	199	-1	10563	1	-1	-1
+//275	Jess CY D	Apparel	199	-1	10564	1	-1	-1
+//275	Jess BGR H	Apparel	199	-1	10565	1	-1	-1
+//275	Sayvan Armor	Apparel	199	-1	10566	1	-1	-1
+//275	Sayvan 2 Armor	Apparel	199	-1	10567	1	-1	-1
+//275	Sheike Armor	Apparel	199	-1	10568	1	-1	-1
+//275	Belion Armor	Apparel	199	-1	10569	1	-1	-1
+//275	Blade Armor	Apparel	199	-1	10570	1	-1	-1
+//275	Blade Hat	Apparel	199	-1	10571	1	-1	-1
+//275	Kei <3 Jess Armor	Apparel	199	-1	10572	1	-1	-1
+//275	Kei <3 Jess Glove	Apparel	199	-1	10573	1	-1	-1
+//275	Kei <3 Jess Boot	Apparel	199	-1	10574	1	-1	-1
+//275	Kei <3 Jess Hair	Apparel	199	-1	10575	1	-1	-1
+//275	Kei <3 Jess Sword	Apparel	199	-1	10576	1	-1	-1
+//275	Kei <3 Jess Hammer	Apparel	199	-1	10577	1	-1	-1
+//275	JoW-KylinDrag Hat	Apparel	199	-1	10578	1	-1	-1
+//275	JoW-Super Sayajin Hat	Apparel	199	-1	10579	1	-1	-1
+//275	JoW-Super Sayajin Armor	Apparel	199	-1	10580	1	-1	-1
+//275	JoW-Super Sayajin Boots	Apparel	199	-1	10581	1	-1	-1
+//275	JoW-Dbz Staff	Apparel	199	-1	10582	1	-1	-1
+//275	Honors Hammer	Apparel	199	-1	10583	1	-1	-1
+//275	Trapper-Armor1	Apparel	199	-1	10584	1	-1	-1
+//275	Trapper-Gloves2	Apparel	199	-1	10585	1	-1	-1
+//275	Trapper-Boots3	Apparel	199	-1	10586	1	-1	-1
+//275	MDevil_Armor1	Apparel	199	-1	10587	1	-1	-1
+//275	MDevi_Gloves2	Apparel	199	-1	10588	1	-1	-1
+//275	MDevil_Boots3	Apparel	199	-1	10589	1	-1	-1
+//275	Devil Red Honrs*	Apparel	199	-1	10590	1	-1	-1
+//275	Devil-Skull*	Apparel	199	-1	10591	1	-1	-1
+//275	Spike-Swords*	Apparel	199	-1	10592	1	-1	-1
+//275	T-Blue*Sword	Apparel	199	-1	10593	1	-1	-1
+//275	Dark-Sword*+	Apparel	199	-1	10594	1	-1	-1
+//275	XOXO-Hat Ears*	Apparel	199	-1	10595	1	-1	-1
+//275	RED BLUNT HAIR	Apparel	199	-1	10596	1	-1	-1
+//275	Devil Dark Hammer$+!	Apparel	199	-1	10597	1	-1	-1
+//275	Dark armor skull*	Apparel	199	-1	10598	1	-1	-1
+//275	Ale BD Armor	Apparel	199	-1	10599	1	-1	-1
+//275	Paul Sm Armor	Apparel	199	-1	10600	1	-1	-1
+//275	Paul Sm Staff	Apparel	199	-1	10601	1	-1	-1
+//275	XOXO_Armor$	Apparel	199	-1	10602	1	-1	-1
+//275	XOXO_Gloves+	Apparel	199	-1	10603	1	-1	-1
+//275	XOXO_Boots*	Apparel	199	-1	10604	1	-1	-1
+//275	Jess KS	JESS1	Apparel	199	-1	10605	1	-1	-1
+//275	Jess KH	JESS2	Apparel	199	-1	10606	1	-1	-1
+//275	Jess KA	JESS3	Apparel	199	-1	10607	1	-1	-1
+//275	Jess KM	JESS4	Apparel	199	-1	10608	1	-1	-1
+//275	Jess KG	JESS5	Apparel	199	-1	10609	1	-1	-1
+//275	JESS KB	JESS6	Apparel	199	-1	10610	1	-1	-1
+//275	JESS A	JESSA	Apparel	199	-1	10611	1	-1	-1
+//275	Jess H	JESSH	Apparel	199	-1	10612	1	-1	-1
+//275	Jess G	JESSG	Apparel	199	-1	10613	1	-1	-1
+//275	Jess B	JESSB	Apparel	199	-1	10614	1	-1	-1
+//275	Jess Sg	JESSS	Apparel	199	-1	10615	1	-1	-1
+//275	Jess GS	JESSGS	Apparel	199	-1	10616	1	-1	-1
+//275	Aquaris Armor	Apparel	199	-1	10617	1	-1	-1
+//275	Aquaris Gloves	Apparel	199	-1	10618	1	-1	-1
+//275	Falcata of Solitude	Apparel	199	-1	10619	1	-1	-1
+//275	(Seba Hammer)	Apparel	199	-1	10620	1	-1	-1
+//275	(Seba Gun)	Apparel	199	-1	10621	1	-1	-1
+//275	(Seba Sword)	Apparel	199	-1	10622	1	-1	-1
+//275	Jumanji Hat	Apparel	199	-1	10623	1	-1	-1
+//275	Jumanji Armor	Apparel	199	-1	10624	1	-1	-1
+//275	Jumanji Sword	Apparel	199	-1	10625	1	-1	-1
+//275	KMC Hat	Apparel	199	-1	10626	1	-1	-1
+//275	KMC Armor	Apparel	199	-1	10627	1	-1	-1
+//275	KMC Staff	Apparel	199	-1	10628	1	-1	-1
+//275	DemonHorsX-Hat*	Apparel	199	-1	10629	1	-1	-1
+//275	FuyubashiPinkS*	Apparel	199	-1	10630	1	-1	-1
+//275	FbashiBP-Hair*	Apparel	199	-1	10631	1	-1	-1
+//275	ChineseArmorP*	Apparel	199	-1	10632	1	-1	-1
+//275	GorgeousHairP*	Apparel	199	-1	10633	1	-1	-1
+//275	DarkBlunt$1*	Apparel	199	-1	10634	1	-1	-1
+//275	Jhay's Vest	Apparel	199	-1	10635	1	-1	-1
+//275	Jhay's Shoes	Apparel	199	-1	10636	1	-1	-1
+//275	Jhay's Gloves	Apparel	199	-1	10637	1	-1	-1
+//275	Jhay's Bow v1	Apparel	199	-1	10638	1	-1	-1
+//275	Jhay's Gun v1	Apparel	199	-1	10639	1	-1	-1
+//275	Jhay's Hood v1	Apparel	199	-1	10640	1	-1	-1
+//275	Jhay's Armor v2	Apparel	199	-1	10641	1	-1	-1
+//275	Jhay's Dagger	Apparel	199	-1	10642	1	-1	-1
+//275	Jhay's Yahoo	Apparel	199	-1	10643	1	-1	-1
+//275	JESS 1H	JESIH	Apparel	199	-1	10644	1	-1	-1
+//275	JESS 2B	JESIB	Apparel	199	-1	10645	1	-1	-1
+//275	JESS 3A	JESIA	Apparel	199	-1	10646	1	-1	-1
+//275	JESS 4G	JESIG	Apparel	199	-1	10647	1	-1	-1
+//275	JESS 5S	JESIS	Apparel	199	-1	10648	1	-1	-1
+//275	JESSH2	JES9S	Apparel	199	-1	10649	1	-1	-1
+//275	Kim's Sexy Suit	Apparel	199	-1	10650	1	-1	-1
+//275	Kim's Sexy Boot	Apparel	199	-1	10651	1	-1	-1
+//275	Kim's Machine Gun	Apparel	199	-1	10652	1	-1	-1
+//275	Golden Dragon Armor	Apparel	199	-1	10653	1	-1	-1
+//275	Golden Dragon Gloves	Apparel	199	-1	10654	1	-1	-1
+//275	Golden Dragon Boots	Apparel	199	-1	10655	1	-1	-1
+//275	Vinicius Hat	Apparel	199	-1	10656	1	-1	-1
+//275	Vinicius Armor	Apparel	199	-1	10657	1	-1	-1
+//275	Vinicius Dagger	Apparel	199	-1	10658	1	-1	-1
+//275	JoW-Madara Hat	Apparel	199	-1	10659	1	-1	-1
+//275	JoW-Madara Armor	Apparel	199	-1	10660	1	-1	-1
+//275	JoW-Madara Boots	Apparel	199	-1	10661	1	-1	-1
+//275	JoW-Demon Staff	Apparel	199	-1	10662	1	-1	-1
+//275	JoW-6 Paths Hat	Apparel	199	-1	10663	1	-1	-1
+//275	Dragon-Boll-Blue	Apparel	199	-1	10664	1	-1	-1
+//275	Seba Cruss	Apparel	199	-1	10665	1	-1	-1
+//275	Seba SS	Apparel	199	-1	10666	1	-1	-1
+//275	Seba Champ	Apparel	199	-1	10667	1	-1	-1
+//275	Schwi da Pro Armor V.2	Apparel	199	-1	10668	1	-1	-1
+//275	Schwi da Pro Staff	Apparel	199	-1	10669	1	-1	-1
+//275	Kim's Food Panda Bag	Apparel	199	-1	10670	1	-1	-1
+//275	Bape's Dagger	Apparel	199	-1	10671	1	-1	-1
+//275	Bape's Staff	Apparel	199	-1	10672	1	-1	-1
+//275	Bape's Blades	Apparel	199	-1	10673	1	-1	-1
+//275	Jhay's Broly Hat	Apparel	199	-1	10674	1	-1	-1
+//275	Jhay's Broly Armor	Apparel	199	-1	10675	1	-1	-1
+//275	Jhay's Black Hammer	Apparel	199	-1	10676	1	-1	-1
+//275	Champffy Hat	Apparel	199	-1	10677	1	-1	-1
+//275	Chamffy Armor	Apparel	199	-1	10678	1	-1	-1
+//275	Sagar Gun Pink	Apparel	199	-1	10679	1	-1	-1
+//275	Kabbalah armor	Apparel	199	-1	10680	1	-1	-1
+//275	Kabbalah hat	Apparel	199	-1	10681	1	-1	-1
+//275	Zeekees hat	Apparel	199	-1	10682	1	-1	-1
+//275	Zamudio Goku Hat	Apparel	199	-1	10683	1	-1	-1
+//275	Zamudio Goku Armor	Apparel	199	-1	10684	1	-1	-1
+//275	Zamudio Goku boots	Apparel	199	-1	10685	1	-1	-1
+//275	Dragon-Boll-2Star Gun	Apparel	199	-1	10686	1	-1	-1
+//275	Zamudio Ssj BoW	jwzbw	Apparel	199	-1	10687	1	-1	-1
+//275	JoW-Madara Dagger	Apparel	199	-1	10688	1	-1	-1
+//275	Koto Gun	Apparel	199	-1	10689	1	-1	-1
+//275	Koto Bow	Apparel	199	-1	10690	1	-1	-1
+//275	Koto Dagger	Apparel	199	-1	10691	1	-1	-1
+//275	Sacerdot  Hammer	Apparel	199	-1	10692	1	-1	-1
+//275	Sacerdot-P Armor	Apparel	199	-1	10693	1	-1	-1
+//275	Sacerdot Boots	Apparel	199	-1	10694	1	-1	-1
+//275	Sacerdot Gloves	Apparel	199	-1	10695	1	-1	-1
+//275	Sacerdot Hat	Apparel	199	-1	10696	1	-1	-1
+//275	Sacerdot Armor	Apparel	199	-1	10697	1	-1	-1
+//275	Kiran	Febx3	Apparel	199	-1	10698	1	-1	-1
+//275	Kiran.Lance.Armor	Apparel	199	-1	10699	1	-1	-1
+//275	Kiran.Champ.Hammer	Apparel	199	-1	10700	1	-1	-1
+//275	Esezeta Bow	Apparel	199	-1	10701	1	-1	-1
+//275	Esezeta's Bow	Apparel	199	-1	10702	1	-1	-1
+//275	Seba Bow	Apparel	199	-1	10703	1	-1	-1
+//275	Jno Armor	Apparel	199	-1	10704	1	-1	-1
+//275	Jno Hammer	Apparel	199	-1	10705	1	-1	-1
+//275	Marithea Staff	Apparel	199	-1	10706	1	-1	-1
+//275	JoW-P-Devil Hat	Apparel	199	-1	10707	1	-1	-1
+//275	JoW-P-Devil Armor	Apparel	199	-1	10708	1	-1	-1
+//275	JoW-Dexter Hat	Apparel	199	-1	10709	1	-1	-1
+//275	JoW-Wt-Demon Hat	Apparel	199	-1	10710	1	-1	-1
+//275	JoW-Flame Blade	Apparel	199	-1	10711	1	-1	-1
+//275	Sacerdot' Staff	Apparel	199	-1	10712	1	-1	-1
+//275	Jason's Hat	Apparel	199	-1	10713	1	-1	-1
+//275	Jason's Armor	Apparel	199	-1	10714	1	-1	-1
+//275	Jason's Gloves	Apparel	199	-1	10715	1	-1	-1
+//275	Jason's Boots	Apparel	199	-1	10716	1	-1	-1
+//275	Jason's Fury	Apparel	199	-1	10717	1	-1	-1
+//275	Jason's Hammer	Apparel	199	-1	10718	1	-1	-1
+//275	Belico Armor	Apparel	199	-1	10719	1	-1	-1
+//275	Belico Hat	Apparel	199	-1	10720	1	-1	-1
+//275	Belico Staff	Apparel	199	-1	10721	1	-1	-1
+//275	Bape's Merchat Armor	Apparel	199	-1	10722	1	-1	-1
+//275	Bape's Crusader Armor	Apparel	199	-1	10723	1	-1	-1
+//275	Bape's Knife	Apparel	199	-1	10724	1	-1	-1
+//275	Bape's Cutter	Apparel	199	-1	10725	1	-1	-1
+//275	Bape's Merchant Helm	Apparel	199	-1	10726	1	-1	-1
+//275	Bape's Slash X	Apparel	199	-1	10727	1	-1	-1
+//275	Bape's Hammer	Apparel	199	-1	10728	1	-1	-1
+//275	Jhay's Shoes	Apparel	199	-1	10729	1	-1	-1
+//275	Jhay's Gauntlet	Apparel	199	-1	10730	1	-1	-1
+//275	Jhay's Helm V1	Apparel	199	-1	10731	1	-1	-1
+//275	Jhay's Tattoo	Apparel	199	-1	10732	1	-1	-1
+//275	Chamffy Furies	Apparel	199	-1	10733	1	-1	-1
+//275	Jhay's Katana	Apparel	199	-1	10734	1	-1	-1
+//275	VIP White Hair	Apparel	199	-1	10735	1	-1	-1
+//275	VIP Blue Armor	Apparel	199	-1	10736	1	-1	-1
+//275	VIP White Swords	Apparel	199	-1	10737	1	-1	-1
+//275	Pegaso Hat	BtoHt	Apparel	199	-1	10738	1	-1	-1
+//275	Runic Weapons Knife	Apparel	199	-1	10739	1	-1	-1
+//275	Runic Weapons Cutter	Apparel	199	-1	10740	1	-1	-1
+//275	Pegaso Swords	Apparel	199	-1	10741	1	-1	-1
+//275	Sealed Staff	Apparel	199	-1	10742	1	-1	-1
+//275	Fish Hammer	Apparel	199	-1	10743	1	-1	-1
+//275	Michael Gun 2	Apparel	199	-1	10744	1	-1	-1
+//275	Roush White Armor	Apparel	199	-1	10745	1	-1	-1
+//275	Roush White Hat	Apparel	199	-1	10746	1	-1	-1
+//275	Roush Black Dagger	Apparel	199	-1	10747	1	-1	-1
+//275	Weapon's Dawn	Apparel	199	-1	10748	1	-1	-1
+//275	Byron's DeathCap	Apparel	199	-1	10749	1	-1	-1
+//275	Weapon's Archer	Apparel	199	-1	10750	1	-1	-1
+//275	Byron BD Torso	Apparel	199	-1	10751	1	-1	-1
+//275	Byron BD Claw	Apparel	199	-1	10752	1	-1	-1
+//275	Byron BD Wings	Apparel	199	-1	10753	1	-1	-1
+//275	JoW-DarkTime Bow	Apparel	199	-1	10754	1	-1	-1
+//275	Sacerdot BoW	Apparel	199	-1	10755	1	-1	-1
+//275	Sacerdott Hat	Apparel	199	-1	10756	1	-1	-1
+//275	Kuro Armor	Apparel	199	-1	10757	1	-1	-1
+//275	Kuro Gloves	Apparel	199	-1	10758	1	-1	-1
+//275	Kuro Hat	Apparel	199	-1	10759	1	-1	-1
+//275	Kuro Boots	Apparel	199	-1	10760	1	-1	-1
+//275	Kuro Kunai's	Apparel	199	-1	10761	1	-1	-1
+//275	Minguito Kunai's	Apparel	199	-1	10762	1	-1	-1
+//275	Sparky Armor	Apparel	199	-1	10763	1	-1	-1
+//275	Sparky Gloves	Apparel	199	-1	10764	1	-1	-1
+//275	Sparky Hat	Apparel	199	-1	10765	1	-1	-1
+//275	Minguito Armor	Apparel	199	-1	10766	1	-1	-1
+//275	Sparky Dagger	Apparel	199	-1	10767	1	-1	-1
+//275	Minguito Hat	Apparel	199	-1	10768	1	-1	-1
+//275	Kim's Yakuza Shield	Apparel	199	-1	10769	1	-1	-1
+//275	Kim's Braided Hair	Apparel	199	-1	10770	1	-1	-1
+//275	Kim's Holy Dagger	Apparel	199	-1	10771	1	-1	-1
+//275	Kim's Winged Gun	Apparel	199	-1	10772	1	-1	-1
+//275	Kim's Iron Bow	Apparel	199	-1	10773	1	-1	-1
+//275	Kim's Ruby Wand	Apparel	199	-1	10774	1	-1	-1
+//275	Jess Purple Mohawk (Winged)	Apparel	199	-1	10775	1	-1	-1
+//275	Jess Cyan Mohawk (N.Wing)	Apparel	199	-1	10776	1	-1	-1
+//275	Jess Y.G Mohawk (N.Wing)	Apparel	199	-1	10777	1	-1	-1
+//275	KeixUchiha Armor	Apparel	199	-1	10778	1	-1	-1
+//275	KeixUchiha Hair	Apparel	199	-1	10779	1	-1	-1
+//275	KeixUchiha Boots	Apparel	199	-1	10780	1	-1	-1
+//275	Runic Hammer	Apparel	199	-1	10781	1	-1	-1
+//275	Geppetto's  BoW	Apparel	199	-1	10782	1	-1	-1
+//275	Runic BoW	Apparel	199	-1	10783	1	-1	-1
+//275	Sacerdott Armor	Apparel	199	-1	10784	1	-1	-1
+//275	Sacerdott Boots	Apparel	199	-1	10785	1	-1	-1
+//275	Sacerdott Gloves	Apparel	199	-1	10786	1	-1	-1
+//275	BlueLiquid Armor	Apparel	199	-1	10787	1	-1	-1
+//275	BlueLiquid Hat	Apparel	199	-1	10788	1	-1	-1
+//275	BlueLiquid Greatsword	Apparel	199	-1	10789	1	-1	-1
+//275	Kiran Hat	Apparel	199	-1	10790	1	-1	-1
+//275	Kiran Broly Black	Apparel	199	-1	10791	1	-1	-1
+//275	Kiran Swords	Apparel	199	-1	10792	1	-1	-1
+//275	Broly SSJ4 Armor	Apparel	199	-1	10793	1	-1	-1
+//275	Broly SSJ4 Boots	Apparel	199	-1	10794	1	-1	-1
+//275	Broly SSJ4 Hat	Apparel	199	-1	10795	1	-1	-1
+//275	PaulBrazzers Hat	Apparel	199	-1	10796	1	-1	-1
+//275	PaulBrazzers Armor	Apparel	199	-1	10797	1	-1	-1
+//275	PaulBrazzers Hammer	Apparel	199	-1	10798	1	-1	-1
+//275	PaulGhoul Hat	Apparel	199	-1	10799	1	-1	-1
+//275	PaulGhoul Armor	Apparel	199	-1	10800	1	-1	-1
+//275	Minguita Bow	Apparel	199	-1	10801	1	-1	-1
+//275	Minguita Armor	Apparel	199	-1	10802	1	-1	-1
+//275	Minguita Boots	Apparel	199	-1	10803	1	-1	-1
+//275	Minguita Gloves	Apparel	199	-1	10804	1	-1	-1
+//275	Musa Armor	Apparel	199	-1	10805	1	-1	-1
+//275	Musa Boots	Apparel	199	-1	10806	1	-1	-1
+//275	Musa Gloves	Apparel	199	-1	10807	1	-1	-1
+//275	Musa Bow	Apparel	199	-1	10808	1	-1	-1
+//275	Musa Hat	Apparel	199	-1	10809	1	-1	-1
+//275	Minguita Hat	Apparel	199	-1	10810	1	-1	-1
+//275	Black Belico Armor	Apparel	199	-1	10811	1	-1	-1
+//275	Broly SSJ4 Gloves	Apparel	199	-1	10812	1	-1	-1
+//275	Hammer White	Apparel	199	-1	10813	1	-1	-1
+//275	Seba's Merch Hat	Apparel	199	-1	10814	1	-1	-1
+//275	Seba's Merch Armor	Apparel	199	-1	10815	1	-1	-1
+//275	Seba's Merch Knife	Apparel	199	-1	10816	1	-1	-1
+//275	Seba's Merch Cutter	Apparel	199	-1	10817	1	-1	-1
+//275	MDMA666* Armor	Apparel	199	-1	10818	1	-1	-1
+//275	MDMA666* Gauntlets	Apparel	199	-1	10819	1	-1	-1
+//275	MDMA666* Boots	Apparel	199	-1	10820	1	-1	-1
+//275	MDMA666* Helm	Apparel	199	-1	10821	1	-1	-1
+//275	MDMA666* Hammer	Apparel	199	-1	10822	1	-1	-1
+//275	Venom666* Reapers Knife	Apparel	199	-1	10823	1	-1	-1
+//275	Venom666* Reapers Cutter	Apparel	199	-1	10824	1	-1	-1
+//275	*CrackMan6666 Armor	Apparel	199	-1	10825	1	-1	-1
+//275	*CrackMan6666 Boots	Apparel	199	-1	10826	1	-1	-1
+//275	*CrackMan6666 Gloves	Apparel	199	-1	10827	1	-1	-1
+//275	VampireWingBow	Apparel	199	-1	10828	1	-1	-1
+//275	BloodyNurseArmor	Apparel	199	-1	10829	1	-1	-1
+//275	VampireBloodHat	Apparel	199	-1	10830	1	-1	-1
+//275	PinkUmbrella Gun	Apparel	199	-1	10831	1	-1	-1
+//275	Vampiric Sword	Apparel	199	-1	10832	1	-1	-1
+//275	Butler Dagger	Apparel	199	-1	10833	1	-1	-1
+//275	Demonyo Staff	Apparel	199	-1	10834	1	-1	-1
+//275	DemonyongAhas Bow	Apparel	199	-1	10835	1	-1	-1
+//275	Demonyo Axe	Apparel	199	-1	10836	1	-1	-1
+//275	Musa Gun	Apparel	199	-1	10837	1	-1	-1
+//275	Brazzers CS Hammer	Apparel	199	-1	10838	1	-1	-1
+//275	Brazzers CS Hat	Apparel	199	-1	10839	1	-1	-1
+//275	Brazzers CS Armor	Apparel	199	-1	10840	1	-1	-1
+//275	Sailent Dagger	Apparel	199	-1	10841	1	-1	-1
+//275	[Sophia] Black Romance - Hair	Apparel	199	-1	10842	1	-1	-1
+//275	[Sophia] Black Romance - Armor	Apparel	199	-1	10843	1	-1	-1
+//275	Minguita Gun	Apparel	199	-1	10844	1	-1	-1
+//275	[Sophia] Black Romance - Staff	Apparel	199	-1	10845	1	-1	-1
+//275	Fade's Shiro Kami	Apparel	199	-1	10846	1	-1	-1
+//275	Fade's Shiro Kama Knife	Apparel	199	-1	10847	1	-1	-1
+//275	Fade's Shiro Kama Cutter	Apparel	199	-1	10848	1	-1	-1
+//275	Fade's Shiro Yoroi	Apparel	199	-1	10849	1	-1	-1
+//275	BerserkerFate FC Armor	Apparel	199	-1	10850	1	-1	-1
+//275	BerserkerFate FC Gloves	Apparel	199	-1	10851	1	-1	-1
+//275	BerserkerFate FC Boots	Apparel	199	-1	10852	1	-1	-1
+//275	Ares Armor	Apparel	199	-1	10853	1	-1	-1
+//275	Ares Boots	Apparel	199	-1	10854	1	-1	-1
+//275	Ares Bow	Apparel	199	-1	10855	1	-1	-1
+//275	VanHellSing Hat	Apparel	199	-1	10856	1	-1	-1
+//275	BerserkerHercules FC Hat	Apparel	199	-1	10857	1	-1	-1
+//275	BerserkerNameLess FC Hammer	Apparel	199	-1	10858	1	-1	-1
+//275	Ursula da best A S H Hat	Apparel	199	-1	10859	1	-1	-1
+//Ursula da best A S H Knife	Apparel	199	-1	10860	1	-1	-1
+//275	Ursula da best A S H Cutter	Apparel	199	-1	10861	1	-1	-1
+//275	Ursula da best  A S H Armor	Apparel	199	-1	10862	1	-1	-1
+//275	Ryuk Hat	Apparel	199	-1	10863	1	-1	-1
+//275	Ryuk  hammer	Apparel	199	-1	10864	1	-1	-1
+//275	Ryuk armor	Apparel	199	-1	10865	1	-1	-1
+//275	Necro Fal Armor	Apparel	199	-1	10866	1	-1	-1
+//275	Black Demon Helm	Apparel	199	-1	10867	1	-1	-1
+//275	Satanism Katana	Apparel	199	-1	10868	1	-1	-1
+//275	Roush Dagger	Apparel	199	-1	10869	1	-1	-1
+//275	Roush Helmet	Apparel	199	-1	10870	1	-1	-1
+//275	Roush Armor	Apparel	199	-1	10871	1	-1	-1
+//275	Entile Hat	Apparel	199	-1	10872	1	-1	-1
+//275	Entile Armor	Apparel	199	-1	10873	1	-1	-1
+//275	Entile Hammer	Apparel	199	-1	10874	1	-1	-1
+//275	xHolidays Hat	Apparel	199	-1	10875	1	-1	-1
+//275	Filthy Boots	Apparel	199	-1	10878	1	-1	-1
+//275	Filthy Staff	Apparel	199	-1	10879	1	-1	-1
+//275	Versa Swords	Apparel	199	-1	10880	1	-1	-1
+//275	Serenity Gun	Apparel	199	-1	10881	1	-1	-1
+//275	Serenity Hat	Apparel	199	-1	10882	1	-1	-1
+//275	Serenity Armor	Apparel	199	-1	10883	1	-1	-1
+//275	Serenity Bow	Apparel	199	-1	10884	1	-1	-1
+//275	Vertic Hat	Apparel	199	-1	10885	1	-1	-1
+//275	Vertic Armor	Apparel	199	-1	10886	1	-1	-1
+//275	Vertic Dagger	Apparel	199	-1	10887	1	-1	-1
+//275	K7-Leetha Hat	Apparel	199	-1	10888	1	-1	-1
+//275	K7-Leetha Armor	Apparel	199	-1	10889	1	-1	-1
+//275	The Agony Hammer	Apparel	199	-1	10890	1	-1	-1
+//275	Sailent Armor	Apparel	199	-1	10891	1	-1	-1
+//275	K7-Leetha Claw	Apparel	199	-1	10892	1	-1	-1
+//275	K7-Boots	Apparel	199	-1	10893	1	-1	-1
+//275	Mitsuki's Yoroi	Apparel	199	-1	10894	1	-1	-1
+//275	Mitsuki's Tebukuro	Apparel	199	-1	10895	1	-1	-1
+//275	Mitsuki's Butsu	Apparel	199	-1	10896	1	-1	-1
+//275	Belion Hat	Apparel	199	-1	10897	1	-1	-1
+//275	Belion Dagger	Apparel	199	-1	10898	1	-1	-1
+//275	Freyja Staff	Apparel	199	-1	10899	1	-1	-1
+//275	JaviLuffy Hat	Apparel	199	-1	10900	1	-1	-1
+//275	JaviLuffy Armor	Apparel	199	-1	10901	1	-1	-1
+//275	JaviLuffy Boots	Apparel	199	-1	10902	1	-1	-1
+//275	JaviLuffyL Hat	Apparel	199	-1	10903	1	-1	-1
+//275	JaviLuffyL Armor	Apparel	199	-1	10904	1	-1	-1
+//275	JaviRose Dagger	Apparel	199	-1	10905	1	-1	-1
+//275	Manan Swords	Apparel	199	-1	10906	1	-1	-1
+//275	Manan Hammer	Apparel	199	-1	10907	1	-1	-1
+//275	Febskyjr Gloves	Apparel	199	-1	10908	1	-1	-1
+//275	HEF Goddess Hair	Apparel	199	-1	10909	1	-1	-1
+//275	HEF Goddess Armor	Apparel	199	-1	10910	1	-1	-1
+//275	HEF Goddess Bow	Apparel	199	-1	10911	1	-1	-1
+//275	xHollidays Armor	Apparel	199	-1	10912	1	-1	-1
+//275	Zyren Armor0	Apparel	199	-1	10913	1	-1	-1
+//275	Zyren Hat	Apparel	199	-1	10914	1	-1	-1
+//275	OP T.Law Hat	Apparel	199	-1	10915	1	-1	-1
+//275	OP T.Law Wano Kimono Armor	Apparel	199	-1	10916	1	-1	-1
+//275	OP T.Law Katana Gun	Apparel	199	-1	10917	1	-1	-1
+//275	OP Sabo Hat	Apparel	199	-1	10918	1	-1	-1
+//275	OP SaboSuit Armor	Apparel	199	-1	10919	1	-1	-1
+//275	OP T.Law Katana Bow	Apparel	199	-1	10920	1	-1	-1
+//275	Superska Armor	Apparel	199	-1	10921	1	-1	-1
+//275	Pink angel gun	Apparel	199	-1	10922	1	-1	-1
+//275	SuperChamp Hammer	Apparel	199	-1	10923	1	-1	-1
+//275	Seba Knife	Apparel	199	-1	10924	1	-1	-1
+//275	Seba Cutter	Apparel	199	-1	10925	1	-1	-1
+//275	merchant Seba Hat S2	Apparel	199	-1	10926	1	-1	-1
+//275	merch seba amor S2	Apparel	199	-1	10927	1	-1	-1
+//275	Jotaah Ami Armor	Apparel	199	-1	10928	1	-1	-1
+//275	Jotaah Merch Knife	Apparel	199	-1	10929	1	-1	-1
+//275	Jotaah Merch Cutter	Apparel	199	-1	10930	1	-1	-1
+//275	Jotaah Ami Hat	Apparel	199	-1	10931	1	-1	-1
+//275	OP Eustass Kid Hat	Apparel	199	-1	10932	1	-1	-1
+//275	OP Eustass Kid Armor	Apparel	199	-1	10933	1	-1	-1
+//275	Skusta MoonFall Bow	Apparel	199	-1	10934	1	-1	-1
+//275	Jotaah Lance Armor	Apparel	199	-1	10935	1	-1	-1
+//275	Jotaah Cruss Sword	Apparel	199	-1	10936	1	-1	-1
+//275	Jotaah Lance Armor 2	Apparel	199	-1	10937	1	-1	-1

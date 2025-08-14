@@ -1,0 +1,43 @@
+[12-04 22:17:00]Conencting to GroupServer...
+[12-04 22:17:02]Connecting to GroupServer failed, reconnecting in 5 secs...
+[12-04 22:17:05]begin connect database
+[12-04 22:17:05]begin init AccountServer connect
+[12-04 22:17:05]AccountServer:25.80.52.210,2321come ! Socket num:1
+[12-04 22:17:05]begin read GroupServer.cfg
+[12-04 22:17:05]begin load ChaNameFilter.txt
+[12-04 22:17:05]begin listen port:2322
+[12-04 22:17:05]open listen port:2322success, init is ok
+[12-04 22:17:07]Conencting to GroupServer...
+[12-04 22:17:07]GateServer:25.80.52.210,43152come ! Socket num:2
+[12-04 22:17:07]connect GroupServer: 25.80.52.210,Socket num:1
+[12-04 22:17:07]GateServer:25.80.52.210,43152TP_LOGIN1
+[12-04 22:17:07]GateServer:25.80.52.210,43152TP_LOGIN2
+[12-04 22:17:07]GateServer:25.80.52.210,43152TP_LOGIN3
+[12-04 22:17:07]Successfully logged into GroupServer!
+[12-05 00:10:52]disconnection with GroupServer,Socket num: 0,reason =远程主机强迫关闭了一个现有的连接。, reconnecting...
+[12-05 00:10:52]Conencting to GroupServer...
+[12-05 00:10:54]Connecting to GroupServer failed, reconnecting in 5 secs...
+[12-05 00:10:59]Conencting to GroupServer...
+[12-05 00:11:01]Connecting to GroupServer failed, reconnecting in 5 secs...
+[12-05 00:11:05]begin connect database
+[12-05 00:11:05]begin init AccountServer connect
+[12-05 00:11:05]AccountServer:25.80.52.210,2321come ! Socket num:1
+[12-05 00:11:05]begin read GroupServer.cfg
+[12-05 00:11:05]begin load ChaNameFilter.txt
+[12-05 00:11:05]begin listen port:2322
+[12-05 00:11:05]open listen port:2322success, init is ok
+[12-05 00:11:06]Conencting to GroupServer...
+[12-05 00:11:06]connect GroupServer: 25.80.52.210,Socket num:1
+[12-05 00:11:06]GateServer:25.80.52.210,46081come ! Socket num:2
+[12-05 00:11:06]GateServer:25.80.52.210,46081TP_LOGIN1
+[12-05 00:11:06]GateServer:25.80.52.210,46081TP_LOGIN2
+[12-05 00:11:06]GateServer:25.80.52.210,46081TP_LOGIN3
+[12-05 00:11:06]Successfully logged into GroupServer!
+[12-05 01:13:57]GateServer:25.80.52.210,46081go ! Socket num:1reason=(10054)远程主机强迫关闭了一个现有的连接。
+[12-05 01:14:01]Conencting to GroupServer...
+[12-05 01:14:01]GateServer:25.80.52.210,47856come ! Socket num:2
+[12-05 01:14:01]connect GroupServer: 25.80.52.210,Socket num:1
+[12-05 01:14:01]GateServer:25.80.52.210,47856TP_LOGIN1
+[12-05 01:14:01]GateServer:25.80.52.210,47856TP_LOGIN2
+[12-05 01:14:01]GateServer:25.80.52.210,47856TP_LOGIN3
+[12-05 01:14:01]Successfully logged into GroupServer!

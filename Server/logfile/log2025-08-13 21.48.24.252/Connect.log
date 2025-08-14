@@ -1,0 +1,15 @@
+[08-13 21:10:33]begin connect database
+[08-13 21:10:33]begin init AccountServer connect
+[08-13 21:10:33]AccountServer:25.80.52.210,2321come ! Socket num:1
+[08-13 21:10:33]begin read GroupServer.cfg
+[08-13 21:10:33]begin load ChaNameFilter.txt
+[08-13 21:10:33]begin listen port:2322
+[08-13 21:10:33]open listen port:2322success, init is ok
+[08-13 21:10:40]Conencting to GroupServer...
+[08-13 21:10:40]GateServer:25.80.52.210,20046come ! Socket num:2
+[08-13 21:10:40]connect GroupServer: 25.80.52.210,Socket num:1
+[08-13 21:10:40]GateServer:25.80.52.210,20046TP_LOGIN1
+[08-13 21:10:40]GateServer:25.80.52.210,20046TP_LOGIN2
+[08-13 21:10:40]GateServer:25.80.52.210,20046TP_LOGIN3
+[08-13 21:10:40]Successfully logged into GroupServer!
+[08-13 21:39:33]GateServer:25.80.52.210,20046go ! Socket num:1reason=(10054)远程主机强迫关闭了一个现有的连接。

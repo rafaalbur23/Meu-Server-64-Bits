@@ -1,0 +1,67 @@
+﻿  AcceptConnect.cpp
+  Comm.cpp
+  CommRPC.cpp
+  DataSocket.cpp
+  DBCCommon.cpp
+  IniFile.cpp
+  LogStream.cpp
+  NTSvcObject.cpp
+  Packet.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\IniFile.cpp(227,27): warning C4101: 'e': variável local não referenciada
+  PacketEncryption.cpp
+  PacketQueue.cpp
+  Receiver.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algo_name' via domínio
+  (compilando o arquivo fonte 'PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(43,19):
+  consulte a declaração de 'Botan::RSA_PublicKey::algo_name'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::estimated_strength' via domínio
+  (compilando o arquivo fonte 'PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(62,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::estimated_strength'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::key_length' via domínio
+  (compilando o arquivo fonte 'PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(61,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::key_length'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algorithm_identifier' via domínio
+  (compilando o arquivo fonte 'PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(47,27):
+  consulte a declaração de 'Botan::RSA_PublicKey::algorithm_identifier'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::public_key_bits' via domínio
+  (compilando o arquivo fonte 'PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(49,28):
+  consulte a declaração de 'Botan::RSA_PublicKey::public_key_bits'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_encryption_op' via domínio
+  (compilando o arquivo fonte 'PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(68,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_kem_encryption_op' via domínio
+  (compilando o arquivo fonte 'PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(73,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_kem_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_verification_op' via domínio
+  (compilando o arquivo fonte 'PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x86\Debug\include\botan\rsa.h(78,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_verification_op'
+  
+  this header is deprecated
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+  this header will be made internal in the future
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Packet.cpp(280,31): warning C4244: 'argumento': conversão de 'unsigned __int64' para 'dbc::uLong', possível perda de dados
+  RWMutex.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\PacketEncryption.cpp(20,55): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\PacketEncryption.cpp(22,67): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+  Sender.cpp
+  TaskQueue.cpp
+  ThreadPool.cpp
+  Timer.cpp
+  LIBDBC.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\x86\Debug\LIBDBC_x86.lib

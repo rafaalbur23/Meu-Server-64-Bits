@@ -1,0 +1,10 @@
+[01-28 12:40:01](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[01-28 12:40:08](25.80.52.210):[eusouadm]select char[Healer]begin paly...��	 online/total:1/0
+[01-28 12:40:09](25.80.52.210):[eusouadm] char [Healer]entry map server begin play...��	 online/total:1/1
+[01-28 12:40:33]recieved kill acctid:[1004] command(not in play list)!
+[01-28 12:40:51](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[01-28 12:40:53](25.80.52.210):[eusouadm]select char[Helper]begin paly...��	 online/total:1/0
+[01-28 12:40:53](25.80.52.210):[eusouadm] char [Helper]entry map server begin play...��	 online/total:1/1
+[01-28 12:40:55](25.80.52.210):[eusouadm]exit char[Helper]begin entry select char UI...��	 online/total:1/0
+[01-28 12:40:56](25.80.52.210):[eusouadm]select char[Killer171]begin paly...��	 online/total:1/0
+[01-28 12:40:56](25.80.52.210):[eusouadm] char [Killer171]entry map server begin play...��	 online/total:1/1

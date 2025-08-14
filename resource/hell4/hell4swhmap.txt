@@ -1,0 +1,1 @@
+//Number	Bound entityID	Physical placement of the event type	Placed in the direction of the entity	Target map name	Target map	Determine the name of the trigger conditions

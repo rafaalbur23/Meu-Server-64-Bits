@@ -1,0 +1,50 @@
+[02-17 19:03:08]Conencting to GroupServer...
+[02-17 19:03:10]Connecting to GroupServer failed, reconnecting in 5 secs...
+[02-17 19:03:15]begin connect database
+[02-17 19:03:15]Conencting to GroupServer...
+[02-17 19:03:16]begin init AccountServer connect
+[02-17 19:03:16]AccountServer:25.80.52.210,2321come ! Socket num:1
+[02-17 19:03:16]begin read GroupServer.cfg
+[02-17 19:03:16]begin load ChaNameFilter.txt
+[02-17 19:03:16]begin listen port:2322
+[02-17 19:03:16]open listen port:2322success, init is ok
+[02-17 19:03:16]connect GroupServer: 25.80.52.210,Socket num:1
+[02-17 19:03:16]GateServer:25.80.52.210,27602come ! Socket num:2
+[02-17 19:03:16]GateServer:25.80.52.210,27602TP_LOGIN1
+[02-17 19:03:16]GateServer:25.80.52.210,27602TP_LOGIN2
+[02-17 19:03:16]GateServer:25.80.52.210,27602TP_LOGIN3
+[02-17 19:03:16]Successfully logged into GroupServer!
+[02-17 19:06:30]disconnection with GroupServer,Socket num: 0,reason =远程主机强迫关闭了一个现有的连接。, reconnecting...
+[02-17 19:06:31]Conencting to GroupServer...
+[02-17 19:06:33]Connecting to GroupServer failed, reconnecting in 5 secs...
+[02-17 19:06:38]Conencting to GroupServer...
+[02-17 19:06:39]begin connect database
+[02-17 19:06:39]begin init AccountServer connect
+[02-17 19:06:39]AccountServer:25.80.52.210,2321come ! Socket num:1
+[02-17 19:06:39]begin read GroupServer.cfg
+[02-17 19:06:39]begin load ChaNameFilter.txt
+[02-17 19:06:39]begin listen port:2322
+[02-17 19:06:39]open listen port:2322success, init is ok
+[02-17 19:06:40]connect GroupServer: 25.80.52.210,Socket num:1
+[02-17 19:06:40]GateServer:25.80.52.210,27746come ! Socket num:2
+[02-17 19:06:40]GateServer:25.80.52.210,27746TP_LOGIN1
+[02-17 19:06:40]GateServer:25.80.52.210,27746TP_LOGIN2
+[02-17 19:06:40]GateServer:25.80.52.210,27746TP_LOGIN3
+[02-17 19:06:40]Successfully logged into GroupServer!
+[02-17 19:06:48]disconnection with GroupServer,Socket num: 0,reason =远程主机强迫关闭了一个现有的连接。, reconnecting...
+[02-17 19:06:49]Conencting to GroupServer...
+[02-17 19:06:51]Connecting to GroupServer failed, reconnecting in 5 secs...
+[02-17 19:06:53]begin connect database
+[02-17 19:06:53]begin init AccountServer connect
+[02-17 19:06:53]AccountServer:25.80.52.210,2321come ! Socket num:1
+[02-17 19:06:53]begin read GroupServer.cfg
+[02-17 19:06:53]begin load ChaNameFilter.txt
+[02-17 19:06:53]begin listen port:2322
+[02-17 19:06:53]open listen port:2322success, init is ok
+[02-17 19:06:56]Conencting to GroupServer...
+[02-17 19:06:56]connect GroupServer: 25.80.52.210,Socket num:1
+[02-17 19:06:56]GateServer:25.80.52.210,27764come ! Socket num:2
+[02-17 19:06:56]GateServer:25.80.52.210,27764TP_LOGIN1
+[02-17 19:06:56]GateServer:25.80.52.210,27764TP_LOGIN2
+[02-17 19:06:56]GateServer:25.80.52.210,27764TP_LOGIN3
+[02-17 19:06:56]Successfully logged into GroupServer!

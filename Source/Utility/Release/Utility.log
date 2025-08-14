@@ -1,0 +1,81 @@
+﻿  SehException.cpp
+  algo.cpp
+  bill.cpp
+  CPerformance.cpp
+  db.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(24,15): warning C4101: 'szPath': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(23,15): warning C4101: 'bMiniDumpSuccessful': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(31,35): warning C4101: 'ExpParam': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(29,17): warning C4101: 'hDumpFile': variável local não referenciada
+  db3.cpp
+  ErrorReport.cpp
+  LanguageRecord.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(2196,17): warning C4101: 'time_2': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(2196,9): warning C4101: 'time_1': variável local não referenciada
+  LicenseManager.cpp
+  log.cpp
+  log2.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(1862,14): warning C4305: 'argumento': truncamento de 'int' para 'bool'
+  logutil.cpp
+  MapDataVer.cpp
+  MapUtil.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(50,20): warning C4305: 'specialization': truncamento de 'int' para 'bool'
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(50,20): warning C4806: '^': operação não segura: nenhum valor do tipo 'bool' promovido para tipo 'const int' pode se igualar à constante fornecida
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(822,35): warning C4804: '+=': uso não seguro de tipo 'bool' em operação
+  (compilando o arquivo fonte 'LicenseManager.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(822,35):
+  o contexto de instanciação do modelo (o mais antigo primeiro) é
+  	C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(35,19):
+  	consulte a referência à instanciação 'obf::extra_substraction<T>' do modelo da classe que está sendo compilada
+          with
+          [
+              T=bool
+          ]
+  	C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(822,12):
+  	ao compilar a função de membro 'obf::extra_substraction<T>::~extra_substraction(void)' do modelo da classe
+          with
+          [
+              T=bool
+          ]
+  		C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(35,19):
+  		veja a primeira referência a 'obf::extra_substraction<T>::~extra_substraction' em 'LicenseManager::verifyLicense::<lambda_3>::operator ()'
+          with
+          [
+              T=bool
+          ]
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(821,11): warning C4804: '-=': uso não seguro de tipo 'bool' em operação
+  (compilando o arquivo fonte 'LicenseManager.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(821,11):
+  o contexto de instanciação do modelo (o mais antigo primeiro) é
+  	C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(820,3):
+  	ao compilar a função de membro 'obf::extra_substraction<T>::extra_substraction(T &)' do modelo da classe
+          with
+          [
+              T=bool
+          ]
+  		C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(35,19):
+  		veja a primeira referência a 'obf::extra_substraction<T>::extra_substraction' em 'LicenseManager::verifyLicense::<lambda_3>::operator ()'
+          with
+          [
+              T=bool
+          ]
+  
+  MyMemory.cpp
+  packet.cpp
+  pch.cpp
+  playsound.cpp
+  PrivilegeCheck.cpp
+  SectionData.cpp
+  sym_engine.cpp
+  util2.cpp
+  Win32Guid.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(552,48): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(553,55): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(556,19): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\util2.cpp(429,71): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\util2.cpp(429,71):
+  espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 2 foram fornecidos
+  
+  md5c.c
+  Utility.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\x86\Release\Utility_x86.lib

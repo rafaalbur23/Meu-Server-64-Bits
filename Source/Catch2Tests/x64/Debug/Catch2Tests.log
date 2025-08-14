@@ -1,0 +1,5 @@
+﻿  Kitbag_test.cpp
+  main.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Catch2Tests\Kitbag_test.cpp(1,10): error C1083: Não é possível abrir arquivo incluir: 'catch.hpp': No such file or directory
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Catch2Tests\main.cpp(2,10): error C1083: Não é possível abrir arquivo incluir: 'catch.hpp': No such file or directory
+  Gerando Código...

@@ -1,0 +1,531 @@
+﻿  AniFile.cpp
+  Blk.cpp
+  Color.cpp
+  d3dfont.cpp
+  d3dutil.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\d3dfont.cpp(54,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  drAnimCtrl.cpp
+  drAnimCtrlObj.cpp
+  drAnimKeySetPRS.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  drBitmap.cpp
+  (compilando o arquivo fonte 'drAnimCtrl.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drAnimKeySetPRS.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drAnimCtrlObj.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drBitmap.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drCamera.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drAnimCtrl.cpp(223,20): warning C4244: 'argumento': conversão de 'DWORD' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drAnimCtrl.cpp(234,20): warning C4244: 'argumento': conversão de 'DWORD' para 'float', possível perda de dados
+  drConsole.cpp
+  drCoordinateSys.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drCamera.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drD3DSettings.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drConsole.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drDDSFile.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drCoordinateSys.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drdeviceobject.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drD3DSettings.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drDirectoryBrowser.cpp
+  drEfxTrack.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drdeviceobject.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drDDSFile.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drEfxTrack.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drDirectoryBrowser.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drExpObj.cpp
+  drFile.cpp
+  drFileEncode.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drExpObj.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drFileStream.cpp
+  drFileutil.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drFileEncode.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drFile.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drgraphicsutil.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drFileStream.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drGuidObj.cpp
+  drHeap.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\DirectX\Include\shobjidl.h(1299,2): warning C4091: 'typedef ': ignorado à esquerda de 'tagSHCONTF' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'drFileutil.cpp')
+  
+  drHelperGeometry.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drgraphicsutil.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drGuidObj.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drHeap.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drHelperGeometry.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drIFunc.cpp
+  drInterface.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\DirectX\Include\shobjidl.h(1299,2): warning C4091: 'typedef ': ignorado à esquerda de 'tagSHCONTF' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'drgraphicsutil.cpp')
+  
+  drItem.cpp
+  drIUtil.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drInterface.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drIFunc.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drmath.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(620,22): warning C4473: 'fscanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(620,22):
+  espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(620,22):
+  o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(620,22):
+  esse argumento é usado como um tamanho do buffer
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(693,22): warning C4473: 'fscanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(693,22):
+  espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 2 foram fornecidos
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(693,22):
+  o argumento variadic 3 ausente é requerido pela cadeia de formato '%s'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(693,22):
+  esse argumento é usado como um tamanho do buffer
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drItem.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drMisc.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drmath.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drIUtil.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  [Waiting Note] why i=0 don't need destroy?
+  drModel.cpp
+  drNodeObject.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drMisc.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drModel.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drObjectMethod.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drNodeObject.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drObjectPool.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drObjectMethod.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drPathInfo.cpp
+  drPhysique.cpp
+  drposectrl.cpp
+  drprimitive.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drPathInfo.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drPhysique.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drposectrl.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drPrimitiveHelper.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drprimitive.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drPrimitiveHelper.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drRenderCtrlEmb.cpp
+  drRenderImp.cpp
+  drresourcemgr.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drRenderCtrlEmb.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drRenderImp.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drSceneMgr.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drresourcemgr.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drShaderDeclMgr.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drSceneMgr.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drShaderMgr.cpp
+  [Waiting Note] here crash?
+  drStreamObj.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drShaderDeclMgr.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drSysCharacter.cpp
+  drSysGraphics.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drShaderMgr.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drStreamObj.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drSysCharacter.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drSystem.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drSysGraphics.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drSystemInfo.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drSystem.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drThreadPool.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drSystemInfo.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drTimer.cpp
+  drTreeNode.cpp
+  ====automation link version.lib====
+  drViewFrustum.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drTreeNode.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drViewFrustum.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drTimer.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drThreadPool.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  drxRenderCtrVS.cpp
+  dxutil.cpp
+  EffectFile.cpp
+  Frames.cpp
+  Frustum.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'drxRenderCtrVS.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  Heightmap.cpp
+  I_Effect.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'EffectFile.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  LECamera.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'Heightmap.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'I_Effect.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LECamera.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  LECharacter.cpp
+  LEColorValue.cpp
+  LEConsole.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LECharacter.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  LEDataStream.cpp
+  LEEffectCtrl.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.h(96,9): warning C4251: 'LEDataStream::m_Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' precisa ter dll-interface para ser usado por clientes de class 'LEDataStream'
+  (compilando o arquivo fonte 'LEDataStream.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5127,29):
+  consulte a declaração de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEConsole.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(245,27): warning C4244: '=': conversão de 'std::streamoff' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(254,27): warning C4244: '=': conversão de 'std::streamoff' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(272,26): warning C4244: 'return': conversão de 'std::streamsize' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(294,13): warning C4244: 'inicializando': conversão de 'std::streamsize' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(362,25): warning C4244: 'return': conversão de 'std::streamoff' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEEffectCtrl.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  LEEffectMath.cpp
+  LEEffQuaternion.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEEffectMath.cpp(77,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEEffectMath.cpp(78,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  LEEffVector3.cpp
+  LEFont.cpp
+  LEGameApp.cpp
+  LEMap.cpp
+  LEMapData.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEFont.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEMap.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEGameApp.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEMapData.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMap.cpp(341,34): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMap.cpp(770,30): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEGameApp.cpp(195,39): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEGameApp.cpp(316,38): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMap.cpp(1226,23): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMap.cpp(1304,22): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(576,22): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(577,22): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(680,25): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(694,42): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(694,28): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  LEMath.cpp
+  LEModelEff.cpp
+  LEParticleCtrl.cpp
+  LEParticleSys.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEParticleCtrl.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEModelEff.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  LERender.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEParticleSys.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LERender.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  LEResManger.cpp
+  LESceneItem.cpp
+  LESceneObject.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LESceneItem.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LESceneObject.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEResManger.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  LEShadeMap.cpp
+  LESkyBox.cpp
+  LEStringUtil.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LEShadeMap.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  LETile.cpp
+  mygraph.cpp
+  ShaderLoad.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'ShaderLoad.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  Singleton.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'LETile.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  stdafx.cpp
+  Terrain.cpp
+  Texture.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'Terrain.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  TextureManager.cpp
+  TgaCore.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'Texture.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\Terrain.cpp(217,56): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\Terrain.cpp(218,56): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\Terrain.cpp(350,32): warning C4244: '+=': conversão de 'double' para 'DWORD', possível perda de dados
+  ViM_helper.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'TextureManager.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+  ZRBlock.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1): warning C4005: 'DR_USE_DXMATH_LIB': redefinição de macro
+  (compilando o arquivo fonte 'ZRBlock.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drMath.h(12,1):
+  'DR_USE_DXMATH_LIB' declarado anteriormente na linha de comando
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\ZRBlock.cpp(24,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\ZRBlock.cpp(25,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+     Criando biblioteca C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\..\..\Client\system\Engine_x86_Debug.lib e objeto C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\..\..\Client\system\Engine_x86_Debug.exp
+  Engine.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Client\system\Engine_x86_Debug.dll

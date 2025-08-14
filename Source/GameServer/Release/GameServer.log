@@ -1,0 +1,474 @@
+﻿  Action.cpp
+  Attachable.cpp
+  AttachManage.cpp
+  Auction.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Action.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'AttachManage.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Auction.cpp')
+  
+  AuctionItem.cpp
+  Birthplace.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'Auction.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  cfl_iocp.cpp
+  cfl_lock.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'AuctionItem.cpp')
+  
+  Character.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'AuctionItem.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\cfl_iocp.cpp(17,11): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\cfl_iocp.cpp(118,9): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\cfl_iocp.cpp(128,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\cfl_iocp.cpp(132,16): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  CharacterAI.cpp
+  CharacterAIState.cpp
+  CharacterCmd.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Character.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharacterAI.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'Character.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharacterAIState.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharacterCmd.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(7973,23): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(7998,26): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8001,26): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8092,24): warning C4244: '*=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8103,26): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8106,26): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8132,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8133,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8134,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8135,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8136,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'CharacterCmd.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  CharacterPacket.cpp
+  CharacterPrl.cpp
+  CharacterRun.cpp
+  CharacterSuperCmd.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharacterPacket.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharacterPrl.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharacterRun.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharacterSuperCmd.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'CharacterRun.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\gamedb.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'CharacterPrl.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\gamedb.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(80,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(159,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(165,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(170,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(175,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(178,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(181,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(184,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(187,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(192,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(196,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(200,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(204,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(221,36): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharacterRun.cpp(313,13): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+  CharBoat.cpp
+  CharScript.cpp
+  CharStall.cpp
+  CharTrade.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharBoat.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharScript.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharStall.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'CharBoat.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharBoat.cpp(29,2): warning C4297: 'mission::CCharBoat::~CCharBoat': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharBoat.cpp(29,2):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'CharTrade.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'CharStall.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  Config.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'CharScript.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Expand.h(6936,14): warning C4244: 'inicializando': conversão de 'dbc::LLong' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'CharScript.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Expand.h(6945,11): warning C4244: 'inicializando': conversão de 'lua_Number' para 'int', possível perda de dados
+  (compilando o arquivo fonte 'CharScript.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'CharTrade.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharTrade.cpp(105,2): warning C4297: 'mission::CTradeData::~CTradeData': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharTrade.cpp(105,2):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharTrade.cpp(118,2): warning C4297: 'mission::CTradeSystem::~CTradeSystem': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharTrade.cpp(118,2):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharTrade.cpp(2337,2): warning C4297: 'mission::CStoreSystem::~CStoreSystem': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharTrade.cpp(2337,2):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharScript.cpp(5773,17): warning C4244: 'inicializando': conversão de 'lua_Number' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\CharScript.cpp(5774,17): warning C4244: 'inicializando': conversão de 'lua_Number' para 'float', possível perda de dados
+  Entity.cpp
+  EntityAlloc.cpp
+  EntityScript.cpp
+  EntitySpawn.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Entity.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'EntityAlloc.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'EntityScript.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\EntityAlloc.cpp(42,1): warning C4297: 'CEntityAlloc::~CEntityAlloc': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\EntityAlloc.cpp(42,1):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'EntitySpawn.cpp')
+  
+  EventCalculate.cpp
+  EventEntity.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\EntitySpawn.cpp(328,33): warning C4838: a conversão de 'DWORD' em 'long' requer uma conversão de restrição
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\EntitySpawn.cpp(328,54): warning C4838: a conversão de 'DWORD' em 'long' requer uma conversão de restrição
+  EventHandler.cpp
+  EyeshotCell.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'EventCalculate.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'EventEntity.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\EventCalculate.cpp(55,19): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\EventCalculate.cpp(177,18): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\EventEntity.cpp(66,23): warning C4838: a conversão de 'DWORD' em 'long' requer uma conversão de restrição
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\EventEntity.cpp(66,31): warning C4838: a conversão de 'DWORD' em 'long' requer uma conversão de restrição
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'EventHandler.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'EyeshotCell.cpp')
+  
+  FightAble.cpp
+  FindPath.cpp
+  GameApp.cpp
+  GameAppNet.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'FightAble.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GameApp.cpp')
+  
+  GameDB.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GameAppNet.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\FightAble.cpp(2253,18): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\FightAble.cpp(2341,19): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\FightAble.cpp(2725,1): warning C4297: 'CTimeSkillMgr::~CTimeSkillMgr': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\FightAble.cpp(2725,1):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'GameApp.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameApp.cpp(389,1): warning C4297: 'CGameApp::~CGameApp': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameApp.cpp(389,1):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameApp.cpp(839,40): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameApp.cpp(857,26): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameApp.cpp(872,40): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameApp.cpp(890,40): warning C4244: '=': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameApp.cpp(894,23): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'GameAppNet.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  GameServerApp.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GameDB.cpp')
+  
+  GameSMain.cpp
+  gmsvr.cpp
+  Guild.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'GameDB.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(592,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(593,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(594,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(595,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(596,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(2824,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3009,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3010,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3011,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3012,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3013,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3098,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3099,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3100,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3101,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3102,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3383,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3384,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3385,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3386,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3387,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3451,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3452,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3453,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3454,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3455,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3529,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3530,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3531,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3532,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3533,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3754,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3755,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3756,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3757,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3758,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3852,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3853,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3854,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3855,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(3856,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4265,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4266,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4267,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4320,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4321,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4322,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4323,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4441,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4479,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.cpp(4521,1): warning C4010: comentário de linha única contém caractere de continuação de linha
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GameServerApp.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GameSMain.cpp')
+  
+  HarmRec.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Guild.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'GameServerApp.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameServerApp.cpp(350,1): warning C4297: 'GameServerApp::~GameServerApp': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameServerApp.cpp(350,1):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'GameSMain.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'Guild.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  Item.cpp
+  lua_gamectrl.cpp
+  MapEntry.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'HarmRec.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Item.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'MapEntry.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'lua_gamectrl.cpp')
+  
+  MapRes.cpp
+  MapTrigger.cpp
+  Mission.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\gamedb.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'Item.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\gamedb.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  MoveAble.cpp
+  NoLockRecord.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'MapRes.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Mission.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\MapRes.cpp(83,1): warning C4297: 'CMapRes::~CMapRes': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\MapRes.cpp(83,1):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'MoveAble.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Mission.cpp(28,2): warning C4297: 'mission::CCharMission::~CCharMission': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Mission.cpp(28,2):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  NPC.cpp
+  NpcScript.cpp
+  Parser.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\MoveAble.cpp(788,19): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\MoveAble.cpp(793,22): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+  PicSet.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'NPC.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'NpcScript.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Parser.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\NPC.cpp(33,2): warning C4297: 'mission::CNpc::~CNpc': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\NPC.cpp(33,2):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\NPC.cpp(91,2): warning C4297: 'mission::CTalkNpc::~CTalkNpc': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\NPC.cpp(91,2):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  Picture.cpp
+  Player.cpp
+  ProfileMonitor.cpp
+  Script.cpp
+  StackWalker.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\StackWalker.h(118,69): warning C4091: 'typedef ': ignorado à esquerda de 'StackWalker::CallstackEntryType' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'StackWalker.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\StackWalker.cpp(355,2): warning C4091: 'typedef ': ignorado à esquerda de 'StackWalkerInternal::IMAGEHLP_MODULE64_V2' quando nenhuma variável é declarada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\StackWalker.cpp(1207,7): warning C4996: 'GetVersionExA': foi declarado preterido
+  StateCell.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Player.cpp')
+  
+  stdafx.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Script.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'Player.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Player.cpp(1090,67): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Player.cpp(1090,67):
+  espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+  
+  SubMap.cpp
+  SystemDialog.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'StateCell.cpp')
+  
+  TradeLogDB.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'SubMap.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'SystemDialog.cpp')
+  
+  Weather.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\SubMap.cpp(1484,18): warning C4244: 'inicializando': conversão de 'double' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\SubMap.cpp(1929,1): warning C4297: 'COutMapCha::~COutMapCha': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\SubMap.cpp(1929,1):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  WorldEudemon.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'SystemDialog.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  xString.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Weather.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'WorldEudemon.cpp')
+  
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 6988 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  GameServer.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Server\GameServer_x86_Release.exe

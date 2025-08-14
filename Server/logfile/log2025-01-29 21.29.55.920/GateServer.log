@@ -1,0 +1,74 @@
+[01-28 12:15:31]GameServer= [25.80.52.210] come,Socket num= 1
+[01-28 12:15:31]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;Hellchapter;] total [7]
+[01-28 12:15:31]not found [abandonedcity] map!!!
+[01-28 12:15:31]not found [abandonedcity2] map!!!
+[01-28 12:15:31]not found [abandonedcity3] map!!!
+[01-28 12:15:31]not found [darkswamp] map!!!
+[01-28 12:15:31]not found [puzzleworld] map!!!
+[01-28 12:15:31]not found [puzzleworld2] map!!!
+[01-28 12:15:31]not found [Hellchapter] map!!!
+[01-28 12:15:31]add GameServer [GameServer4] ok
+[01-28 12:15:31]add [GameServer4]  [abandonedcity] map ok
+[01-28 12:15:31]add [GameServer4]  [abandonedcity2] map ok
+[01-28 12:15:31]add [GameServer4]  [abandonedcity3] map ok
+[01-28 12:15:31]add [GameServer4]  [darkswamp] map ok
+[01-28 12:15:31]add [GameServer4]  [puzzleworld] map ok
+[01-28 12:15:31]add [GameServer4]  [puzzleworld2] map ok
+[01-28 12:15:31]add [GameServer4]  [Hellchapter] map ok
+[01-28 12:15:33]GameServer= [25.80.52.210] come,Socket num= 2
+[01-28 12:15:33]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;kyjj_1;] total [4]
+[01-28 12:15:33]not found [darkblue] map!!!
+[01-28 12:15:33]not found [garner2] map!!!
+[01-28 12:15:33]not found [winterland] map!!!
+[01-28 12:15:33]not found [kyjj_1] map!!!
+[01-28 12:15:33]add GameServer [GameServer3] ok
+[01-28 12:15:33]add [GameServer3]  [darkblue] map ok
+[01-28 12:15:33]add [GameServer3]  [garner2] map ok
+[01-28 12:15:33]add [GameServer3]  [winterland] map ok
+[01-28 12:15:33]add [GameServer3]  [kyjj_1] map ok
+[01-28 12:15:33]GameServer= [25.80.52.210] come,Socket num= 3
+[01-28 12:15:33]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[01-28 12:15:33]not found [magicsea] map!!!
+[01-28 12:15:33]not found [jialebi] map!!!
+[01-28 12:15:33]not found [binglang2] map!!!
+[01-28 12:15:33]not found [leiting2] map!!!
+[01-28 12:15:33]not found [shalan2] map!!!
+[01-28 12:15:33]add GameServer [GameServer2] ok
+[01-28 12:15:33]add [GameServer2]  [magicsea] map ok
+[01-28 12:15:33]add [GameServer2]  [jialebi] map ok
+[01-28 12:15:33]add [GameServer2]  [binglang2] map ok
+[01-28 12:15:33]add [GameServer2]  [leiting2] map ok
+[01-28 12:15:33]add [GameServer2]  [shalan2] map ok
+[01-28 12:15:34]GameServer= [25.80.52.210] come,Socket num= 4
+[01-28 12:15:34]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[01-28 12:15:34]not found [garner] map!!!
+[01-28 12:15:34]not found [DreamIsland] map!!!
+[01-28 12:15:34]not found [eastgoaf] map!!!
+[01-28 12:15:34]not found [lonetower] map!!!
+[01-28 12:15:34]not found [teampk] map!!!
+[01-28 12:15:34]add GameServer [GameServer1] ok
+[01-28 12:15:34]add [GameServer1]  [garner] map ok
+[01-28 12:15:34]add [GameServer1]  [DreamIsland] map ok
+[01-28 12:15:34]add [GameServer1]  [eastgoaf] map ok
+[01-28 12:15:34]add [GameServer1]  [lonetower] map ok
+[01-28 12:15:34]add [GameServer1]  [teampk] map ok
+[01-28 12:39:59]client: 25.80.52.210	come...Socket num: 1
+[01-28 12:40:01]client: 25.80.52.210	login ok.
+[01-28 12:40:08]client: 25.80.52.210:30763	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:13,Gate address:1D40D519B30
+[01-28 12:40:09]clinet: 25.80.52.210:30763	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1D6668F6048,Gate address:1D40D519B30
+[01-28 12:40:18]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[01-28 12:40:18]client: 25.80.52.210:30763	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:13,Gate address:1D40D519B30,Game address:1D6668F6048
+[01-28 12:40:33]client: 25.80.52.210	come...Socket num: 1
+[01-28 12:40:33]client: 25.80.52.210	login error, error:1104
+[01-28 12:40:33]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[01-28 12:40:50]client: 25.80.52.210	come...Socket num: 1
+[01-28 12:40:51]client: 25.80.52.210	login ok.
+[01-28 12:40:53]client: 25.80.52.210:30776	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:1035,Gate address:1D40D519EC0
+[01-28 12:40:53]clinet: 25.80.52.210:30776	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1D6668F6048,Gate address:1D40D519EC0
+[01-28 12:40:55]client: 25.80.52.210:30776	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:1035,Gate address:1D40D519EC0,Game address:1D6668F6048
+[01-28 12:40:56]client: 25.80.52.210:30776	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:1D40D519EC0
+[01-28 12:40:56]clinet: 25.80.52.210:30776	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1D6668F6048,Gate address:1D40D519EC0
+[01-28 12:41:49]clinet: 25.80.52.210:30776	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:1D40D519EC0
+[01-28 12:41:49]clinet: 25.80.52.210:30776	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:11711445048,Gate address:1D40D519EC0
+[01-28 12:42:00]clinet: 25.80.52.210:30776	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:1D40D519EC0
+[01-28 12:42:00]clinet: 25.80.52.210:30776	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:125364EA048,Gate address:1D40D519EC0

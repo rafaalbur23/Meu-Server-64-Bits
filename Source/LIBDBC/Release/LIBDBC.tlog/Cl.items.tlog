@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\AcceptConnect.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\AcceptConnect.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Comm.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\Comm.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\CommRPC.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\CommRPC.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\DataSocket.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\DataSocket.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\DBCCommon.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\DBCCommon.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\IniFile.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\IniFile.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\LogStream.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\LogStream.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\NTSvcObject.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\NTSvcObject.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Packet.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\Packet.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\PacketEncryption.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\PacketEncryption.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\PacketQueue.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\PacketQueue.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Receiver.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\Receiver.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\RWMutex.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\RWMutex.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Sender.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\Sender.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\TaskQueue.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\TaskQueue.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\ThreadPool.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\ThreadPool.obj
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Timer.cpp;C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Release\Timer.obj

@@ -1,0 +1,121 @@
+﻿  AcceptConnect.cpp
+  Comm.cpp
+  CommRPC.cpp
+  DataSocket.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'AcceptConnect.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'Comm.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'DataSocket.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'CommRPC.cpp')
+  
+  DBCCommon.cpp
+  IniFile.cpp
+  LogStream.cpp
+  NTSvcObject.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'DBCCommon.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\rstring.h(138,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'DBCCommon.cpp')
+  
+  Packet.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'IniFile.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\IniFile.cpp(227,27): warning C4101: 'e': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'NTSvcObject.cpp')
+  
+  PacketEncryption.cpp
+  PacketQueue.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'LogStream.cpp')
+  
+  Receiver.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/Packet.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\Packet.cpp(280,31): warning C4244: 'argumento': conversão de 'unsigned __int64' para 'dbc::uLong', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algo_name' via domínio
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(43,19):
+  consulte a declaração de 'Botan::RSA_PublicKey::algo_name'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::estimated_strength' via domínio
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(62,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::estimated_strength'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::key_length' via domínio
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(61,14):
+  consulte a declaração de 'Botan::RSA_PublicKey::key_length'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::algorithm_identifier' via domínio
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(47,27):
+  consulte a declaração de 'Botan::RSA_PublicKey::algorithm_identifier'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::public_key_bits' via domínio
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(49,28):
+  consulte a declaração de 'Botan::RSA_PublicKey::public_key_bits'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_encryption_op' via domínio
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(68,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_kem_encryption_op' via domínio
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(73,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_kem_encryption_op'
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(176,4): warning C4250: 'Botan::RSA_PrivateKey': herda 'Botan::RSA_PublicKey::Botan::RSA_PublicKey::create_verification_op' via domínio
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Botan\x64\Release\include\botan\rsa.h(78,10):
+  consulte a declaração de 'Botan::RSA_PublicKey::create_verification_op'
+  
+  this header is deprecated
+  RWMutex.cpp
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+  this header will be made internal in the future
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/PacketQueue.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/Receiver.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/PacketEncryption.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\PacketEncryption.cpp(20,55): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\PacketEncryption.cpp(22,67): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uShort', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/RWMutex.cpp')
+  
+  Sender.cpp
+  TaskQueue.cpp
+  ThreadPool.cpp
+  Timer.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/Sender.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/TaskQueue.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/Timer.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte '../LIBDBC/ThreadPool.cpp')
+  
+  LIBDBC.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\x64\Release\LIBDBC_x64.lib

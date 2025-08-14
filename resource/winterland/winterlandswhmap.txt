@@ -1,0 +1,3 @@
+//Winter Island, a list of jump points
+//Serial	Bound entities ID	Portal Cords	Portal orientation	Target map name	Target location	Determine the conditions for triggering	Name
+1	2492	1	27170,106023	-1	darkblue	257800,322700	1	Deep Blue Islands	Winter Islands - Autumn Island

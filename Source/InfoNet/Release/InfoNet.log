@@ -1,0 +1,7 @@
+﻿  InfoNet.cpp
+  lock.cpp
+  log.cpp
+  thread.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\InfoNet\InfoNet.cpp(612,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\InfoNet\InfoNet.cpp(618,18): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  InfoNet.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\InfoNet\x86\Release\InfoNet_x86.lib

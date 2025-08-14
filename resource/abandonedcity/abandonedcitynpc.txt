@@ -1,0 +1,2 @@
+//Serial	NPC Name	NPC Type	Chrindex ID	Show Mini-map	Coordinates starting point	Coordination Goal	NPC placement	Region	Region ID	NPC Script	info manage	Test Status
+1	Seaport Commander	1	453	9	31179,31681	31179,31681	139	#ABANDONEDCITY_ENTRY_LUA_000006#	88	0	r_talk262	0

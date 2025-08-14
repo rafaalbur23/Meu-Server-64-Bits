@@ -1,0 +1,153 @@
+﻿  AniFile.cpp
+  Blk.cpp
+  Color.cpp
+  d3dfont.cpp
+  d3dutil.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\d3dfont.cpp(54,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  drAnimCtrl.cpp
+  drAnimCtrlObj.cpp
+  drAnimKeySetPRS.cpp
+  drBitmap.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drAnimCtrl.cpp(223,20): warning C4244: 'argumento': conversão de 'DWORD' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drAnimCtrl.cpp(234,20): warning C4244: 'argumento': conversão de 'DWORD' para 'float', possível perda de dados
+  drCamera.cpp
+  drConsole.cpp
+  drCoordinateSys.cpp
+  drD3DSettings.cpp
+  drDDSFile.cpp
+  drdeviceobject.cpp
+  drDirectoryBrowser.cpp
+  drEfxTrack.cpp
+  drExpObj.cpp
+  drFile.cpp
+  drFileEncode.cpp
+  drFileStream.cpp
+  drFileutil.cpp
+  drgraphicsutil.cpp
+  drGuidObj.cpp
+  drHeap.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\DirectX\Include\shobjidl.h(1299,2): warning C4091: 'typedef ': ignorado à esquerda de 'tagSHCONTF' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'drFileutil.cpp')
+  
+  drHelperGeometry.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\DirectX\Include\shobjidl.h(1299,2): warning C4091: 'typedef ': ignorado à esquerda de 'tagSHCONTF' quando nenhuma variável é declarada
+  (compilando o arquivo fonte 'drgraphicsutil.cpp')
+  
+  drIFunc.cpp
+  drInterface.cpp
+  drItem.cpp
+  drIUtil.cpp
+  drmath.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(620,22): warning C4473: 'fscanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(620,22):
+  espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(620,22):
+  o argumento variadic 2 ausente é requerido pela cadeia de formato '%s'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(620,22):
+  esse argumento é usado como um tamanho do buffer
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(693,22): warning C4473: 'fscanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(693,22):
+  espaços reservados e seus parâmetros esperam 3 argumentos variadic, mas 2 foram fornecidos
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(693,22):
+  o argumento variadic 3 ausente é requerido pela cadeia de formato '%s'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\drIFunc.cpp(693,22):
+  esse argumento é usado como um tamanho do buffer
+  
+  drMisc.cpp
+  drModel.cpp
+  [Waiting Note] why i=0 don't need destroy?
+  drNodeObject.cpp
+  drObjectMethod.cpp
+  drObjectPool.cpp
+  drPathInfo.cpp
+  drPhysique.cpp
+  drposectrl.cpp
+  drprimitive.cpp
+  drPrimitiveHelper.cpp
+  drRenderCtrlEmb.cpp
+  drRenderImp.cpp
+  drresourcemgr.cpp
+  drSceneMgr.cpp
+  drShaderDeclMgr.cpp
+  drShaderMgr.cpp
+  [Waiting Note] here crash?
+  drStreamObj.cpp
+  drSysCharacter.cpp
+  drSysGraphics.cpp
+  drSystem.cpp
+  drSystemInfo.cpp
+  drThreadPool.cpp
+  drTimer.cpp
+  drTreeNode.cpp
+  ====automation link version.lib====
+  drViewFrustum.cpp
+  drxRenderCtrVS.cpp
+  dxutil.cpp
+  EffectFile.cpp
+  Frames.cpp
+  Frustum.cpp
+  Heightmap.cpp
+  I_Effect.cpp
+  LECamera.cpp
+  LECharacter.cpp
+  LEColorValue.cpp
+  LEConsole.cpp
+  LEDataStream.cpp
+  LEEffectCtrl.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.h(96,9): warning C4251: 'LEDataStream::m_Name': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' precisa ter dll-interface para ser usado por clientes de class 'LEDataStream'
+  (compilando o arquivo fonte 'LEDataStream.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xstring(5127,29):
+  consulte a declaração de 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+  LEEffectMath.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(245,27): warning C4244: '=': conversão de 'std::streamoff' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(254,27): warning C4244: '=': conversão de 'std::streamoff' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(272,26): warning C4244: 'return': conversão de 'std::streamsize' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(294,13): warning C4244: 'inicializando': conversão de 'std::streamsize' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEDataStream.cpp(362,25): warning C4244: 'return': conversão de 'std::streamoff' para 'size_t', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEEffectMath.cpp(77,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEEffectMath.cpp(78,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  LEEffQuaternion.cpp
+  LEEffVector3.cpp
+  LEFont.cpp
+  LEGameApp.cpp
+  LEMap.cpp
+  LEMapData.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(576,22): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(577,22): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(694,42): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\LEMapData.cpp(694,28): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+  LEMath.cpp
+  LEModelEff.cpp
+  LEParticleCtrl.cpp
+  LEParticleSys.cpp
+  LERender.cpp
+  LEResManger.cpp
+  LESceneItem.cpp
+  LESceneObject.cpp
+  LEShadeMap.cpp
+  LESkyBox.cpp
+  LEStringUtil.cpp
+  LETile.cpp
+  mygraph.cpp
+  ShaderLoad.cpp
+  Singleton.cpp
+  stdafx.cpp
+  Terrain.cpp
+  Texture.cpp
+  TextureManager.cpp
+  TgaCore.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\Terrain.cpp(217,56): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\Terrain.cpp(218,56): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\Terrain.cpp(350,32): warning C4244: '+=': conversão de 'double' para 'DWORD', possível perda de dados
+  ViM_helper.cpp
+  ZRBlock.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\ZRBlock.cpp(24,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\ZRBlock.cpp(25,21): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+     Criando biblioteca C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\..\..\Client\system\Engine_x86_Release.lib e objeto C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Engine\..\..\Client\system\Engine_x86_Release.exp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 9019 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  Engine.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Client\system\Engine_x86_Release.dll

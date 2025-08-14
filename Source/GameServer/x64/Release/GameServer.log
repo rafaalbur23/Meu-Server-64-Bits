@@ -1,0 +1,29 @@
+﻿  Character.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'Character.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Character.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'Character.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(7973,23): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(7998,26): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8001,26): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8092,24): warning C4244: '*=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8103,26): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8106,26): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8132,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8133,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8134,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8135,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Character.cpp(8136,52): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  Gerando código
+  327 of 6985 functions ( 4.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    605 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  GameServer.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Server\GameServer_x64_Release.exe

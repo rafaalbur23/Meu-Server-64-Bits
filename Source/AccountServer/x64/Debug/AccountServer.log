@@ -1,0 +1,82 @@
+﻿  AccountServer2.cpp
+  DataBaseCtrl.cpp
+  GlobalVariable.cpp
+  main.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'DataBaseCtrl.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'AccountServer2.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GlobalVariable.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'AccountServer2.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'DataBaseCtrl.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(43,44): warning C4474: '_snprintf_s' : too many arguments passed for format string
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(43,44):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(46,38): warning C4474: '_snprintf_s' : too many arguments passed for format string
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(46,38):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(49,42): warning C4474: '_snprintf_s' : too many arguments passed for format string
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(49,42):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(52,42): warning C4474: '_snprintf_s' : too many arguments passed for format string
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\DataBaseCtrl.cpp(52,42):
+  placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+  this header is deprecated
+  this header will be made internal in the future
+  this header is deprecated
+  this header is deprecated
+  MyThread.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\AccountServer2.cpp(699,14): warning C4114: same type qualifier used more than once
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AccountServer\AccountServer2.cpp(780,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+  PlayerMgr.cpp
+  stdafx.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file '../AccountServer/MyThread.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file '../AccountServer/PlayerMgr.cpp')
+  
+Utility_x64.lib(licensecc.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(licensecc.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(logger.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(logger.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(string_utils.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(string_utils.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(cpu_info.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(cpu_info.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(execution_environment.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(execution_environment.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(execution_environment_common.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(execution_environment_common.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(hw_identifier_facade.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(hw_identifier_facade.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(EventRegistry.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(EventRegistry.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(LicenseReader.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(LicenseReader.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(license_verifier.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(license_verifier.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(dmi_info.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(dmi_info.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(hw_identifier.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(hw_identifier.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(identification_strategy.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(identification_strategy.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(LocatorFactory.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(LocatorFactory.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(signature_verifier.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(signature_verifier.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(base64.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(base64.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(default_strategy.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(default_strategy.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(ethernet.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(ethernet.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(disk_strategy.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(disk_strategy.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(ApplicationFolder.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(ApplicationFolder.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(EnvironmentVarData.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(EnvironmentVarData.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(EnvironmentVarLocation.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(EnvironmentVarLocation.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(ExternalDefinition.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(ExternalDefinition.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(network.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(network.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(os_win.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(os_win.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(LocatorStrategy.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(LocatorStrategy.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(file_utils.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(file_utils.cpp.obj)' or at ''; linking object as if no debug info
+  AccountServer.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Server\AccountServer_x64_Debug.exe

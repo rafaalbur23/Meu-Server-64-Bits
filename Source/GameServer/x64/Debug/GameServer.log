@@ -1,0 +1,17 @@
+﻿  Player.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'Player.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'Player.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5): warning C4297: 'CGameDB::~CGameDB': função não deveria lançar uma exceção, mas ela lança
+  (compilando o arquivo fonte 'Player.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\GameDB.h(358,5):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Player.cpp(1090,67): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GameServer\Player.cpp(1090,67):
+  espaços reservados e seus parâmetros esperam 0 argumentos variadic, mas 1 foram fornecidos
+  
+  GameServer.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Server\GameServer_x64_Debug.exe

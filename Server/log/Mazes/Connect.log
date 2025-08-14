@@ -1,0 +1,5 @@
+[08-14 01:34:21]GateServer Connected! IP = [25.80.52.210] port = 2320
+[08-14 01:34:21]connect to  GateServer, ip = 25.80.52.210, port = 2320.1
+[08-14 01:34:21]ProcessData Gate_Connect
+[08-14 01:34:21]Exec OnGateConnected()
+[08-14 01:34:21][abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;Hellchapter;]

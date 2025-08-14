@@ -1,0 +1,43 @@
+[05-25 14:43:25](25.56.3.40):[eusouadm]login success, 	 nline/total:1/0
+[05-25 14:43:38](25.56.3.40):[eusouadmCameraMan1/0
+[05-25 14:45:05](25.56.3.40):[eusouadm]create char [ShowOff]��	 online/total:1/0
+[05-25 14:45:07](25.56.3.40):[eusouadm]select char[ShowOff]begin paly...��	 online/total:1/0
+[05-25 14:45:07](25.56.3.40):[eusouadm] char [ShowOff]entry map server begin play...��	 online/total:1/1
+[05-25 14:59:11](25.56.3.40):[eusouadm]exit char[ShowOff]begin entry select char UI...��	 online/total:1/0
+[05-25 14:59:13](25.56.3.40):[eusouadm]select char[ShowOff]begin paly...��	 online/total:1/0
+[05-25 14:59:13](25.56.3.40):[eusouadm] char [ShowOff]entry map server begin play...��	 online/total:1/1
+[05-25 15:04:36](25.56.3.40):[eusouadm]logout,	 online/total:0/0
+[05-25 15:07:03](25.56.3.40):[eusouadm]login failed, error:1002
+[05-25 15:07:12](25.56.3.40):[eusouadm]login success, 	 nline/total:1/0
+[05-25 15:07:24](25.56.3.40):[eusouadm]select char[ShowOff]begin paly...��	 online/total:1/0
+[05-25 15:07:24](25.56.3.40):[eusouadm] char [ShowOff]entry map server begin play...��	 online/total:1/1
+[05-25 15:07:29](25.56.3.40):[eusouadm]exit char[ShowOff]begin entry select char UI...��	 online/total:1/0
+[05-25 15:07:35](25.56.3.40):[eusouadmShowOff1/0
+[05-25 15:09:06](25.56.3.40):[eusouadm]create char [7Seas]��	 online/total:1/0
+[05-25 15:09:08](25.56.3.40):[eusouadm]select char[7Seas]begin paly...��	 online/total:1/0
+[05-25 15:09:08](25.56.3.40):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:1/1
+[05-25 15:13:09](25.56.3.40):[eusouadm]exit char[7Seas]begin entry select char UI...��	 online/total:1/0
+[05-25 15:13:11](25.56.3.40):[eusouadm]select char[7Seas]begin paly...��	 online/total:1/0
+[05-25 15:13:11](25.56.3.40):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:1/1
+[05-25 15:15:51](25.56.3.40):[eusouadm]logout,	 online/total:0/0
+[05-25 21:54:38](25.80.52.210):[local]login failed, error:1001
+[05-25 21:54:42](25.80.52.210):[local]login failed, error:1001
+[05-25 21:54:44](25.80.52.210):[local]login failed, error:1001
+[05-25 21:54:52](25.80.52.210):[eusouadm]login failed, error:1001
+[05-25 21:55:26](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[05-25 21:55:34](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:1/0
+[05-25 21:55:40](25.80.52.210):[eusouadm]logout,	 online/total:0/0
+[05-25 21:59:43](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[05-25 21:59:47](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:1/0
+[05-25 21:59:47](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:1/1
+[05-25 22:00:17](25.80.52.210):[eusouadm]logout,	 online/total:0/0
+[05-25 22:00:25](25.80.52.210):[jafoste]login success, 	 nline/total:1/0
+[05-25 22:00:26](25.80.52.210):[jafoste]select char[Tanker]begin paly...��	 online/total:1/0
+[05-25 22:00:26](25.80.52.210):[jafoste] char [Tanker]entry map server begin play...��	 online/total:1/1
+[05-25 22:01:02]recieved kill acctid:[1] command(not in play list)!
+[05-25 22:01:13](25.80.52.210):[local]login failed, error:1105
+[05-25 22:01:23](25.80.52.210):[local]login success, 	 nline/total:2/1
+[05-25 22:01:25](25.80.52.210):[local]select char[Angel]begin paly...��	 online/total:2/1
+[05-25 22:01:25](25.80.52.210):[local] char [Angel]entry map server begin play...��	 online/total:2/2
+[05-25 22:02:41](25.80.52.210):[jafoste]logout,	 online/total:1/1
+[05-25 22:02:41](25.80.52.210):[local]logout,	 online/total:0/0

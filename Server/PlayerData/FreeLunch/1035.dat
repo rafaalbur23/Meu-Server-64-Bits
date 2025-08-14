@@ -1,0 +1,7 @@
+return {
+    ["12/07/24"] = {
+        ["Active"] = true,
+        ["OnlineTime"] = 10800,
+        ["ClaimedReward"] = 0,
+    },
+}

@@ -1,0 +1,90 @@
+[11-29 00:12:55]GameServer= [25.80.52.210] come,Socket num= 1
+[11-29 00:12:55]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;starena13;starena14;starena15;starena23;starena24;starena25;starena33;starena34;starena35;] total [12]
+[11-29 00:12:55]not found [darkblue] map!!!
+[11-29 00:12:55]not found [garner2] map!!!
+[11-29 00:12:55]not found [winterland] map!!!
+[11-29 00:12:55]not found [starena13] map!!!
+[11-29 00:12:55]not found [starena14] map!!!
+[11-29 00:12:55]not found [starena15] map!!!
+[11-29 00:12:55]not found [starena23] map!!!
+[11-29 00:12:55]not found [starena24] map!!!
+[11-29 00:12:55]not found [starena25] map!!!
+[11-29 00:12:55]not found [starena33] map!!!
+[11-29 00:12:55]not found [starena34] map!!!
+[11-29 00:12:55]not found [starena35] map!!!
+[11-29 00:12:55]add GameServer [GameServer3] ok
+[11-29 00:12:55]add [GameServer3]  [darkblue] map ok
+[11-29 00:12:55]add [GameServer3]  [garner2] map ok
+[11-29 00:12:55]add [GameServer3]  [winterland] map ok
+[11-29 00:12:55]add [GameServer3]  [starena13] map ok
+[11-29 00:12:55]add [GameServer3]  [starena14] map ok
+[11-29 00:12:55]add [GameServer3]  [starena15] map ok
+[11-29 00:12:55]add [GameServer3]  [starena23] map ok
+[11-29 00:12:55]add [GameServer3]  [starena24] map ok
+[11-29 00:12:55]add [GameServer3]  [starena25] map ok
+[11-29 00:12:55]add [GameServer3]  [starena33] map ok
+[11-29 00:12:55]add [GameServer3]  [starena34] map ok
+[11-29 00:12:55]add [GameServer3]  [starena35] map ok
+[11-29 00:12:57]GameServer= [25.80.52.210] come,Socket num= 2
+[11-29 00:12:57]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[11-29 00:12:57]not found [magicsea] map!!!
+[11-29 00:12:57]not found [jialebi] map!!!
+[11-29 00:12:57]not found [binglang2] map!!!
+[11-29 00:12:57]not found [leiting2] map!!!
+[11-29 00:12:57]not found [shalan2] map!!!
+[11-29 00:12:57]add GameServer [GameServer2] ok
+[11-29 00:12:57]add [GameServer2]  [magicsea] map ok
+[11-29 00:12:57]add [GameServer2]  [jialebi] map ok
+[11-29 00:12:57]add [GameServer2]  [binglang2] map ok
+[11-29 00:12:57]add [GameServer2]  [leiting2] map ok
+[11-29 00:12:57]add [GameServer2]  [shalan2] map ok
+[11-29 00:13:01]not found [garner] map!!!
+[11-29 00:13:01]GameServer= [25.80.52.210] come,Socket num= 3
+[11-29 00:13:01]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[11-29 00:13:01]not found [garner] map!!!
+[11-29 00:13:01]not found [DreamIsland] map!!!
+[11-29 00:13:01]not found [eastgoaf] map!!!
+[11-29 00:13:01]not found [lonetower] map!!!
+[11-29 00:13:01]not found [teampk] map!!!
+[11-29 00:13:01]add GameServer [GameServer1] ok
+[11-29 00:13:01]add [GameServer1]  [garner] map ok
+[11-29 00:13:01]add [GameServer1]  [DreamIsland] map ok
+[11-29 00:13:01]add [GameServer1]  [eastgoaf] map ok
+[11-29 00:13:01]add [GameServer1]  [lonetower] map ok
+[11-29 00:13:01]add [GameServer1]  [teampk] map ok
+[11-29 00:13:12]client: 25.80.52.210	come...Socket num: 1
+[11-29 00:13:13]client: 25.80.52.210	login error, error:1104
+[11-29 00:13:13]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[11-29 00:13:18]client: 25.80.52.210	come...Socket num: 1
+[11-29 00:13:19]client: 25.80.52.210	login error, error:1105
+[11-29 00:13:19]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[11-29 00:13:26]client: 25.80.52.210	come...Socket num: 1
+[11-29 00:13:27]client: 25.80.52.210	login error, error:1105
+[11-29 00:13:27]client: 25.80.52.210 gone...Socket num: 0 ,reason=user login error.
+[11-29 00:13:28]client: 25.80.52.210	come...Socket num: 1
+[11-29 00:13:30]client: 25.80.52.210	login ok.
+[11-29 00:13:32]client: 25.80.52.210:22361	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:20F0C7B9400
+[11-29 00:13:33]clinet: 25.80.52.210:22361	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1E9EB5F2048,Gate address:20F0C7B9400
+[11-29 00:16:46]clinet: 25.80.52.210:22361	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:20F0C7B9400
+[11-29 00:16:46]clinet: 25.80.52.210:22361	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1EA070BA048,Gate address:20F0C7B9400
+[11-29 00:25:42]client: 25.50.228.197	come...Socket num: 2
+[11-29 00:25:43]client: 25.50.228.197	login ok.
+[11-29 00:27:11]client: 25.50.228.197 gone...Socket num: 1 ,reason=网络被对方正常关闭。
+[11-29 00:28:13]client: 25.50.228.197	come...Socket num: 2
+[11-29 00:28:14]client: 25.50.228.197	login error, error:1104
+[11-29 00:28:14]client: 25.50.228.197 gone...Socket num: 1 ,reason=user login error.
+[11-29 00:28:16]client: 25.50.228.197	come...Socket num: 2
+[11-29 00:28:16]client: 25.50.228.197	login error, error:1105
+[11-29 00:28:16]client: 25.50.228.197 gone...Socket num: 1 ,reason=user login error.
+[11-29 00:28:32]client: 25.50.228.197	come...Socket num: 2
+[11-29 00:28:33]client: 25.50.228.197	login ok.
+[11-29 00:28:34]client: 25.50.228.197:52277	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:15,Gate address:20F0CF717A0
+[11-29 00:28:34]clinet: 25.50.228.197:52277	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1EA070BDC60,Gate address:20F0CF717A0
+[11-29 00:34:34]client: 25.50.228.197:52277	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:15,Gate address:20F0CF717A0,Game address:1EA070BDC60
+[11-29 00:34:34]client: 25.50.228.197 gone...Socket num: 1 ,reason=网络被对方正常关闭。
+[11-29 00:43:58]client: 25.50.228.197	come...Socket num: 2
+[11-29 00:43:59]client: 25.50.228.197	login ok.
+[11-29 00:44:01]client: 25.50.228.197:52300	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:15,Gate address:20F0CF70700
+[11-29 00:44:01]clinet: 25.50.228.197:52300	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1EA070BDC60,Gate address:20F0CF70700
+[11-29 00:49:46]client: 25.50.228.197:52300	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:15,Gate address:20F0CF70700,Game address:1EA070BDC60
+[11-29 00:49:46]client: 25.50.228.197 gone...Socket num: 1 ,reason=网络被对方正常关闭。

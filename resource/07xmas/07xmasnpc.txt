@@ -1,0 +1,77 @@
+//No.	NPCName	NPCType	ChrIndexID	Small map display	Coordinate end point coordinates for the NPC	Area	Area Code script NPC	Detection state message processing
+0	Christmas merchant guild president	1	415	12	16400,25200	16400,25200	346	Christmas Village	135	0	Xmas_talk01	0	
+1	Christmas grocer	1	1053	12	19400,25200	19400,25200	288	Christmas Village	165	0	Xmas_talk02	0	
+//2	Business Christmas Gift	1	1053	12	17500,25600	17500,25600	85	Christmas Village	135	0	Xmas_talk03	0	
+3	I line my cool Christmas businessman	1	856	12	12541,25363	12541,25363	40	Christmas Village	135	0	Xmas_talk04	0	
+//4	I cool my business line of Christmas	1	856	12	11417,25370	11417,25370	310	Christmas Village	135	0	Xmas_talk05	0	
+//5	Christmas businessmen and scholars	1	425	12	9164,25034	9164,25034	355	Christmas Village	135	0	Xmas_talk06	0	
+6	Sandra	1	1064	0	22000,4000	22000,4000	175	Christmas Village	135	0	el_talk29	0	
+7	Cleaner	1	724	0	8404,3734	8404,3734	180	Christmas Village	135	0	el_talk30	0	
+8	Chirstmas Tree	1	1042	0	14404,16035	14404,16035	354	Christmas Village	135	0	el_talk05	0	
+9	Kuen	1	1063	0	14404,25000	14404,25000	354	Christmas Village	135	0	Xmas_talk07	0	
+10	Santa Claus	1	781	0	14400,17000	14400,17000	180	Christmas Village	135	0	Xmas_talk08	0	
+11	Christmas Clown	1	1065	0	4200,4300	4200,4300	180	Christmas Village	135	0	peter_talk01	0	
+12	Tourist - Illidan	1	15	0	9600,5100	9600,5100	90	Christmas Village	135	0	peter_talk02	0	
+13	Cerises Dad	1	440	0	8800,4000	8800,4000	180	Christmas Village	135	0	peter_talk03	0	
+14	Tourist - Yanu	1	405	0	6100,4300	6100,4300	180	Christmas Village	135	0	peter_talk04	0	
+15	Uncle Hoho	1	453	0	2800,11900	2800,11900	180	Christmas Village	135	0	peter_talk05	0	
+16	Christmas Village Guide	1	772	0	7200,4902	7200,4902	180	Christmas Village	135	0	peter_talk06	0	
+17	Captain Kali Mi	1	803	0	1800,14900	1800,14900	90	Christmas Village	135	0	peter_talk07	0	
+18	Aini crew	1	445	0	4200,8600	4200,8600	180	Christmas Village	135	0	peter_talk08	0	
+19	Captain Kali	1	12	0	25800,25100	25800,25100	268	Christmas Village	135	0	peter_talk09	0	
+20	Navy Soldier	1	410	0	19501,3901	19501,3901	180	Christmas Village	135	0	peter_talk10	0	
+21	Tourist - Loken	1	441	0	9200,23900	9200,23900	180	Christmas Village	135	0	peter_talk11	0	
+22	Small vendors Judy	1	756	0	2700,14500	2700,14500	180	Christmas Village	135	0	peter_talk12	0	
+23	Small vendors Mitchell	1	17	0	3301,21601	3301,21601	85	Christmas Village	135	0	peter_talk13	0	
+24	Small vendors Solomon	1	17	0	11600,24000	11600,24000	180	Christmas Village	135	0	peter_talk14	0	
+25	Small vendors Yeya	1	756	0	25501,12201	25501,12201	220	Christmas Village	135	0	peter_talk15	0	
+26	Matchstick Grandpa	1	420	0	23400,8900	23400,8900	365	Christmas Village	135	0	peter_talk16	0	
+27	White beard Root	1	454	0	13000,23500	13000,23500	180	Christmas Village	135	0	peter_talk17	0	
+28	Lady Carat	1	18	0	24300,22100	24300,22100	90	Christmas Village	135	0	peter_talk18	0	
+29	Red Beard Layton	1	1066	0	26401,21001	26401,21001	310	Christmas Village	135	0	peter_talk19	0	
+30	Stall Keeper Aden	1	17	0	21201,20301	21201,20301	90	Christmas Village	135	0	peter_talk20	0	
+31	Little Imp Sirin	1	403	0	22801,5401	22801,5401	180	Christmas Village	135	0	peter_talk21	0	
+32	Little Tail Cerise	1	1067	0	24101,4301	24101,4301	180	Christmas Village	135	0	peter_talk22	0	
+33	Little Girl Serene	1	441	0	19101,4501	19101,4501	90	Christmas Village	135	0	peter_talk23	0	
+34	Omi	1	421	0	20201,6901	20201,6901	270	Christmas Village	135	0	peter_talk24	0	
+35	Zuomu	1	446	0	18701,23901	18701,23901	130	Christmas Village	135	0	peter_talk25	0	
+36	Mark	1	409	0	19201,21300	19201,21300	78	Christmas Village	135	0	peter_talk26	0	
+37	Lincoln	1	10	0	20800,22100	20800,22100	90	Christmas Village	135	0	peter_talk27	0	
+38	Jenna	1	15	0	3401,19901	3401,19901	180	Christmas Village	135	0	peter_talk28	0	
+39	Christmas Snowman Regling	1	1062	0	22801,7701	22801,7701	180	Christmas Village	135	0	peter_talk29	0	
+40	Christmas Snowman Kage Lin	1	1062	0	2801,7601	2801,7601	90	Christmas Village	135	0	peter_talk30	0	
+41	Christmas fire	1	867	0	24933,22998	24933,22998	175	Christmas Village	135	0	Xmas_talk09	0	
+42	Indigenous Revelers	1	1054	0	24617,23243	24617,23243	40	Christmas Village	135	0	Xmas_talk10	0	
+43	Indigenous Revelers	1	1054	0	24956,23442	24956,23442	355	Christmas Village	135	0	Xmas_talk11	0	
+44	Indigenous Revelers	1	1054	0	25276,23217	25276,23217	340	Christmas Village	135	0	Xmas_talk12	0	
+45	Indigenous Revelers	1	1054	0	25271,22774	25271,22774	220	Christmas Village	135	0	Xmas_talk13	0	
+46	Indigenous Revelers	1	1054	0	24931,22571	24931,22571	190	Christmas Village	135	0	Xmas_talk14	0	
+47	Indigenous Revelers	1	1054	0	24558,22737	24558,22737	160	Christmas Village	135	0	Xmas_talk15	0	
+48	Bambi	1	1055	0	4788,6397	4788,6397	325	Christmas Village	135	0	Xmas_talk16	0	
+49	Ice dragon Saphira	1	1056	0	4560,6287	4560,6287	325	Christmas Village	135	0	Xmas_talk17	0	
+50	Little Jimmy	1	1057	0	4881,6168	4881,6168	310	Christmas Village	135	0	Xmas_talk18	0	
+51	Happy snow baby	1	1058	0	4674,6144	4674,6144	295	Christmas Village	135	0	Xmas_talk19	0	
+52	Kitten Xinsi	1	1059	0	4809,5978	4809,5978	250	Christmas Village	135	0	Xmas_talk20	0	
+53	Flying Panda to send up to	1	1060	0	4832,5767	4832,5767	235	Christmas Village	135	0	Xmas_talk21	0	
+54	Little Louise	1	1061	0	4640,5852 	4640,5852	250	Christmas Village	135	0	Xmas_talk22	0	
+55	Mr. Ball	1	781	0	4414,6022	4414,6022	85	Christmas Village	135	0	Xmas_talk23	0	
+56	Tom	1	414	0	4589,5647	4589,5647	205	Christmas Village	135	0	Xmas_talk24	0	
+57	Christmas Village Guide - Mushroom	1	772	0	14700,13600	14700,13600	270	Christmas Village	135	0	Xmas_talk25	0	
+58	Christmas Village Guide - Fighter	1	1053	0	14800,23700	14800,23700	180	Christmas Village	135	0	Xmas_talk25	0	
+59	Le Niger	1	403	0	9801,23501	9801,23501	180	Christmas Village	135	0	peter_talk31	0	
+60	Latte kid	1	402	0	9501,19802	9501,19802	180	Christmas Village	135	0	peter_talk32	0	
+61	Fool John	1	772	0	18101,23903	18101,23903	265	Christmas Village	135	0	peter_talk33	0	
+62	Jokes of the elk	1	1046	0	22501,22904	22501,22904	180	Christmas Village	135	0	peter_talk34	0	
+63	Mi Qiya grandmother	1	401	0	24601,8005	24601,8005	180	Christmas Village	135	0	peter_talk35	0	
+64	Yi Lusen priest	1	429	0	5501,19506	5501,19506	180	Christmas Village	135	0	peter_talk36	0	
+65	Carew	1	19	0	3301,23707	3301,23707	90	Christmas Village	135	0	peter_talk37	0	
+66	Butch	1	421	0	25501,16008	25501,16008	270	Christmas Village	135	0	peter_talk38	0	
+67	Farina and more	1	415	0	17401,6809	17401,6809	0	Christmas Village	135	0	peter_talk39	0	
+68	Claire	1	29	0	14801,6111	14801,6111	180	Christmas Village	135	0	peter_talk40	0	
+69	Di Marcos	1	840	0	13901,9111	13901,9111	90	Christmas Village	135	0	peter_talk41	0	
+70	General	1	798	0	10901,3412	10901,3412	85	Christmas Village	135	0	peter_talk42	0	
+71	Temperature Korea	1	442	0	26401,13813	26401,13813	85	Christmas Village	135	0	peter_talk43	0	
+72	Garfield	1	437	0	6601,8214	6601,8214	180	Christmas Village	135	0	peter_talk44	0	
+73	The problem of small lot	1	414	0	26101,8915	26101,8915	180	Christmas Village	135	0	peter_talk45	0	
+74	Oscar	1	803	0	3401,5416	3401,5416	125	Christmas Village	90	0	peter_talk46	0	
+75	Cheerful	1	732	0	19101,8417	19101,8417	85	Christmas Village	135	0	peter_talk47	0	

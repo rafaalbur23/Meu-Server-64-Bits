@@ -1,0 +1,16 @@
+[12-06 17:21:22](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[12-06 17:21:32](25.80.52.210):[eusouadm]select char[Helper]begin paly...��	 online/total:1/0
+[12-06 17:21:32](25.80.52.210):[eusouadm] char [Helper]entry map server begin play...��	 online/total:1/1
+[12-06 17:22:01]recieved killed acctid/acctname:[1004]/[eusouadm] command!
+[12-06 17:22:10](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[12-06 17:22:17](25.80.52.210):[fake88]login success, 	 nline/total:2/0
+[12-06 17:22:19](25.80.52.210):[eusouadm]select char[Helper]begin paly...��	 online/total:2/0
+[12-06 17:22:19](25.80.52.210):[eusouadm] char [Helper]entry map server begin play...��	 online/total:2/1
+[12-06 17:23:58](25.80.52.210):[fake88]create char [Yumi]��	 online/total:2/1
+[12-06 17:24:00](25.80.52.210):[fake88]select char[Yumi]begin paly...��	 online/total:2/1
+[12-06 17:24:01](25.80.52.210):[fake88] char [Yumi]entry map server begin play...��	 online/total:2/2
+[12-06 17:27:13](25.80.52.210):[fake88]logout,	 online/total:1/1
+[12-06 17:27:14](25.80.52.210):[eusouadm]logout,	 online/total:0/0
+[12-06 17:39:00](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[12-06 17:39:02](25.80.52.210):[eusouadm]select char[Helper]begin paly...��	 online/total:1/0
+[12-06 17:39:03](25.80.52.210):[eusouadm] char [Helper]entry map server begin play...��	 online/total:1/1

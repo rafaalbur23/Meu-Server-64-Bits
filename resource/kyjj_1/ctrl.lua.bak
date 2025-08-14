@@ -1,0 +1,63 @@
+print( "------------------------------------")
+print( "-- Loading kyjj_1 files           --")
+print( "------------------------------------")
+print( "* Loading ctrl.lua" )
+
+function config(map)
+	MapCanSavePos(map, 0)
+	if tribInst ~= nil then
+		MapCopyNum(map, tribInst.conf['maxcopy'])
+	else
+		MapCopyNum(map, 1)
+	end
+	MapCanPK(map, 0)
+	SingleMapCopyPlyNum(map, 5)
+	MapCanTeam(map, 1)
+	MapType(map, 4)
+end
+
+function get_map_entry_pos_kyjj_1()
+    local POS_X = 0
+    local POS_Y = 0
+    return POS_X, POS_Y
+end
+
+function init_entry(Map)
+
+end
+
+function after_enter_kyjj_1(Player, MapCopy)
+    
+end
+
+function before_leave_kyjj_1(Player)
+
+end
+
+function map_copy_first_run_kyjj_1(MapCopy)
+
+end
+
+function map_copy_run_kyjj_1(MapCopy)
+
+end
+
+function map_copy_run_special_kyjj_1(Map)
+
+end
+
+function map_run_kyjj_1(Map)
+
+end
+
+function map_copy_before_close_kyjj_1(MapCopy)
+
+end
+
+function map_copy_close_kyjj_1(MapCopy)
+
+end
+
+function can_open_entry_kyjj_1(Map) 
+    return 1
+end 

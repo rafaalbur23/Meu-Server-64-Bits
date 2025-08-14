@@ -1,0 +1,33 @@
+[08-14 01:24:16][08-14 01:24:16]begin connect database, ip = [DESKTOP-AH8DT4D], db = [GameDB]
+[08-14 01:24:17]connect database ok, begin init datatable
+[08-14 01:24:17]begin check table [account] 
+[08-14 01:24:17]Table [account], begin execute SQL [drop trigger [TR_D_Character_Friends]]
+[08-14 01:24:17]execute SQL success![08-14 01:24:17]Table [account], begin execute SQL [drop trigger [TR_I_Character]]
+[08-14 01:24:17]execute SQL success![08-14 01:24:17]Table [account], begin execute SQL [CREATE TRIGGER TR_D_Character_Friends ON character 
+			   FOR DELETE 
+			   AS
+			   BEGIN
+			   declare @@stat tinyint
+			   declare @@gid  int
+			   select @@stat =guild_stat,@@gid =guild_id from deleted
+			   DELETE friends where friends.cha_id1 IN(select cha_id from deleted)
+			   if(@@gid >0)
+			   BEGIN
+			   update guild set try_total =try_total -(case when @@stat>0 then 1 else 0 end),
+			   member_total =member_total -(case when @@stat >0 then 0 else 1 end)
+			   where guild_id >0 and guild_id =@@gid
+			   END
+			   END
+			   ]
+[08-14 01:24:17]execute SQL success![08-14 01:24:17]Table [account], begin execute SQL [CREATE TRIGGER TR_I_Character ON character
+			   FOR INSERT
+			   AS
+			   BEGIN
+			   declare @l_icon smallint
+			   select @l_icon =convert(smallint,SUBSTRING(inserted.look,5,1)) from inserted
+			   update character set icon =@l_icon where cha_id in (select cha_id from inserted)
+			   END
+			   ]
+[08-14 01:24:17]execute SQL success![08-14 01:24:17]begin check table [guild]
+[08-14 01:24:17]begin check table [param]
+[08-14 01:24:17]init database success

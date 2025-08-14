@@ -1,0 +1,41 @@
+﻿  ChaAttr.cpp
+  ChaMask.cpp
+  CharacterRecord.cpp
+  CommFunc.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\ChaAttr.cpp(24,4): warning C4297: 'CChaAttr::~CChaAttr': função não deveria lançar uma exceção, mas ela lança
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\ChaAttr.cpp(24,4):
+  o destrutor ou desalocador tem uma especificação de exceção de não lançamento (possivelmente implícita)
+  
+  EventRecord.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte '../Common/CommFunc.cpp')
+  
+  HairRecord.cpp
+  i18n.cpp
+  ItemAttr.cpp
+  ItemContent.cpp
+  ItemRecord.cpp
+  JobInitEquip.cpp
+  Kitbag.cpp
+  LevelRecord.cpp
+  LifeLvRecord.cpp
+  LogFile.cpp
+  MapCopyRecord.cpp
+  memcheck.cpp
+  MonRefRecord.cpp
+  NetCommand.cpp
+  NoLockRecord.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte '../Common/NetCommand.cpp')
+  
+  NpcRecord.cpp
+  Point.cpp
+  SailLvRecord.cpp
+  ShipSet.cpp
+  SkillRecord.cpp
+  SkillStateRecord.cpp
+  stringlib.cpp
+  stringpooll.cpp
+  SwitchMapRecord.cpp
+  TerrainAttrib.cpp
+  Common.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\x86\Release\Common_x86.lib

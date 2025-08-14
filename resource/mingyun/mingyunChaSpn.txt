@@ -1,0 +1,6 @@
+//区域刷新点编号	起点	终点	怪物出生方向	怪物编号	怪物数量	刷新概率	刷新时间(秒)	暴乱概率	说明	分区编号
+//spawnid	startpos	endpos	direction	monsterID	count	Rfprobability	RFTime	commotion	note	分区编号
+1	5000,5000	5000,5000	-1	1143	1	100	30	40	0	mingyun
+2	6300,5100	6300,5100	-1	1143	1	100	30	40	0	mingyun
+3	6300,6400	6300,6400	-1	1143	1	100	30	40	0	mingyun
+4	4900,6400	4900,6400	-1	1143	1	100	30	40	0	mingyun

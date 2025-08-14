@@ -1,0 +1,195 @@
+﻿  DBConnect.cpp
+  Friend.cpp
+  GroupServerApp.cpp
+  GroupServerAppChat.cpp
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'DBConnect.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'Friend.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerApp.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerAppChat.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerApp.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerAppChat.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'DBConnect.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(420,7): warning C4101: 'sql': unreferenced local variable
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(595,7): warning C4101: 'sql': unreferenced local variable
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(876,1): warning C4477: '_snprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 15 has type 'SQLLEN'
+  C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(876,1):
+  consider using '%lld' in the format string
+  C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(876,1):
+  consider using '%Id' in the format string
+  C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(876,1):
+  consider using '%I64d' in the format string
+  
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1028,54): warning C4244: 'argument': conversion from 'SQLLEN' to 'int', possible loss of data
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1163,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1287,7): warning C4101: 'filter': unreferenced local variable
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1305,7): warning C4101: 'filter': unreferenced local variable
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1369,7): warning C4101: 'sql': unreferenced local variable
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1464,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1465,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1466,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1467,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1468,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1469,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1470,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1471,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1472,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1529,31): warning C4244: 'initializing': conversion from 'SQLULEN' to 'SQLUINTEGER', possible loss of data
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1607,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1608,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1609,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1610,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1611,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1612,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1613,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1614,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1615,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1672,31): warning C4244: 'initializing': conversion from 'SQLULEN' to 'SQLUINTEGER', possible loss of data
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1795,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1820,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1977,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1978,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(1979,1): warning C4010: single-line comment contains line-continuation character
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\DBConnect.cpp(2029,31): warning C4244: 'initializing': conversion from 'SQLULEN' to 'SQLUINTEGER', possible loss of data
+  GroupServerAppFrnd.cpp
+  GroupServerAppGuld.cpp
+  GroupServerAppInit.cpp
+  GroupServerAppMaster.cpp
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerAppFrnd.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerAppInit.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerAppGuld.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerAppMaster.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerAppFrnd.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerAppInit.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\GroupServerAppFrnd.cpp(511,39): warning C4244: 'argument': conversion from 'unsigned __int64' to 'LONG', possible loss of data
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerAppGuld.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerAppMaster.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\GroupServerAppMaster.cpp(373,43): warning C4244: 'argument': conversion from 'unsigned __int64' to 'LONG', possible loss of data
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\GroupServerAppMaster.cpp(440,41): warning C4244: 'argument': conversion from 'unsigned __int64' to 'LONG', possible loss of data
+  GroupServerAppPrsn.cpp
+  GroupServerAppServ.cpp
+  GroupServerAppTeam.cpp
+  GroupSMain.cpp
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerAppPrsn.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerAppServ.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupServerAppTeam.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GroupSMain.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerAppPrsn.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\GroupServerAppPrsn.cpp(208,22): warning C4244: 'argument': conversion from 'SQLLEN' to 'dbc::uLong', possible loss of data
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\GroupServerAppPrsn.cpp(209,37): warning C4244: 'argument': conversion from 'SQLLEN' to 'dbc::uShort', possible loss of data
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerAppServ.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'GroupServerAppTeam.cpp')
+  
+  Guild.cpp
+  GuildMember.cpp
+  Invitation.cpp
+  LuaFunc.cpp
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'Guild.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'Invitation.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'GuildMember.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\Common\netcommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'Guild.cpp')
+  
+  Master.cpp
+  Parser.cpp
+  Player.cpp
+  Script.cpp
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'Master.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'Player.cpp')
+  
+  SessionChat.cpp
+C:\Users\Usuario\Documents\Yatops\Source\GroupServer\Parser.cpp(167,18): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Usuario\Documents\Yatops\Source\Common\NetCommand.h(265,1): warning C4002: too many arguments for function-like macro invocation 'MESSAGE_DEF'
+  (compiling source file 'Player.cpp')
+  
+  stdafx.cpp
+  Team.cpp
+  TeamMember.cpp
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'SessionChat.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'Team.cpp')
+  
+C:\Users\Usuario\Documents\Yatops\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argument': conversion from 'size_t' to 'dbc::uLong', possible loss of data
+  (compiling source file 'TeamMember.cpp')
+  
+Utility_x64.lib(licensecc.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(licensecc.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(logger.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(logger.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(string_utils.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(string_utils.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(cpu_info.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(cpu_info.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(execution_environment.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(execution_environment.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(execution_environment_common.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(execution_environment_common.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(hw_identifier_facade.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(hw_identifier_facade.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(EventRegistry.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(EventRegistry.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(LicenseReader.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(LicenseReader.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(license_verifier.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(license_verifier.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(dmi_info.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(dmi_info.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(hw_identifier.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(hw_identifier.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(identification_strategy.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(identification_strategy.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(LocatorFactory.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(LocatorFactory.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(signature_verifier.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(signature_verifier.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(base64.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(base64.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(default_strategy.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(default_strategy.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(ethernet.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(ethernet.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(disk_strategy.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(disk_strategy.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(ApplicationFolder.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(ApplicationFolder.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(EnvironmentVarData.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(EnvironmentVarData.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(EnvironmentVarLocation.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(EnvironmentVarLocation.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(ExternalDefinition.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(ExternalDefinition.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(network.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(network.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(os_win.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(os_win.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(LocatorStrategy.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(LocatorStrategy.cpp.obj)' or at ''; linking object as if no debug info
+Utility_x64.lib(file_utils.cpp.obj) : warning LNK4099: PDB '' was not found with 'Utility_x64.lib(file_utils.cpp.obj)' or at ''; linking object as if no debug info
+  GroupServer.vcxproj -> C:\Users\Usuario\Documents\Yatops\Server\GroupServer_x64_Debug.exe

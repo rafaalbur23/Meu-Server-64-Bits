@@ -1,0 +1,1402 @@
+[08-14 01:34:21]2bool CMapRes::Open(void):darkblue
+[08-14 01:34:21]2bool CMapRes::Open(void):garner2
+[08-14 01:34:22]2bool CMapRes::Open(void):winterland
+[08-14 01:34:22]2bool CMapRes::Open(void):kyjj_1
+[08-14 01:34:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2066)
+[08-14 01:34:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:34:26]receive request to create entry:position binglang2 --> darkblue[271800, 65900]
+[08-14 01:34:26]create entry success:position binglang2 --> darkblue[271800, 65900] 
+[08-14 01:34:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2071)
+[08-14 01:34:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:34:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2076)
+[08-14 01:34:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:34:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2081)
+[08-14 01:34:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:34:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2086)
+[08-14 01:34:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:34:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2091)
+[08-14 01:34:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:34:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2096)
+[08-14 01:34:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2101)
+[08-14 01:35:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2106)
+[08-14 01:35:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2111)
+[08-14 01:35:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2116)
+[08-14 01:35:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2121)
+[08-14 01:35:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2126)
+[08-14 01:35:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2131)
+[08-14 01:35:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2136)
+[08-14 01:35:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2141)
+[08-14 01:35:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2146)
+[08-14 01:35:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2151)
+[08-14 01:35:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:35:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2156)
+[08-14 01:35:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2161)
+[08-14 01:36:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2166)
+[08-14 01:36:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2171)
+[08-14 01:36:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2176)
+[08-14 01:36:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2181)
+[08-14 01:36:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2186)
+[08-14 01:36:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2191)
+[08-14 01:36:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2196)
+[08-14 01:36:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2201)
+[08-14 01:36:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2206)
+[08-14 01:36:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2211)
+[08-14 01:36:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:36:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2216)
+[08-14 01:36:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2221)
+[08-14 01:37:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2226)
+[08-14 01:37:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2231)
+[08-14 01:37:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2236)
+[08-14 01:37:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2241)
+[08-14 01:37:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2246)
+[08-14 01:37:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2251)
+[08-14 01:37:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2256)
+[08-14 01:37:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2261)
+[08-14 01:37:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2266)
+[08-14 01:37:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2271)
+[08-14 01:37:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:37:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2276)
+[08-14 01:37:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2281)
+[08-14 01:38:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2286)
+[08-14 01:38:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2291)
+[08-14 01:38:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2296)
+[08-14 01:38:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2301)
+[08-14 01:38:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2306)
+[08-14 01:38:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2311)
+[08-14 01:38:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2316)
+[08-14 01:38:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2321)
+[08-14 01:38:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2326)
+[08-14 01:38:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2331)
+[08-14 01:38:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:38:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2336)
+[08-14 01:38:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2341)
+[08-14 01:39:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2346)
+[08-14 01:39:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2351)
+[08-14 01:39:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2356)
+[08-14 01:39:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2361)
+[08-14 01:39:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2366)
+[08-14 01:39:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2371)
+[08-14 01:39:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2376)
+[08-14 01:39:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2381)
+[08-14 01:39:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2386)
+[08-14 01:39:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2391)
+[08-14 01:39:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:39:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2396)
+[08-14 01:39:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2401)
+[08-14 01:40:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2406)
+[08-14 01:40:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2411)
+[08-14 01:40:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2416)
+[08-14 01:40:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2421)
+[08-14 01:40:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2426)
+[08-14 01:40:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2431)
+[08-14 01:40:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2436)
+[08-14 01:40:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2441)
+[08-14 01:40:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2446)
+[08-14 01:40:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2451)
+[08-14 01:40:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:40:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2456)
+[08-14 01:40:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2461)
+[08-14 01:41:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2466)
+[08-14 01:41:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2471)
+[08-14 01:41:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2476)
+[08-14 01:41:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2481)
+[08-14 01:41:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2486)
+[08-14 01:41:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2491)
+[08-14 01:41:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2496)
+[08-14 01:41:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2501)
+[08-14 01:41:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2506)
+[08-14 01:41:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2511)
+[08-14 01:41:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:41:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2516)
+[08-14 01:41:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2521)
+[08-14 01:42:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2526)
+[08-14 01:42:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2531)
+[08-14 01:42:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2536)
+[08-14 01:42:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2541)
+[08-14 01:42:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2546)
+[08-14 01:42:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2551)
+[08-14 01:42:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2556)
+[08-14 01:42:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2561)
+[08-14 01:42:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2566)
+[08-14 01:42:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2571)
+[08-14 01:42:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:42:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2576)
+[08-14 01:42:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2581)
+[08-14 01:43:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2586)
+[08-14 01:43:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2591)
+[08-14 01:43:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2596)
+[08-14 01:43:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2601)
+[08-14 01:43:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2606)
+[08-14 01:43:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2611)
+[08-14 01:43:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2616)
+[08-14 01:43:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2621)
+[08-14 01:43:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2626)
+[08-14 01:43:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2631)
+[08-14 01:43:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:43:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2636)
+[08-14 01:43:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2641)
+[08-14 01:44:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2646)
+[08-14 01:44:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2651)
+[08-14 01:44:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2656)
+[08-14 01:44:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2661)
+[08-14 01:44:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2666)
+[08-14 01:44:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2671)
+[08-14 01:44:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2676)
+[08-14 01:44:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2681)
+[08-14 01:44:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2686)
+[08-14 01:44:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2691)
+[08-14 01:44:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:44:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2696)
+[08-14 01:44:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2701)
+[08-14 01:45:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2701)
+[08-14 01:45:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:01]close map copy (garner2:-1)
+[08-14 01:45:01]close map succeed :garner2
+[08-14 01:45:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2706)
+[08-14 01:45:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2706)
+[08-14 01:45:06]already close the map:garner2
+[08-14 01:45:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2711)
+[08-14 01:45:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2711)
+[08-14 01:45:11]already close the map:garner2
+[08-14 01:45:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2716)
+[08-14 01:45:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2716)
+[08-14 01:45:16]already close the map:garner2
+[08-14 01:45:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2721)
+[08-14 01:45:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2721)
+[08-14 01:45:21]already close the map:garner2
+[08-14 01:45:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2726)
+[08-14 01:45:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2726)
+[08-14 01:45:26]already close the map:garner2
+[08-14 01:45:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2731)
+[08-14 01:45:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2731)
+[08-14 01:45:31]already close the map:garner2
+[08-14 01:45:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2736)
+[08-14 01:45:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2736)
+[08-14 01:45:36]already close the map:garner2
+[08-14 01:45:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2741)
+[08-14 01:45:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2741)
+[08-14 01:45:41]already close the map:garner2
+[08-14 01:45:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2746)
+[08-14 01:45:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2746)
+[08-14 01:45:46]already close the map:garner2
+[08-14 01:45:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2751)
+[08-14 01:45:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2751)
+[08-14 01:45:51]already close the map:garner2
+[08-14 01:45:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2756)
+[08-14 01:45:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:45:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2756)
+[08-14 01:45:56]already close the map:garner2
+[08-14 01:46:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2761)
+[08-14 01:46:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2761)
+[08-14 01:46:01]already close the map:garner2
+[08-14 01:46:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2766)
+[08-14 01:46:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2766)
+[08-14 01:46:06]already close the map:garner2
+[08-14 01:46:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2771)
+[08-14 01:46:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2771)
+[08-14 01:46:11]already close the map:garner2
+[08-14 01:46:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2776)
+[08-14 01:46:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2776)
+[08-14 01:46:16]already close the map:garner2
+[08-14 01:46:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2781)
+[08-14 01:46:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2781)
+[08-14 01:46:21]already close the map:garner2
+[08-14 01:46:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2786)
+[08-14 01:46:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2786)
+[08-14 01:46:26]already close the map:garner2
+[08-14 01:46:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2791)
+[08-14 01:46:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2791)
+[08-14 01:46:31]already close the map:garner2
+[08-14 01:46:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2796)
+[08-14 01:46:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2796)
+[08-14 01:46:36]already close the map:garner2
+[08-14 01:46:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2801)
+[08-14 01:46:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2801)
+[08-14 01:46:41]already close the map:garner2
+[08-14 01:46:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2806)
+[08-14 01:46:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2806)
+[08-14 01:46:46]already close the map:garner2
+[08-14 01:46:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2811)
+[08-14 01:46:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2811)
+[08-14 01:46:51]already close the map:garner2
+[08-14 01:46:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2816)
+[08-14 01:46:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:46:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2816)
+[08-14 01:46:56]already close the map:garner2
+[08-14 01:47:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2821)
+[08-14 01:47:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2821)
+[08-14 01:47:01]already close the map:garner2
+[08-14 01:47:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2826)
+[08-14 01:47:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2826)
+[08-14 01:47:06]already close the map:garner2
+[08-14 01:47:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2831)
+[08-14 01:47:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2831)
+[08-14 01:47:11]already close the map:garner2
+[08-14 01:47:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2836)
+[08-14 01:47:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2836)
+[08-14 01:47:16]already close the map:garner2
+[08-14 01:47:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2841)
+[08-14 01:47:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2841)
+[08-14 01:47:21]already close the map:garner2
+[08-14 01:47:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2846)
+[08-14 01:47:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2846)
+[08-14 01:47:26]already close the map:garner2
+[08-14 01:47:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2851)
+[08-14 01:47:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2851)
+[08-14 01:47:31]already close the map:garner2
+[08-14 01:47:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2856)
+[08-14 01:47:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2856)
+[08-14 01:47:36]already close the map:garner2
+[08-14 01:47:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2861)
+[08-14 01:47:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2861)
+[08-14 01:47:41]already close the map:garner2
+[08-14 01:47:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2866)
+[08-14 01:47:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2866)
+[08-14 01:47:46]already close the map:garner2
+[08-14 01:47:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2871)
+[08-14 01:47:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2871)
+[08-14 01:47:51]already close the map:garner2
+[08-14 01:47:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2876)
+[08-14 01:47:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:47:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2876)
+[08-14 01:47:56]already close the map:garner2
+[08-14 01:48:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2881)
+[08-14 01:48:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2881)
+[08-14 01:48:01]already close the map:garner2
+[08-14 01:48:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2886)
+[08-14 01:48:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2886)
+[08-14 01:48:06]already close the map:garner2
+[08-14 01:48:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2891)
+[08-14 01:48:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2891)
+[08-14 01:48:11]already close the map:garner2
+[08-14 01:48:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2896)
+[08-14 01:48:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2896)
+[08-14 01:48:16]already close the map:garner2
+[08-14 01:48:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2901)
+[08-14 01:48:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2901)
+[08-14 01:48:21]already close the map:garner2
+[08-14 01:48:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2906)
+[08-14 01:48:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2906)
+[08-14 01:48:26]already close the map:garner2
+[08-14 01:48:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2911)
+[08-14 01:48:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2911)
+[08-14 01:48:31]already close the map:garner2
+[08-14 01:48:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2916)
+[08-14 01:48:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2916)
+[08-14 01:48:36]already close the map:garner2
+[08-14 01:48:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2921)
+[08-14 01:48:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2921)
+[08-14 01:48:41]already close the map:garner2
+[08-14 01:48:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2926)
+[08-14 01:48:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2926)
+[08-14 01:48:46]already close the map:garner2
+[08-14 01:48:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2931)
+[08-14 01:48:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2931)
+[08-14 01:48:51]already close the map:garner2
+[08-14 01:48:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2936)
+[08-14 01:48:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:48:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2936)
+[08-14 01:48:56]already close the map:garner2
+[08-14 01:49:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2941)
+[08-14 01:49:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2941)
+[08-14 01:49:01]already close the map:garner2
+[08-14 01:49:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2946)
+[08-14 01:49:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2946)
+[08-14 01:49:06]already close the map:garner2
+[08-14 01:49:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2951)
+[08-14 01:49:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2951)
+[08-14 01:49:11]already close the map:garner2
+[08-14 01:49:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2956)
+[08-14 01:49:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2956)
+[08-14 01:49:16]already close the map:garner2
+[08-14 01:49:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2961)
+[08-14 01:49:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2961)
+[08-14 01:49:21]already close the map:garner2
+[08-14 01:49:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2966)
+[08-14 01:49:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2966)
+[08-14 01:49:26]already close the map:garner2
+[08-14 01:49:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2971)
+[08-14 01:49:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2971)
+[08-14 01:49:31]already close the map:garner2
+[08-14 01:49:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2976)
+[08-14 01:49:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2976)
+[08-14 01:49:36]already close the map:garner2
+[08-14 01:49:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2981)
+[08-14 01:49:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2981)
+[08-14 01:49:41]already close the map:garner2
+[08-14 01:49:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2986)
+[08-14 01:49:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2986)
+[08-14 01:49:46]already close the map:garner2
+[08-14 01:49:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2991)
+[08-14 01:49:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2991)
+[08-14 01:49:51]already close the map:garner2
+[08-14 01:49:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 2996)
+[08-14 01:49:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:49:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 2996)
+[08-14 01:49:56]already close the map:garner2
+[08-14 01:50:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3001)
+[08-14 01:50:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3001)
+[08-14 01:50:01]already close the map:garner2
+[08-14 01:50:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3006)
+[08-14 01:50:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3006)
+[08-14 01:50:06]already close the map:garner2
+[08-14 01:50:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3011)
+[08-14 01:50:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3011)
+[08-14 01:50:11]already close the map:garner2
+[08-14 01:50:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3016)
+[08-14 01:50:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3016)
+[08-14 01:50:16]already close the map:garner2
+[08-14 01:50:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3021)
+[08-14 01:50:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3021)
+[08-14 01:50:21]already close the map:garner2
+[08-14 01:50:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3026)
+[08-14 01:50:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3026)
+[08-14 01:50:26]already close the map:garner2
+[08-14 01:50:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3031)
+[08-14 01:50:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3031)
+[08-14 01:50:31]already close the map:garner2
+[08-14 01:50:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3036)
+[08-14 01:50:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3036)
+[08-14 01:50:36]already close the map:garner2
+[08-14 01:50:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3041)
+[08-14 01:50:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3041)
+[08-14 01:50:41]already close the map:garner2
+[08-14 01:50:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3046)
+[08-14 01:50:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3046)
+[08-14 01:50:46]already close the map:garner2
+[08-14 01:50:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3051)
+[08-14 01:50:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3051)
+[08-14 01:50:51]already close the map:garner2
+[08-14 01:50:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3056)
+[08-14 01:50:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:50:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3056)
+[08-14 01:50:56]already close the map:garner2
+[08-14 01:51:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3061)
+[08-14 01:51:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3061)
+[08-14 01:51:01]already close the map:garner2
+[08-14 01:51:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3066)
+[08-14 01:51:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3066)
+[08-14 01:51:06]already close the map:garner2
+[08-14 01:51:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3071)
+[08-14 01:51:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3071)
+[08-14 01:51:11]already close the map:garner2
+[08-14 01:51:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3076)
+[08-14 01:51:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3076)
+[08-14 01:51:16]already close the map:garner2
+[08-14 01:51:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3081)
+[08-14 01:51:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3081)
+[08-14 01:51:21]already close the map:garner2
+[08-14 01:51:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3086)
+[08-14 01:51:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3086)
+[08-14 01:51:26]already close the map:garner2
+[08-14 01:51:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3091)
+[08-14 01:51:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3091)
+[08-14 01:51:31]already close the map:garner2
+[08-14 01:51:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3096)
+[08-14 01:51:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3096)
+[08-14 01:51:36]already close the map:garner2
+[08-14 01:51:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3101)
+[08-14 01:51:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3101)
+[08-14 01:51:41]already close the map:garner2
+[08-14 01:51:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3106)
+[08-14 01:51:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3106)
+[08-14 01:51:46]already close the map:garner2
+[08-14 01:51:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3111)
+[08-14 01:51:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3111)
+[08-14 01:51:51]already close the map:garner2
+[08-14 01:51:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3116)
+[08-14 01:51:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:51:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3116)
+[08-14 01:51:56]already close the map:garner2
+[08-14 01:52:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3121)
+[08-14 01:52:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3121)
+[08-14 01:52:01]already close the map:garner2
+[08-14 01:52:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3126)
+[08-14 01:52:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3126)
+[08-14 01:52:06]already close the map:garner2
+[08-14 01:52:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3131)
+[08-14 01:52:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3131)
+[08-14 01:52:11]already close the map:garner2
+[08-14 01:52:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3136)
+[08-14 01:52:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3136)
+[08-14 01:52:16]already close the map:garner2
+[08-14 01:52:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3141)
+[08-14 01:52:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3141)
+[08-14 01:52:21]already close the map:garner2
+[08-14 01:52:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3146)
+[08-14 01:52:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3146)
+[08-14 01:52:26]already close the map:garner2
+[08-14 01:52:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3151)
+[08-14 01:52:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3151)
+[08-14 01:52:31]already close the map:garner2
+[08-14 01:52:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3156)
+[08-14 01:52:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3156)
+[08-14 01:52:36]already close the map:garner2
+[08-14 01:52:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3161)
+[08-14 01:52:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3161)
+[08-14 01:52:41]already close the map:garner2
+[08-14 01:52:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3166)
+[08-14 01:52:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3166)
+[08-14 01:52:46]already close the map:garner2
+[08-14 01:52:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3171)
+[08-14 01:52:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3171)
+[08-14 01:52:51]already close the map:garner2
+[08-14 01:52:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3176)
+[08-14 01:52:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:52:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3176)
+[08-14 01:52:56]already close the map:garner2
+[08-14 01:53:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3181)
+[08-14 01:53:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3181)
+[08-14 01:53:01]already close the map:garner2
+[08-14 01:53:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3186)
+[08-14 01:53:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3186)
+[08-14 01:53:06]already close the map:garner2
+[08-14 01:53:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3191)
+[08-14 01:53:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3191)
+[08-14 01:53:11]already close the map:garner2
+[08-14 01:53:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3196)
+[08-14 01:53:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3196)
+[08-14 01:53:16]already close the map:garner2
+[08-14 01:53:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3201)
+[08-14 01:53:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3201)
+[08-14 01:53:21]already close the map:garner2
+[08-14 01:53:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3206)
+[08-14 01:53:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3206)
+[08-14 01:53:26]already close the map:garner2
+[08-14 01:53:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3211)
+[08-14 01:53:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3211)
+[08-14 01:53:31]already close the map:garner2
+[08-14 01:53:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3216)
+[08-14 01:53:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3216)
+[08-14 01:53:36]already close the map:garner2
+[08-14 01:53:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3221)
+[08-14 01:53:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3221)
+[08-14 01:53:41]already close the map:garner2
+[08-14 01:53:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3226)
+[08-14 01:53:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3226)
+[08-14 01:53:46]already close the map:garner2
+[08-14 01:53:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3231)
+[08-14 01:53:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3231)
+[08-14 01:53:51]already close the map:garner2
+[08-14 01:53:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3236)
+[08-14 01:53:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:53:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3236)
+[08-14 01:53:56]already close the map:garner2
+[08-14 01:54:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3241)
+[08-14 01:54:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3241)
+[08-14 01:54:01]already close the map:garner2
+[08-14 01:54:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3246)
+[08-14 01:54:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3246)
+[08-14 01:54:06]already close the map:garner2
+[08-14 01:54:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3251)
+[08-14 01:54:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3251)
+[08-14 01:54:11]already close the map:garner2
+[08-14 01:54:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3256)
+[08-14 01:54:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3256)
+[08-14 01:54:16]already close the map:garner2
+[08-14 01:54:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3261)
+[08-14 01:54:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3261)
+[08-14 01:54:21]already close the map:garner2
+[08-14 01:54:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3266)
+[08-14 01:54:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3266)
+[08-14 01:54:26]already close the map:garner2
+[08-14 01:54:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3271)
+[08-14 01:54:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3271)
+[08-14 01:54:31]already close the map:garner2
+[08-14 01:54:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3276)
+[08-14 01:54:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3276)
+[08-14 01:54:36]already close the map:garner2
+[08-14 01:54:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3281)
+[08-14 01:54:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3281)
+[08-14 01:54:41]already close the map:garner2
+[08-14 01:54:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3286)
+[08-14 01:54:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3286)
+[08-14 01:54:46]already close the map:garner2
+[08-14 01:54:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3291)
+[08-14 01:54:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3291)
+[08-14 01:54:51]already close the map:garner2
+[08-14 01:54:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3296)
+[08-14 01:54:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:54:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3296)
+[08-14 01:54:56]already close the map:garner2
+[08-14 01:55:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3301)
+[08-14 01:55:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3301)
+[08-14 01:55:01]already close the map:garner2
+[08-14 01:55:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3306)
+[08-14 01:55:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3306)
+[08-14 01:55:06]already close the map:garner2
+[08-14 01:55:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3311)
+[08-14 01:55:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3311)
+[08-14 01:55:11]already close the map:garner2
+[08-14 01:55:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3316)
+[08-14 01:55:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3316)
+[08-14 01:55:16]already close the map:garner2
+[08-14 01:55:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3321)
+[08-14 01:55:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3321)
+[08-14 01:55:21]already close the map:garner2
+[08-14 01:55:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3326)
+[08-14 01:55:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3326)
+[08-14 01:55:26]already close the map:garner2
+[08-14 01:55:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3331)
+[08-14 01:55:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3331)
+[08-14 01:55:31]already close the map:garner2
+[08-14 01:55:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3336)
+[08-14 01:55:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3336)
+[08-14 01:55:36]already close the map:garner2
+[08-14 01:55:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3341)
+[08-14 01:55:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3341)
+[08-14 01:55:41]already close the map:garner2
+[08-14 01:55:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3346)
+[08-14 01:55:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3346)
+[08-14 01:55:46]already close the map:garner2
+[08-14 01:55:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3351)
+[08-14 01:55:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3351)
+[08-14 01:55:51]already close the map:garner2
+[08-14 01:55:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3356)
+[08-14 01:55:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:55:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3356)
+[08-14 01:55:56]already close the map:garner2
+[08-14 01:56:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3361)
+[08-14 01:56:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3361)
+[08-14 01:56:01]already close the map:garner2
+[08-14 01:56:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3366)
+[08-14 01:56:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3366)
+[08-14 01:56:06]already close the map:garner2
+[08-14 01:56:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3371)
+[08-14 01:56:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3371)
+[08-14 01:56:11]already close the map:garner2
+[08-14 01:56:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3376)
+[08-14 01:56:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3376)
+[08-14 01:56:16]already close the map:garner2
+[08-14 01:56:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3381)
+[08-14 01:56:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3381)
+[08-14 01:56:21]already close the map:garner2
+[08-14 01:56:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3386)
+[08-14 01:56:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3386)
+[08-14 01:56:26]already close the map:garner2
+[08-14 01:56:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3391)
+[08-14 01:56:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3391)
+[08-14 01:56:31]already close the map:garner2
+[08-14 01:56:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3396)
+[08-14 01:56:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3396)
+[08-14 01:56:36]already close the map:garner2
+[08-14 01:56:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3401)
+[08-14 01:56:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3401)
+[08-14 01:56:41]already close the map:garner2
+[08-14 01:56:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3406)
+[08-14 01:56:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3406)
+[08-14 01:56:46]already close the map:garner2
+[08-14 01:56:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3411)
+[08-14 01:56:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3411)
+[08-14 01:56:51]already close the map:garner2
+[08-14 01:56:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3416)
+[08-14 01:56:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:56:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3416)
+[08-14 01:56:56]already close the map:garner2
+[08-14 01:57:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3421)
+[08-14 01:57:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3421)
+[08-14 01:57:01]already close the map:garner2
+[08-14 01:57:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3426)
+[08-14 01:57:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3426)
+[08-14 01:57:06]already close the map:garner2
+[08-14 01:57:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3431)
+[08-14 01:57:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3431)
+[08-14 01:57:11]already close the map:garner2
+[08-14 01:57:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3436)
+[08-14 01:57:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3436)
+[08-14 01:57:16]already close the map:garner2
+[08-14 01:57:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3441)
+[08-14 01:57:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3441)
+[08-14 01:57:21]already close the map:garner2
+[08-14 01:57:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3446)
+[08-14 01:57:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3446)
+[08-14 01:57:26]already close the map:garner2
+[08-14 01:57:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3451)
+[08-14 01:57:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3451)
+[08-14 01:57:31]already close the map:garner2
+[08-14 01:57:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3456)
+[08-14 01:57:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3456)
+[08-14 01:57:36]already close the map:garner2
+[08-14 01:57:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3461)
+[08-14 01:57:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3461)
+[08-14 01:57:41]already close the map:garner2
+[08-14 01:57:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3466)
+[08-14 01:57:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3466)
+[08-14 01:57:46]already close the map:garner2
+[08-14 01:57:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3471)
+[08-14 01:57:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3471)
+[08-14 01:57:51]already close the map:garner2
+[08-14 01:57:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3476)
+[08-14 01:57:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:57:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3476)
+[08-14 01:57:56]already close the map:garner2
+[08-14 01:58:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3481)
+[08-14 01:58:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3481)
+[08-14 01:58:01]already close the map:garner2
+[08-14 01:58:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3486)
+[08-14 01:58:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3486)
+[08-14 01:58:06]already close the map:garner2
+[08-14 01:58:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3491)
+[08-14 01:58:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3491)
+[08-14 01:58:11]already close the map:garner2
+[08-14 01:58:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3496)
+[08-14 01:58:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3496)
+[08-14 01:58:16]already close the map:garner2
+[08-14 01:58:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3501)
+[08-14 01:58:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3501)
+[08-14 01:58:21]already close the map:garner2
+[08-14 01:58:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3506)
+[08-14 01:58:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3506)
+[08-14 01:58:26]already close the map:garner2
+[08-14 01:58:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3511)
+[08-14 01:58:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3511)
+[08-14 01:58:31]already close the map:garner2
+[08-14 01:58:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3516)
+[08-14 01:58:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3516)
+[08-14 01:58:36]already close the map:garner2
+[08-14 01:58:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3521)
+[08-14 01:58:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3521)
+[08-14 01:58:41]already close the map:garner2
+[08-14 01:58:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3526)
+[08-14 01:58:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3526)
+[08-14 01:58:46]already close the map:garner2
+[08-14 01:58:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3531)
+[08-14 01:58:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3531)
+[08-14 01:58:51]already close the map:garner2
+[08-14 01:58:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3536)
+[08-14 01:58:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:58:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3536)
+[08-14 01:58:56]already close the map:garner2
+[08-14 01:59:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3541)
+[08-14 01:59:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3541)
+[08-14 01:59:01]already close the map:garner2
+[08-14 01:59:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3546)
+[08-14 01:59:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3546)
+[08-14 01:59:06]already close the map:garner2
+[08-14 01:59:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3551)
+[08-14 01:59:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3551)
+[08-14 01:59:11]already close the map:garner2
+[08-14 01:59:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3556)
+[08-14 01:59:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3556)
+[08-14 01:59:16]already close the map:garner2
+[08-14 01:59:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3561)
+[08-14 01:59:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3561)
+[08-14 01:59:21]already close the map:garner2
+[08-14 01:59:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3566)
+[08-14 01:59:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3566)
+[08-14 01:59:26]already close the map:garner2
+[08-14 01:59:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3571)
+[08-14 01:59:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3571)
+[08-14 01:59:31]already close the map:garner2
+[08-14 01:59:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3576)
+[08-14 01:59:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3576)
+[08-14 01:59:36]already close the map:garner2
+[08-14 01:59:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3581)
+[08-14 01:59:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3581)
+[08-14 01:59:41]already close the map:garner2
+[08-14 01:59:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3586)
+[08-14 01:59:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3586)
+[08-14 01:59:46]already close the map:garner2
+[08-14 01:59:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3591)
+[08-14 01:59:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3591)
+[08-14 01:59:51]already close the map:garner2
+[08-14 01:59:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3596)
+[08-14 01:59:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 01:59:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3596)
+[08-14 01:59:56]already close the map:garner2
+[08-14 02:00:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3601)
+[08-14 02:00:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3601)
+[08-14 02:00:01]already close the map:garner2
+[08-14 02:00:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3606)
+[08-14 02:00:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3606)
+[08-14 02:00:06]already close the map:garner2
+[08-14 02:00:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3611)
+[08-14 02:00:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3611)
+[08-14 02:00:11]already close the map:garner2
+[08-14 02:00:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3616)
+[08-14 02:00:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3616)
+[08-14 02:00:16]already close the map:garner2
+[08-14 02:00:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3621)
+[08-14 02:00:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3621)
+[08-14 02:00:21]already close the map:garner2
+[08-14 02:00:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3626)
+[08-14 02:00:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3626)
+[08-14 02:00:26]already close the map:garner2
+[08-14 02:00:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3631)
+[08-14 02:00:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3631)
+[08-14 02:00:31]already close the map:garner2
+[08-14 02:00:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3636)
+[08-14 02:00:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3636)
+[08-14 02:00:36]already close the map:garner2
+[08-14 02:00:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3641)
+[08-14 02:00:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3641)
+[08-14 02:00:41]already close the map:garner2
+[08-14 02:00:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3646)
+[08-14 02:00:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3646)
+[08-14 02:00:46]already close the map:garner2
+[08-14 02:00:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3651)
+[08-14 02:00:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3651)
+[08-14 02:00:51]already close the map:garner2
+[08-14 02:00:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3656)
+[08-14 02:00:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:00:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3656)
+[08-14 02:00:56]already close the map:garner2
+[08-14 02:01:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3661)
+[08-14 02:01:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3661)
+[08-14 02:01:01]already close the map:garner2
+[08-14 02:01:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3666)
+[08-14 02:01:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3666)
+[08-14 02:01:06]already close the map:garner2
+[08-14 02:01:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3671)
+[08-14 02:01:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3671)
+[08-14 02:01:11]already close the map:garner2
+[08-14 02:01:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3676)
+[08-14 02:01:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3676)
+[08-14 02:01:16]already close the map:garner2
+[08-14 02:01:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3681)
+[08-14 02:01:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3681)
+[08-14 02:01:21]already close the map:garner2
+[08-14 02:01:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3686)
+[08-14 02:01:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3686)
+[08-14 02:01:26]already close the map:garner2
+[08-14 02:01:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3691)
+[08-14 02:01:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3691)
+[08-14 02:01:31]already close the map:garner2
+[08-14 02:01:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3696)
+[08-14 02:01:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3696)
+[08-14 02:01:36]already close the map:garner2
+[08-14 02:01:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3701)
+[08-14 02:01:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3701)
+[08-14 02:01:41]already close the map:garner2
+[08-14 02:01:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3706)
+[08-14 02:01:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3706)
+[08-14 02:01:46]already close the map:garner2
+[08-14 02:01:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3711)
+[08-14 02:01:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3711)
+[08-14 02:01:51]already close the map:garner2
+[08-14 02:01:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3716)
+[08-14 02:01:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:01:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3716)
+[08-14 02:01:56]already close the map:garner2
+[08-14 02:02:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3721)
+[08-14 02:02:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3721)
+[08-14 02:02:01]already close the map:garner2
+[08-14 02:02:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3726)
+[08-14 02:02:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3726)
+[08-14 02:02:06]already close the map:garner2
+[08-14 02:02:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3731)
+[08-14 02:02:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3731)
+[08-14 02:02:11]already close the map:garner2
+[08-14 02:02:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3736)
+[08-14 02:02:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3736)
+[08-14 02:02:16]already close the map:garner2
+[08-14 02:02:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3741)
+[08-14 02:02:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3741)
+[08-14 02:02:21]already close the map:garner2
+[08-14 02:02:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3746)
+[08-14 02:02:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3746)
+[08-14 02:02:26]already close the map:garner2
+[08-14 02:02:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3751)
+[08-14 02:02:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3751)
+[08-14 02:02:31]already close the map:garner2
+[08-14 02:02:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3756)
+[08-14 02:02:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3756)
+[08-14 02:02:36]already close the map:garner2
+[08-14 02:02:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3761)
+[08-14 02:02:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3761)
+[08-14 02:02:41]already close the map:garner2
+[08-14 02:02:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3766)
+[08-14 02:02:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3766)
+[08-14 02:02:46]already close the map:garner2
+[08-14 02:02:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3771)
+[08-14 02:02:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3771)
+[08-14 02:02:51]already close the map:garner2
+[08-14 02:02:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3776)
+[08-14 02:02:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:02:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3776)
+[08-14 02:02:56]already close the map:garner2
+[08-14 02:03:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3781)
+[08-14 02:03:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3781)
+[08-14 02:03:01]already close the map:garner2
+[08-14 02:03:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3786)
+[08-14 02:03:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3786)
+[08-14 02:03:06]already close the map:garner2
+[08-14 02:03:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3791)
+[08-14 02:03:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3791)
+[08-14 02:03:11]already close the map:garner2
+[08-14 02:03:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3796)
+[08-14 02:03:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3796)
+[08-14 02:03:16]already close the map:garner2
+[08-14 02:03:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3801)
+[08-14 02:03:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3801)
+[08-14 02:03:21]already close the map:garner2
+[08-14 02:03:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3806)
+[08-14 02:03:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3806)
+[08-14 02:03:26]already close the map:garner2
+[08-14 02:03:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3811)
+[08-14 02:03:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3811)
+[08-14 02:03:31]already close the map:garner2
+[08-14 02:03:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3816)
+[08-14 02:03:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3816)
+[08-14 02:03:36]already close the map:garner2
+[08-14 02:03:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3821)
+[08-14 02:03:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3821)
+[08-14 02:03:41]already close the map:garner2
+[08-14 02:03:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3826)
+[08-14 02:03:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3826)
+[08-14 02:03:46]already close the map:garner2
+[08-14 02:03:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3831)
+[08-14 02:03:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3831)
+[08-14 02:03:51]already close the map:garner2
+[08-14 02:03:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3836)
+[08-14 02:03:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:03:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3836)
+[08-14 02:03:56]already close the map:garner2
+[08-14 02:04:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3841)
+[08-14 02:04:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3841)
+[08-14 02:04:01]already close the map:garner2
+[08-14 02:04:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3846)
+[08-14 02:04:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3846)
+[08-14 02:04:06]already close the map:garner2
+[08-14 02:04:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3851)
+[08-14 02:04:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3851)
+[08-14 02:04:11]already close the map:garner2
+[08-14 02:04:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3856)
+[08-14 02:04:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3856)
+[08-14 02:04:16]already close the map:garner2
+[08-14 02:04:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3861)
+[08-14 02:04:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3861)
+[08-14 02:04:21]already close the map:garner2
+[08-14 02:04:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3866)
+[08-14 02:04:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3866)
+[08-14 02:04:26]already close the map:garner2
+[08-14 02:04:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3871)
+[08-14 02:04:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3871)
+[08-14 02:04:31]already close the map:garner2
+[08-14 02:04:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3876)
+[08-14 02:04:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3876)
+[08-14 02:04:36]already close the map:garner2
+[08-14 02:04:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3881)
+[08-14 02:04:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3881)
+[08-14 02:04:41]already close the map:garner2
+[08-14 02:04:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3886)
+[08-14 02:04:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3886)
+[08-14 02:04:46]already close the map:garner2
+[08-14 02:04:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3891)
+[08-14 02:04:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3891)
+[08-14 02:04:51]already close the map:garner2
+[08-14 02:04:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3896)
+[08-14 02:04:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:04:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3896)
+[08-14 02:04:56]already close the map:garner2
+[08-14 02:05:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3901)
+[08-14 02:05:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3901)
+[08-14 02:05:01]already close the map:garner2
+[08-14 02:05:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3906)
+[08-14 02:05:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3906)
+[08-14 02:05:06]already close the map:garner2
+[08-14 02:05:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3911)
+[08-14 02:05:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3911)
+[08-14 02:05:11]already close the map:garner2
+[08-14 02:05:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3916)
+[08-14 02:05:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3916)
+[08-14 02:05:16]already close the map:garner2
+[08-14 02:05:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3921)
+[08-14 02:05:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3921)
+[08-14 02:05:21]already close the map:garner2
+[08-14 02:05:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3926)
+[08-14 02:05:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3926)
+[08-14 02:05:26]already close the map:garner2
+[08-14 02:05:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3931)
+[08-14 02:05:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3931)
+[08-14 02:05:31]already close the map:garner2
+[08-14 02:05:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3936)
+[08-14 02:05:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3936)
+[08-14 02:05:36]already close the map:garner2
+[08-14 02:05:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3941)
+[08-14 02:05:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3941)
+[08-14 02:05:41]already close the map:garner2
+[08-14 02:05:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3946)
+[08-14 02:05:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3946)
+[08-14 02:05:46]already close the map:garner2
+[08-14 02:05:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3951)
+[08-14 02:05:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3951)
+[08-14 02:05:51]already close the map:garner2
+[08-14 02:05:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3956)
+[08-14 02:05:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:05:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3956)
+[08-14 02:05:56]already close the map:garner2
+[08-14 02:06:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3961)
+[08-14 02:06:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3961)
+[08-14 02:06:01]already close the map:garner2
+[08-14 02:06:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3966)
+[08-14 02:06:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3966)
+[08-14 02:06:06]already close the map:garner2
+[08-14 02:06:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3971)
+[08-14 02:06:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3971)
+[08-14 02:06:11]already close the map:garner2
+[08-14 02:06:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3976)
+[08-14 02:06:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3976)
+[08-14 02:06:16]already close the map:garner2
+[08-14 02:06:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3981)
+[08-14 02:06:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3981)
+[08-14 02:06:21]already close the map:garner2
+[08-14 02:06:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3986)
+[08-14 02:06:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3986)
+[08-14 02:06:26]already close the map:garner2
+[08-14 02:06:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3991)
+[08-14 02:06:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3991)
+[08-14 02:06:31]already close the map:garner2
+[08-14 02:06:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 3996)
+[08-14 02:06:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 3996)
+[08-14 02:06:36]already close the map:garner2
+[08-14 02:06:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4001)
+[08-14 02:06:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4001)
+[08-14 02:06:41]already close the map:garner2
+[08-14 02:06:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4006)
+[08-14 02:06:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4006)
+[08-14 02:06:46]already close the map:garner2
+[08-14 02:06:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4011)
+[08-14 02:06:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4011)
+[08-14 02:06:51]already close the map:garner2
+[08-14 02:06:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4016)
+[08-14 02:06:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:06:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4016)
+[08-14 02:06:56]already close the map:garner2
+[08-14 02:07:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4021)
+[08-14 02:07:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4021)
+[08-14 02:07:01]already close the map:garner2
+[08-14 02:07:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4026)
+[08-14 02:07:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4026)
+[08-14 02:07:06]already close the map:garner2
+[08-14 02:07:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4031)
+[08-14 02:07:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4031)
+[08-14 02:07:11]already close the map:garner2
+[08-14 02:07:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4036)
+[08-14 02:07:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4036)
+[08-14 02:07:16]already close the map:garner2
+[08-14 02:07:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4041)
+[08-14 02:07:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4041)
+[08-14 02:07:21]already close the map:garner2
+[08-14 02:07:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4046)
+[08-14 02:07:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4046)
+[08-14 02:07:26]already close the map:garner2
+[08-14 02:07:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4051)
+[08-14 02:07:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4051)
+[08-14 02:07:31]already close the map:garner2
+[08-14 02:07:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4056)
+[08-14 02:07:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4056)
+[08-14 02:07:36]already close the map:garner2
+[08-14 02:07:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4061)
+[08-14 02:07:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4061)
+[08-14 02:07:41]already close the map:garner2
+[08-14 02:07:46]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4066)
+[08-14 02:07:46]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:46]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4066)
+[08-14 02:07:46]already close the map:garner2
+[08-14 02:07:51]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4071)
+[08-14 02:07:51]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:51]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4071)
+[08-14 02:07:51]already close the map:garner2
+[08-14 02:07:56]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4076)
+[08-14 02:07:56]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:07:56]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4076)
+[08-14 02:07:56]already close the map:garner2
+[08-14 02:08:01]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4081)
+[08-14 02:08:01]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:01]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4081)
+[08-14 02:08:01]already close the map:garner2
+[08-14 02:08:06]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4086)
+[08-14 02:08:06]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:06]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4086)
+[08-14 02:08:06]already close the map:garner2
+[08-14 02:08:11]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4091)
+[08-14 02:08:11]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:11]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4091)
+[08-14 02:08:11]already close the map:garner2
+[08-14 02:08:16]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4096)
+[08-14 02:08:16]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:16]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4096)
+[08-14 02:08:16]already close the map:garner2
+[08-14 02:08:21]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4101)
+[08-14 02:08:21]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:21]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4101)
+[08-14 02:08:21]already close the map:garner2
+[08-14 02:08:26]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4106)
+[08-14 02:08:26]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:26]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4106)
+[08-14 02:08:26]already close the map:garner2
+[08-14 02:08:31]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4111)
+[08-14 02:08:31]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:31]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4111)
+[08-14 02:08:31]already close the map:garner2
+[08-14 02:08:36]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4116)
+[08-14 02:08:36]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:36]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4116)
+[08-14 02:08:36]already close the map:garner2
+[08-14 02:08:41]Run CloseEntry (garner2: m_tEntryOutTmDis = 1800 tDist = 4121)
+[08-14 02:08:41]CloseEntry enumMAPENTRY_STATE_CLOSE || enumMAPENTRY_STATE_CLOSE_SUC (garner2)
+[08-14 02:08:41]Run Close (garner2: m_tMapClsTmDis = 2700 tDist = 4121)
+[08-14 02:08:41]already close the map:garner2

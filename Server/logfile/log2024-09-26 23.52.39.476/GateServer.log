@@ -1,0 +1,582 @@
+[09-26 00:52:49]GameServer= [25.80.52.210] come,Socket num= 1
+[09-26 00:52:49]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;] total [6]
+[09-26 00:52:49]not found [abandonedcity] map!!!
+[09-26 00:52:49]not found [abandonedcity2] map!!!
+[09-26 00:52:49]not found [abandonedcity3] map!!!
+[09-26 00:52:49]not found [darkswamp] map!!!
+[09-26 00:52:49]not found [puzzleworld] map!!!
+[09-26 00:52:49]not found [puzzleworld2] map!!!
+[09-26 00:52:49]add GameServer [GameServer4] ok
+[09-26 00:52:49]add [GameServer4]  [abandonedcity] map ok
+[09-26 00:52:49]add [GameServer4]  [abandonedcity2] map ok
+[09-26 00:52:49]add [GameServer4]  [abandonedcity3] map ok
+[09-26 00:52:49]add [GameServer4]  [darkswamp] map ok
+[09-26 00:52:49]add [GameServer4]  [puzzleworld] map ok
+[09-26 00:52:49]add [GameServer4]  [puzzleworld2] map ok
+[09-26 00:52:49]not found [magicsea] map!!!
+[09-26 00:52:50]GameServer= [25.80.52.210] come,Socket num= 2
+[09-26 00:52:50]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[09-26 00:52:50]not found [magicsea] map!!!
+[09-26 00:52:50]not found [jialebi] map!!!
+[09-26 00:52:50]not found [binglang2] map!!!
+[09-26 00:52:50]not found [leiting2] map!!!
+[09-26 00:52:50]not found [shalan2] map!!!
+[09-26 00:52:50]add GameServer [GameServer2] ok
+[09-26 00:52:50]add [GameServer2]  [magicsea] map ok
+[09-26 00:52:50]add [GameServer2]  [jialebi] map ok
+[09-26 00:52:50]add [GameServer2]  [binglang2] map ok
+[09-26 00:52:50]add [GameServer2]  [leiting2] map ok
+[09-26 00:52:50]add [GameServer2]  [shalan2] map ok
+[09-26 00:52:50]GameServer= [25.80.52.210] come,Socket num= 3
+[09-26 00:52:50]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;starena13;starena14;starena15;starena23;starena24;starena25;starena33;starena34;starena35;] total [12]
+[09-26 00:52:50]not found [darkblue] map!!!
+[09-26 00:52:50]not found [garner2] map!!!
+[09-26 00:52:50]not found [winterland] map!!!
+[09-26 00:52:50]not found [starena13] map!!!
+[09-26 00:52:50]not found [starena14] map!!!
+[09-26 00:52:50]not found [starena15] map!!!
+[09-26 00:52:50]not found [starena23] map!!!
+[09-26 00:52:50]not found [starena24] map!!!
+[09-26 00:52:50]not found [starena25] map!!!
+[09-26 00:52:50]not found [starena33] map!!!
+[09-26 00:52:50]not found [starena34] map!!!
+[09-26 00:52:50]not found [starena35] map!!!
+[09-26 00:52:50]add GameServer [GameServer3] ok
+[09-26 00:52:50]add [GameServer3]  [darkblue] map ok
+[09-26 00:52:50]add [GameServer3]  [garner2] map ok
+[09-26 00:52:50]add [GameServer3]  [winterland] map ok
+[09-26 00:52:50]add [GameServer3]  [starena13] map ok
+[09-26 00:52:50]add [GameServer3]  [starena14] map ok
+[09-26 00:52:50]add [GameServer3]  [starena15] map ok
+[09-26 00:52:50]add [GameServer3]  [starena23] map ok
+[09-26 00:52:50]add [GameServer3]  [starena24] map ok
+[09-26 00:52:50]add [GameServer3]  [starena25] map ok
+[09-26 00:52:50]add [GameServer3]  [starena33] map ok
+[09-26 00:52:50]add [GameServer3]  [starena34] map ok
+[09-26 00:52:50]add [GameServer3]  [starena35] map ok
+[09-26 00:52:52]GameServer= [25.80.52.210] come,Socket num= 4
+[09-26 00:52:52]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-26 00:52:52]not found [garner] map!!!
+[09-26 00:52:52]not found [DreamIsland] map!!!
+[09-26 00:52:52]not found [eastgoaf] map!!!
+[09-26 00:52:52]not found [lonetower] map!!!
+[09-26 00:52:52]not found [teampk] map!!!
+[09-26 00:52:52]add GameServer [GameServer1] ok
+[09-26 00:52:52]add [GameServer1]  [garner] map ok
+[09-26 00:52:52]add [GameServer1]  [DreamIsland] map ok
+[09-26 00:52:52]add [GameServer1]  [eastgoaf] map ok
+[09-26 00:52:52]add [GameServer1]  [lonetower] map ok
+[09-26 00:52:52]add [GameServer1]  [teampk] map ok
+[09-26 00:57:40]client: 25.80.52.210	come...Socket num: 1
+[09-26 00:57:42]client: 25.80.52.210	login ok.
+[09-26 00:57:48]client: 25.80.52.210:39411	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE9BC0
+[09-26 00:57:48]clinet: 25.80.52.210:39411	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1F994BAA048,Gate address:11BA5BE9BC0
+[09-26 01:33:10]clinet: 25.80.52.210:39411	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE9BC0
+[09-26 01:33:11]clinet: 25.80.52.210:39411	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1969BE86048,Gate address:11BA5BE9BC0
+[09-26 01:33:41]clinet: 25.80.52.210:39411	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1969BE86048,Gate address:11BA5BE9BC0
+[09-26 01:34:25]clinet: 25.80.52.210:39411	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1969BE86048,Gate address:11BA5BE9BC0
+[09-26 01:39:38]client: 25.80.52.210 gone...Socket num: 0 ,reason=远程主机强迫关闭了一个现有的连接。
+[09-26 01:39:38]client: 25.80.52.210:39411	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:11BA5BE9BC0,Game address:1969BE86048
+[09-26 01:39:53]client: 25.80.52.210	come...Socket num: 1
+[09-26 01:39:54]client: 25.80.52.210	login ok.
+[09-26 01:39:58]client: 25.80.52.210:53036	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8660
+[09-26 01:39:58]clinet: 25.80.52.210:53036	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1969BE86048,Gate address:11BA5BE8660
+[09-26 01:52:09]clinet: 25.80.52.210:53036	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8660
+[09-26 01:52:09]clinet: 25.80.52.210:53036	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1F994BAA048,Gate address:11BA5BE8660
+[09-26 01:53:01]clinet: 25.80.52.210:53036	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1F994BAA048,Gate address:11BA5BE8660
+[09-26 01:53:55]clinet: 25.80.52.210:53036	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8660
+[09-26 01:53:55]clinet: 25.80.52.210:53036	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:24994947048,Gate address:11BA5BE8660
+[09-26 01:54:19]clinet: 25.80.52.210:53036	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:24994947048,Gate address:11BA5BE8660
+[09-26 01:54:58]client: 25.80.52.210:53036	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:16,Gate address:11BA5BE8660,Game address:24994947048
+[09-26 01:55:00]GameServer= [25.80.52.210] gone,Socket num= 4,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 01:55:00] delete [GameServer4]
+[09-26 01:55:00]delete map [abandonedcity]
+[09-26 01:55:00]delete map [abandonedcity2]
+[09-26 01:55:00]delete map [abandonedcity3]
+[09-26 01:55:00]delete map [darkswamp]
+[09-26 01:55:00]delete map [puzzleworld]
+[09-26 01:55:00]delete map [puzzleworld2]
+[09-26 01:55:00]becaulse GameServer trouble, notice 0 user offline
+[09-26 01:55:00]GameServer= [25.80.52.210] gone,Socket num= 3,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 01:55:00] delete [GameServer3]
+[09-26 01:55:00]delete map [darkblue]
+[09-26 01:55:00]delete map [garner2]
+[09-26 01:55:00]delete map [winterland]
+[09-26 01:55:00]delete map [starena13]
+[09-26 01:55:00]delete map [starena14]
+[09-26 01:55:00]delete map [starena15]
+[09-26 01:55:00]delete map [starena23]
+[09-26 01:55:00]delete map [starena24]
+[09-26 01:55:00]delete map [starena25]
+[09-26 01:55:00]delete map [starena33]
+[09-26 01:55:00]delete map [starena34]
+[09-26 01:55:00]delete map [starena35]
+[09-26 01:55:00]becaulse GameServer trouble, notice 0 user offline
+[09-26 01:55:01]GameServer= [25.80.52.210] gone,Socket num= 2,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 01:55:01] delete [GameServer2]
+[09-26 01:55:01]delete map [magicsea]
+[09-26 01:55:01]delete map [jialebi]
+[09-26 01:55:01]delete map [binglang2]
+[09-26 01:55:01]delete map [leiting2]
+[09-26 01:55:01]delete map [shalan2]
+[09-26 01:55:01]becaulse GameServer trouble, notice 0 user offline
+[09-26 01:55:01]GameServer= [25.80.52.210] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 01:55:01] delete [GameServer1]
+[09-26 01:55:01]delete map [garner]
+[09-26 01:55:01]delete map [DreamIsland]
+[09-26 01:55:01]delete map [eastgoaf]
+[09-26 01:55:01]delete map [lonetower]
+[09-26 01:55:01]delete map [teampk]
+[09-26 01:55:01]becaulse GameServer trouble, notice 0 user offline
+[09-26 01:55:11]GameServer= [25.80.52.210] come,Socket num= 1
+[09-26 01:55:11]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;] total [6]
+[09-26 01:55:11]not found [abandonedcity] map!!!
+[09-26 01:55:11]not found [abandonedcity2] map!!!
+[09-26 01:55:11]not found [abandonedcity3] map!!!
+[09-26 01:55:11]not found [darkswamp] map!!!
+[09-26 01:55:11]not found [puzzleworld] map!!!
+[09-26 01:55:11]not found [puzzleworld2] map!!!
+[09-26 01:55:11]add GameServer [GameServer4] ok
+[09-26 01:55:11]add [GameServer4]  [abandonedcity] map ok
+[09-26 01:55:11]add [GameServer4]  [abandonedcity2] map ok
+[09-26 01:55:11]add [GameServer4]  [abandonedcity3] map ok
+[09-26 01:55:11]add [GameServer4]  [darkswamp] map ok
+[09-26 01:55:11]add [GameServer4]  [puzzleworld] map ok
+[09-26 01:55:11]add [GameServer4]  [puzzleworld2] map ok
+[09-26 01:55:11]GameServer= [25.80.52.210] come,Socket num= 2
+[09-26 01:55:11]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[09-26 01:55:11]not found [magicsea] map!!!
+[09-26 01:55:11]not found [jialebi] map!!!
+[09-26 01:55:11]not found [binglang2] map!!!
+[09-26 01:55:11]not found [leiting2] map!!!
+[09-26 01:55:11]not found [shalan2] map!!!
+[09-26 01:55:11]add GameServer [GameServer2] ok
+[09-26 01:55:11]add [GameServer2]  [magicsea] map ok
+[09-26 01:55:11]add [GameServer2]  [jialebi] map ok
+[09-26 01:55:11]add [GameServer2]  [binglang2] map ok
+[09-26 01:55:11]add [GameServer2]  [leiting2] map ok
+[09-26 01:55:11]add [GameServer2]  [shalan2] map ok
+[09-26 01:55:11]not found [darkblue] map!!!
+[09-26 01:55:12]GameServer= [25.80.52.210] come,Socket num= 3
+[09-26 01:55:12]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;starena13;starena14;starena15;starena23;starena24;starena25;starena33;starena34;starena35;] total [12]
+[09-26 01:55:12]not found [darkblue] map!!!
+[09-26 01:55:12]not found [garner2] map!!!
+[09-26 01:55:12]not found [winterland] map!!!
+[09-26 01:55:12]not found [starena13] map!!!
+[09-26 01:55:12]not found [starena14] map!!!
+[09-26 01:55:12]not found [starena15] map!!!
+[09-26 01:55:12]not found [starena23] map!!!
+[09-26 01:55:12]not found [starena24] map!!!
+[09-26 01:55:12]not found [starena25] map!!!
+[09-26 01:55:12]not found [starena33] map!!!
+[09-26 01:55:12]not found [starena34] map!!!
+[09-26 01:55:12]not found [starena35] map!!!
+[09-26 01:55:12]add GameServer [GameServer3] ok
+[09-26 01:55:12]add [GameServer3]  [darkblue] map ok
+[09-26 01:55:12]add [GameServer3]  [garner2] map ok
+[09-26 01:55:12]add [GameServer3]  [winterland] map ok
+[09-26 01:55:12]add [GameServer3]  [starena13] map ok
+[09-26 01:55:12]add [GameServer3]  [starena14] map ok
+[09-26 01:55:12]add [GameServer3]  [starena15] map ok
+[09-26 01:55:12]add [GameServer3]  [starena23] map ok
+[09-26 01:55:12]add [GameServer3]  [starena24] map ok
+[09-26 01:55:12]add [GameServer3]  [starena25] map ok
+[09-26 01:55:12]add [GameServer3]  [starena33] map ok
+[09-26 01:55:12]add [GameServer3]  [starena34] map ok
+[09-26 01:55:12]add [GameServer3]  [starena35] map ok
+[09-26 01:55:13]client: 25.80.52.210:53036	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8660
+[09-26 01:55:13]clinet: 25.80.52.210:53036	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:14D2297B048,Gate address:11BA5BE8660
+[09-26 01:55:15]GameServer= [25.80.52.210] come,Socket num= 4
+[09-26 01:55:15]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-26 01:55:15]not found [garner] map!!!
+[09-26 01:55:15]not found [DreamIsland] map!!!
+[09-26 01:55:15]not found [eastgoaf] map!!!
+[09-26 01:55:15]not found [lonetower] map!!!
+[09-26 01:55:15]not found [teampk] map!!!
+[09-26 01:55:15]add GameServer [GameServer1] ok
+[09-26 01:55:15]add [GameServer1]  [garner] map ok
+[09-26 01:55:15]add [GameServer1]  [DreamIsland] map ok
+[09-26 01:55:15]add [GameServer1]  [eastgoaf] map ok
+[09-26 01:55:15]add [GameServer1]  [lonetower] map ok
+[09-26 01:55:15]add [GameServer1]  [teampk] map ok
+[09-26 01:55:51]clinet: 25.80.52.210:53036	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8660
+[09-26 01:55:51]clinet: 25.80.52.210:53036	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2072A969048,Gate address:11BA5BE8660
+[09-26 01:56:01]clinet: 25.80.52.210:53036	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8660
+[09-26 01:56:01]clinet: 25.80.52.210:53036	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:18785F1B048,Gate address:11BA5BE8660
+[09-26 02:02:09]client: 25.80.52.210:53036	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:16,Gate address:11BA5BE8660,Game address:18785F1B048
+[09-26 02:02:09]client: 25.80.52.210 gone...Socket num: 0 ,reason=网络被对方正常关闭。
+[09-26 02:16:33]GameServer= [25.80.52.210] gone,Socket num= 4,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:16:33] delete [GameServer4]
+[09-26 02:16:33]delete map [abandonedcity]
+[09-26 02:16:33]delete map [abandonedcity2]
+[09-26 02:16:33]delete map [abandonedcity3]
+[09-26 02:16:33]delete map [darkswamp]
+[09-26 02:16:33]delete map [puzzleworld]
+[09-26 02:16:33]delete map [puzzleworld2]
+[09-26 02:16:33]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:16:34]GameServer= [25.80.52.210] gone,Socket num= 3,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:16:34] delete [GameServer3]
+[09-26 02:16:34]delete map [darkblue]
+[09-26 02:16:34]delete map [garner2]
+[09-26 02:16:34]delete map [winterland]
+[09-26 02:16:34]delete map [starena13]
+[09-26 02:16:34]delete map [starena14]
+[09-26 02:16:34]delete map [starena15]
+[09-26 02:16:34]delete map [starena23]
+[09-26 02:16:34]delete map [starena24]
+[09-26 02:16:34]delete map [starena25]
+[09-26 02:16:34]delete map [starena33]
+[09-26 02:16:34]delete map [starena34]
+[09-26 02:16:34]delete map [starena35]
+[09-26 02:16:34]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:16:34]GameServer= [25.80.52.210] gone,Socket num= 2,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:16:34] delete [GameServer2]
+[09-26 02:16:34]delete map [magicsea]
+[09-26 02:16:34]delete map [jialebi]
+[09-26 02:16:34]delete map [binglang2]
+[09-26 02:16:34]delete map [leiting2]
+[09-26 02:16:34]delete map [shalan2]
+[09-26 02:16:34]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:16:34]GameServer= [25.80.52.210] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:16:34] delete [GameServer1]
+[09-26 02:16:34]delete map [garner]
+[09-26 02:16:34]delete map [DreamIsland]
+[09-26 02:16:34]delete map [eastgoaf]
+[09-26 02:16:34]delete map [lonetower]
+[09-26 02:16:34]delete map [teampk]
+[09-26 02:16:34]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:18:26]GameServer= [25.80.52.210] come,Socket num= 1
+[09-26 02:18:26]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-26 02:18:26]not found [garner] map!!!
+[09-26 02:18:26]not found [DreamIsland] map!!!
+[09-26 02:18:26]not found [eastgoaf] map!!!
+[09-26 02:18:26]not found [lonetower] map!!!
+[09-26 02:18:26]not found [teampk] map!!!
+[09-26 02:18:26]add GameServer [GameServer1] ok
+[09-26 02:18:26]add [GameServer1]  [garner] map ok
+[09-26 02:18:26]add [GameServer1]  [DreamIsland] map ok
+[09-26 02:18:26]add [GameServer1]  [eastgoaf] map ok
+[09-26 02:18:26]add [GameServer1]  [lonetower] map ok
+[09-26 02:18:26]add [GameServer1]  [teampk] map ok
+[09-26 02:18:32]GameServer= [25.80.52.210] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:18:32] delete [GameServer1]
+[09-26 02:18:32]delete map [garner]
+[09-26 02:18:32]delete map [DreamIsland]
+[09-26 02:18:32]delete map [eastgoaf]
+[09-26 02:18:32]delete map [lonetower]
+[09-26 02:18:32]delete map [teampk]
+[09-26 02:18:32]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:18:36]client: 25.80.52.210	come...Socket num: 1
+[09-26 02:18:38]client: 25.80.52.210	login ok.
+[09-26 02:18:38]GameServer= [25.80.52.210] come,Socket num= 1
+[09-26 02:18:38]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;] total [6]
+[09-26 02:18:38]not found [abandonedcity] map!!!
+[09-26 02:18:38]not found [abandonedcity2] map!!!
+[09-26 02:18:38]not found [abandonedcity3] map!!!
+[09-26 02:18:38]not found [darkswamp] map!!!
+[09-26 02:18:38]not found [puzzleworld] map!!!
+[09-26 02:18:38]not found [puzzleworld2] map!!!
+[09-26 02:18:38]add GameServer [GameServer4] ok
+[09-26 02:18:38]add [GameServer4]  [abandonedcity] map ok
+[09-26 02:18:38]add [GameServer4]  [abandonedcity2] map ok
+[09-26 02:18:38]add [GameServer4]  [abandonedcity3] map ok
+[09-26 02:18:38]add [GameServer4]  [darkswamp] map ok
+[09-26 02:18:38]add [GameServer4]  [puzzleworld] map ok
+[09-26 02:18:38]add [GameServer4]  [puzzleworld2] map ok
+[09-26 02:18:39]GameServer= [25.80.52.210] come,Socket num= 2
+[09-26 02:18:39]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[09-26 02:18:39]not found [magicsea] map!!!
+[09-26 02:18:39]not found [jialebi] map!!!
+[09-26 02:18:39]not found [binglang2] map!!!
+[09-26 02:18:39]not found [leiting2] map!!!
+[09-26 02:18:39]not found [shalan2] map!!!
+[09-26 02:18:39]add GameServer [GameServer2] ok
+[09-26 02:18:39]add [GameServer2]  [magicsea] map ok
+[09-26 02:18:39]add [GameServer2]  [jialebi] map ok
+[09-26 02:18:39]add [GameServer2]  [binglang2] map ok
+[09-26 02:18:39]add [GameServer2]  [leiting2] map ok
+[09-26 02:18:39]add [GameServer2]  [shalan2] map ok
+[09-26 02:18:39]GameServer= [25.80.52.210] come,Socket num= 3
+[09-26 02:18:39]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;starena13;starena14;starena15;starena23;starena24;starena25;starena33;starena34;starena35;] total [12]
+[09-26 02:18:39]not found [darkblue] map!!!
+[09-26 02:18:39]not found [garner2] map!!!
+[09-26 02:18:39]not found [winterland] map!!!
+[09-26 02:18:39]not found [starena13] map!!!
+[09-26 02:18:39]not found [starena14] map!!!
+[09-26 02:18:39]not found [starena15] map!!!
+[09-26 02:18:39]not found [starena23] map!!!
+[09-26 02:18:39]not found [starena24] map!!!
+[09-26 02:18:39]not found [starena25] map!!!
+[09-26 02:18:39]not found [starena33] map!!!
+[09-26 02:18:39]not found [starena34] map!!!
+[09-26 02:18:39]not found [starena35] map!!!
+[09-26 02:18:39]add GameServer [GameServer3] ok
+[09-26 02:18:39]add [GameServer3]  [darkblue] map ok
+[09-26 02:18:39]add [GameServer3]  [garner2] map ok
+[09-26 02:18:39]add [GameServer3]  [winterland] map ok
+[09-26 02:18:39]add [GameServer3]  [starena13] map ok
+[09-26 02:18:39]add [GameServer3]  [starena14] map ok
+[09-26 02:18:39]add [GameServer3]  [starena15] map ok
+[09-26 02:18:39]add [GameServer3]  [starena23] map ok
+[09-26 02:18:39]add [GameServer3]  [starena24] map ok
+[09-26 02:18:39]add [GameServer3]  [starena25] map ok
+[09-26 02:18:39]add [GameServer3]  [starena33] map ok
+[09-26 02:18:39]add [GameServer3]  [starena34] map ok
+[09-26 02:18:39]add [GameServer3]  [starena35] map ok
+[09-26 02:18:41]not found [garner] map!!!
+[09-26 02:18:42]not found [garner] map!!!
+[09-26 02:18:42]GameServer= [25.80.52.210] come,Socket num= 4
+[09-26 02:18:42]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-26 02:18:42]not found [garner] map!!!
+[09-26 02:18:42]not found [DreamIsland] map!!!
+[09-26 02:18:42]not found [eastgoaf] map!!!
+[09-26 02:18:42]not found [lonetower] map!!!
+[09-26 02:18:42]not found [teampk] map!!!
+[09-26 02:18:42]add GameServer [GameServer1] ok
+[09-26 02:18:42]add [GameServer1]  [garner] map ok
+[09-26 02:18:42]add [GameServer1]  [DreamIsland] map ok
+[09-26 02:18:42]add [GameServer1]  [eastgoaf] map ok
+[09-26 02:18:42]add [GameServer1]  [lonetower] map ok
+[09-26 02:18:42]add [GameServer1]  [teampk] map ok
+[09-26 02:18:44]client: 25.80.52.210:16534	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:13,Gate address:11BA5BE8790
+[09-26 02:18:44]clinet: 25.80.52.210:16534	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:21D0F5D7048,Gate address:11BA5BE8790
+[09-26 02:18:54]client: 25.80.52.210:16534	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:13,Gate address:11BA5BE8790,Game address:21D0F5D7048
+[09-26 02:18:55]client: 25.80.52.210:16534	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8790
+[09-26 02:18:55]clinet: 25.80.52.210:16534	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2174EDA1048,Gate address:11BA5BE8790
+[09-26 02:22:30]client: 25.80.52.210:16534	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:16,Gate address:11BA5BE8790,Game address:2174EDA1048
+[09-26 02:22:32]GameServer= [25.80.52.210] gone,Socket num= 4,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:22:32] delete [GameServer4]
+[09-26 02:22:32]delete map [abandonedcity]
+[09-26 02:22:32]delete map [abandonedcity2]
+[09-26 02:22:32]delete map [abandonedcity3]
+[09-26 02:22:32]delete map [darkswamp]
+[09-26 02:22:32]delete map [puzzleworld]
+[09-26 02:22:32]delete map [puzzleworld2]
+[09-26 02:22:32]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:22:32]GameServer= [25.80.52.210] gone,Socket num= 3,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:22:32] delete [GameServer3]
+[09-26 02:22:32]delete map [darkblue]
+[09-26 02:22:32]delete map [garner2]
+[09-26 02:22:32]delete map [winterland]
+[09-26 02:22:32]delete map [starena13]
+[09-26 02:22:32]delete map [starena14]
+[09-26 02:22:32]delete map [starena15]
+[09-26 02:22:32]delete map [starena23]
+[09-26 02:22:32]delete map [starena24]
+[09-26 02:22:32]delete map [starena25]
+[09-26 02:22:32]delete map [starena33]
+[09-26 02:22:32]delete map [starena34]
+[09-26 02:22:32]delete map [starena35]
+[09-26 02:22:32]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:22:32]GameServer= [25.80.52.210] gone,Socket num= 2,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:22:32] delete [GameServer2]
+[09-26 02:22:32]delete map [magicsea]
+[09-26 02:22:32]delete map [jialebi]
+[09-26 02:22:32]delete map [binglang2]
+[09-26 02:22:32]delete map [leiting2]
+[09-26 02:22:32]delete map [shalan2]
+[09-26 02:22:32]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:22:33]GameServer= [25.80.52.210] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:22:33] delete [GameServer1]
+[09-26 02:22:33]delete map [garner]
+[09-26 02:22:33]delete map [DreamIsland]
+[09-26 02:22:33]delete map [eastgoaf]
+[09-26 02:22:33]delete map [lonetower]
+[09-26 02:22:33]delete map [teampk]
+[09-26 02:22:33]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:22:48]GameServer= [25.80.52.210] come,Socket num= 1
+[09-26 02:22:48]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;] total [6]
+[09-26 02:22:48]not found [abandonedcity] map!!!
+[09-26 02:22:48]not found [abandonedcity2] map!!!
+[09-26 02:22:48]not found [abandonedcity3] map!!!
+[09-26 02:22:48]not found [darkswamp] map!!!
+[09-26 02:22:48]not found [puzzleworld] map!!!
+[09-26 02:22:48]not found [puzzleworld2] map!!!
+[09-26 02:22:48]add GameServer [GameServer4] ok
+[09-26 02:22:48]add [GameServer4]  [abandonedcity] map ok
+[09-26 02:22:48]add [GameServer4]  [abandonedcity2] map ok
+[09-26 02:22:48]add [GameServer4]  [abandonedcity3] map ok
+[09-26 02:22:48]add [GameServer4]  [darkswamp] map ok
+[09-26 02:22:48]add [GameServer4]  [puzzleworld] map ok
+[09-26 02:22:48]add [GameServer4]  [puzzleworld2] map ok
+[09-26 02:22:49]GameServer= [25.80.52.210] come,Socket num= 2
+[09-26 02:22:49]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;starena13;starena14;starena15;starena23;starena24;starena25;starena33;starena34;starena35;] total [12]
+[09-26 02:22:49]not found [darkblue] map!!!
+[09-26 02:22:49]not found [garner2] map!!!
+[09-26 02:22:49]not found [winterland] map!!!
+[09-26 02:22:49]not found [starena13] map!!!
+[09-26 02:22:49]not found [starena14] map!!!
+[09-26 02:22:49]not found [starena15] map!!!
+[09-26 02:22:49]not found [starena23] map!!!
+[09-26 02:22:49]not found [starena24] map!!!
+[09-26 02:22:49]not found [starena25] map!!!
+[09-26 02:22:49]not found [starena33] map!!!
+[09-26 02:22:49]not found [starena34] map!!!
+[09-26 02:22:49]not found [starena35] map!!!
+[09-26 02:22:49]add GameServer [GameServer3] ok
+[09-26 02:22:49]add [GameServer3]  [darkblue] map ok
+[09-26 02:22:49]add [GameServer3]  [garner2] map ok
+[09-26 02:22:49]add [GameServer3]  [winterland] map ok
+[09-26 02:22:49]add [GameServer3]  [starena13] map ok
+[09-26 02:22:49]add [GameServer3]  [starena14] map ok
+[09-26 02:22:49]add [GameServer3]  [starena15] map ok
+[09-26 02:22:49]add [GameServer3]  [starena23] map ok
+[09-26 02:22:49]add [GameServer3]  [starena24] map ok
+[09-26 02:22:49]add [GameServer3]  [starena25] map ok
+[09-26 02:22:49]add [GameServer3]  [starena33] map ok
+[09-26 02:22:49]add [GameServer3]  [starena34] map ok
+[09-26 02:22:49]add [GameServer3]  [starena35] map ok
+[09-26 02:22:49]GameServer= [25.80.52.210] come,Socket num= 3
+[09-26 02:22:49]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[09-26 02:22:49]not found [magicsea] map!!!
+[09-26 02:22:49]not found [jialebi] map!!!
+[09-26 02:22:49]not found [binglang2] map!!!
+[09-26 02:22:49]not found [leiting2] map!!!
+[09-26 02:22:49]not found [shalan2] map!!!
+[09-26 02:22:49]add GameServer [GameServer2] ok
+[09-26 02:22:49]add [GameServer2]  [magicsea] map ok
+[09-26 02:22:49]add [GameServer2]  [jialebi] map ok
+[09-26 02:22:49]add [GameServer2]  [binglang2] map ok
+[09-26 02:22:49]add [GameServer2]  [leiting2] map ok
+[09-26 02:22:49]add [GameServer2]  [shalan2] map ok
+[09-26 02:22:52]GameServer= [25.80.52.210] come,Socket num= 4
+[09-26 02:22:52]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-26 02:22:52]not found [garner] map!!!
+[09-26 02:22:52]not found [DreamIsland] map!!!
+[09-26 02:22:52]not found [eastgoaf] map!!!
+[09-26 02:22:52]not found [lonetower] map!!!
+[09-26 02:22:52]not found [teampk] map!!!
+[09-26 02:22:52]add GameServer [GameServer1] ok
+[09-26 02:22:52]add [GameServer1]  [garner] map ok
+[09-26 02:22:52]add [GameServer1]  [DreamIsland] map ok
+[09-26 02:22:52]add [GameServer1]  [eastgoaf] map ok
+[09-26 02:22:52]add [GameServer1]  [lonetower] map ok
+[09-26 02:22:52]add [GameServer1]  [teampk] map ok
+[09-26 02:22:59]client: 25.80.52.210:16534	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8790
+[09-26 02:22:59]clinet: 25.80.52.210:16534	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:2BB00009048,Gate address:11BA5BE8790
+[09-26 02:32:35]client: 25.7.180.169	come...Socket num: 2
+[09-26 02:32:37]client: 25.7.180.169	login ok.
+[09-26 02:32:43]client: 25.7.180.169:57408	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:12,Gate address:11BA5BE9110
+[09-26 02:32:43]clinet: 25.7.180.169:57408	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:1FD1DF90048,Gate address:11BA5BE9110
+[09-26 02:33:14]client: 25.80.52.210:16534	GoOut map,Gate to[25.80.52.210] send GoOutMap command,dbid:16,Gate address:11BA5BE8790,Game address:2BB00009048
+[09-26 02:33:16]GameServer= [25.80.52.210] gone,Socket num= 4,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:33:16] delete [GameServer4]
+[09-26 02:33:16]delete map [abandonedcity]
+[09-26 02:33:16]delete map [abandonedcity2]
+[09-26 02:33:16]delete map [abandonedcity3]
+[09-26 02:33:16]delete map [darkswamp]
+[09-26 02:33:16]delete map [puzzleworld]
+[09-26 02:33:16]delete map [puzzleworld2]
+[09-26 02:33:16]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:33:16]GameServer= [25.80.52.210] gone,Socket num= 3,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:33:16] delete [GameServer3]
+[09-26 02:33:16]delete map [darkblue]
+[09-26 02:33:16]delete map [garner2]
+[09-26 02:33:16]delete map [winterland]
+[09-26 02:33:16]delete map [starena13]
+[09-26 02:33:16]delete map [starena14]
+[09-26 02:33:16]delete map [starena15]
+[09-26 02:33:16]delete map [starena23]
+[09-26 02:33:16]delete map [starena24]
+[09-26 02:33:16]delete map [starena25]
+[09-26 02:33:16]delete map [starena33]
+[09-26 02:33:16]delete map [starena34]
+[09-26 02:33:16]delete map [starena35]
+[09-26 02:33:16]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:33:16]GameServer= [25.80.52.210] gone,Socket num= 2,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:33:16] delete [GameServer2]
+[09-26 02:33:16]delete map [magicsea]
+[09-26 02:33:16]delete map [jialebi]
+[09-26 02:33:16]delete map [binglang2]
+[09-26 02:33:16]delete map [leiting2]
+[09-26 02:33:16]delete map [shalan2]
+[09-26 02:33:16]becaulse GameServer trouble, notice 0 user offline
+[09-26 02:33:17]GameServer= [25.80.52.210] gone,Socket num= 1,reason= 远程主机强迫关闭了一个现有的连接。
+[09-26 02:33:17] delete [GameServer1]
+[09-26 02:33:17]delete map [garner]
+[09-26 02:33:17]delete map [DreamIsland]
+[09-26 02:33:17]delete map [eastgoaf]
+[09-26 02:33:17]delete map [lonetower]
+[09-26 02:33:17]delete map [teampk]
+[09-26 02:33:17]becaulse GameServer trouble, notice 1 user offline
+[09-26 02:33:17]becaulse GameServer trouble, disconnect [25.7.180.169] 
+[09-26 02:33:17]client: 25.7.180.169 gone...Socket num: 1 ,reason=GameServer malfunction, all logged on players have been kicked.
+[09-26 02:33:37]GameServer= [25.80.52.210] come,Socket num= 1
+[09-26 02:33:37]recieve GameServer [GameServer4] map string [abandonedcity;abandonedcity2;abandonedcity3;darkswamp;puzzleworld;puzzleworld2;] total [6]
+[09-26 02:33:37]not found [abandonedcity] map!!!
+[09-26 02:33:37]not found [abandonedcity2] map!!!
+[09-26 02:33:37]not found [abandonedcity3] map!!!
+[09-26 02:33:37]not found [darkswamp] map!!!
+[09-26 02:33:37]not found [puzzleworld] map!!!
+[09-26 02:33:37]not found [puzzleworld2] map!!!
+[09-26 02:33:37]add GameServer [GameServer4] ok
+[09-26 02:33:37]add [GameServer4]  [abandonedcity] map ok
+[09-26 02:33:37]add [GameServer4]  [abandonedcity2] map ok
+[09-26 02:33:37]add [GameServer4]  [abandonedcity3] map ok
+[09-26 02:33:37]add [GameServer4]  [darkswamp] map ok
+[09-26 02:33:37]add [GameServer4]  [puzzleworld] map ok
+[09-26 02:33:37]add [GameServer4]  [puzzleworld2] map ok
+[09-26 02:33:37]GameServer= [25.80.52.210] come,Socket num= 2
+[09-26 02:33:37]recieve GameServer [GameServer2] map string [magicsea;jialebi;binglang2;leiting2;shalan2;] total [5]
+[09-26 02:33:37]GameServer= [25.80.52.210] come,Socket num= 3
+[09-26 02:33:37]not found [magicsea] map!!!
+[09-26 02:33:37]not found [jialebi] map!!!
+[09-26 02:33:37]not found [binglang2] map!!!
+[09-26 02:33:37]not found [leiting2] map!!!
+[09-26 02:33:37]not found [shalan2] map!!!
+[09-26 02:33:37]add GameServer [GameServer2] ok
+[09-26 02:33:37]add [GameServer2]  [magicsea] map ok
+[09-26 02:33:37]add [GameServer2]  [jialebi] map ok
+[09-26 02:33:37]add [GameServer2]  [binglang2] map ok
+[09-26 02:33:37]add [GameServer2]  [leiting2] map ok
+[09-26 02:33:37]add [GameServer2]  [shalan2] map ok
+[09-26 02:33:37]recieve GameServer [GameServer3] map string [darkblue;garner2;winterland;starena13;starena14;starena15;starena23;starena24;starena25;starena33;starena34;starena35;] total [12]
+[09-26 02:33:37]not found [darkblue] map!!!
+[09-26 02:33:37]not found [garner2] map!!!
+[09-26 02:33:37]not found [winterland] map!!!
+[09-26 02:33:37]not found [starena13] map!!!
+[09-26 02:33:37]not found [starena14] map!!!
+[09-26 02:33:37]not found [starena15] map!!!
+[09-26 02:33:37]not found [starena23] map!!!
+[09-26 02:33:37]not found [starena24] map!!!
+[09-26 02:33:37]not found [starena25] map!!!
+[09-26 02:33:37]not found [starena33] map!!!
+[09-26 02:33:37]not found [starena34] map!!!
+[09-26 02:33:37]not found [starena35] map!!!
+[09-26 02:33:37]add GameServer [GameServer3] ok
+[09-26 02:33:37]add [GameServer3]  [darkblue] map ok
+[09-26 02:33:37]add [GameServer3]  [garner2] map ok
+[09-26 02:33:37]add [GameServer3]  [winterland] map ok
+[09-26 02:33:37]add [GameServer3]  [starena13] map ok
+[09-26 02:33:37]add [GameServer3]  [starena14] map ok
+[09-26 02:33:37]add [GameServer3]  [starena15] map ok
+[09-26 02:33:37]add [GameServer3]  [starena23] map ok
+[09-26 02:33:37]add [GameServer3]  [starena24] map ok
+[09-26 02:33:37]add [GameServer3]  [starena25] map ok
+[09-26 02:33:37]add [GameServer3]  [starena33] map ok
+[09-26 02:33:37]add [GameServer3]  [starena34] map ok
+[09-26 02:33:37]add [GameServer3]  [starena35] map ok
+[09-26 02:33:42]client: 25.80.52.210:16534	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8790
+[09-26 02:33:42]GameServer= [25.80.52.210] come,Socket num= 4
+[09-26 02:33:42]recieve GameServer [GameServer1] map string [garner;DreamIsland;eastgoaf;lonetower;teampk;] total [5]
+[09-26 02:33:42]not found [garner] map!!!
+[09-26 02:33:42]not found [DreamIsland] map!!!
+[09-26 02:33:42]not found [eastgoaf] map!!!
+[09-26 02:33:42]not found [lonetower] map!!!
+[09-26 02:33:42]not found [teampk] map!!!
+[09-26 02:33:42]add GameServer [GameServer1] ok
+[09-26 02:33:42]add [GameServer1]  [garner] map ok
+[09-26 02:33:42]add [GameServer1]  [DreamIsland] map ok
+[09-26 02:33:42]add [GameServer1]  [eastgoaf] map ok
+[09-26 02:33:42]add [GameServer1]  [lonetower] map ok
+[09-26 02:33:42]add [GameServer1]  [teampk] map ok
+[09-26 02:33:42]clinet: 25.80.52.210:16534	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:278FB90C048,Gate address:11BA5BE8790
+[09-26 02:33:51]clinet: 25.80.52.210:16534	Switch to map,to Gate[25.80.52.210]send EnterMap command,dbid:16,Gate address:11BA5BE8790
+[09-26 02:33:51]clinet: 25.80.52.210:16534	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:17130B61048,Gate address:11BA5BE8790
+[09-26 02:37:36]client: 25.7.180.169	come...Socket num: 2
+[09-26 02:37:37]client: 25.7.180.169	login ok.
+[09-26 02:37:39]client: 25.7.180.169:57418	BeginPlay entry map,Gate to[25.80.52.210]send EnterMap command,dbid:12,Gate address:11BA5BE89F0
+[09-26 02:37:39]clinet: 25.7.180.169:57418	recieve Gate  from [25.80.52.210]success EnterMap command,Game address:17130B64AD0,Gate address:11BA5BE89F0
+[09-28 04:22:01]client: 25.7.180.169:57418	GoOut map,Gate to [25.80.52.210]send GoOutMap command,dbid:12,Gate address:11BA5BE89F0,Game address:17130B64AD0
+[09-28 04:22:02]client: 25.7.180.169 gone...Socket num: 1 ,reason=user has logged out.
+                                                                                                                                                                                                                                                    

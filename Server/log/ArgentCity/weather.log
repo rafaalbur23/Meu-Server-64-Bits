@@ -1,0 +1,42 @@
+[08-14 01:34:24]add weather area[9], occur time limit = 8, duration = 40, location = 1217 1400, 40 40
+[08-14 01:34:24]add weather area[11], occur time limit = 8, duration = 40, location = 1123 1480, 40 40
+[08-14 01:34:24]add weather area[9], occur time limit = 8, duration = 40, location = 595 570, 40 40
+[08-14 01:34:24]add weather area[11], occur time limit = 8, duration = 40, location = 580 700, 40 40
+[08-14 01:34:24]add weather area[9], occur time limit = 8, duration = 40, location = 1217 1400, 40 40
+[08-14 01:34:24]add weather area[11], occur time limit = 8, duration = 40, location = 1123 1480, 40 40
+[08-14 01:34:24]add weather area[9], occur time limit = 8, duration = 40, location = 595 570, 40 40
+[08-14 01:34:24]add weather area[11], occur time limit = 8, duration = 40, location = 580 700, 40 40
+[08-14 01:34:36][garner]predict[Weather: Thunderstorm has occurred at location 2442 2876], time = 18143
+[08-14 01:34:36][garner]predict[Weather: Tornado has occurred at location 2294 3010], time = 18143
+[08-14 01:36:41][garner]predict[Weather: Tornado has occurred at location 2262 2960], time = 18268
+[08-14 01:36:49][garner]predict[Weather: Thunderstorm has occurred at location 1214 1188], time = 18276
+[08-14 01:38:46][garner]predict[Weather: Tornado has occurred at location 2266 3000], time = 18393
+[08-14 01:39:02][garner]predict[Weather: Thunderstorm has occurred at location 1256 1218], time = 18409
+[08-14 01:40:50][garner]predict[Weather: Tornado has occurred at location 1208 1402], time = 18517
+[08-14 01:41:15][garner]predict[Weather: Thunderstorm has occurred at location 1256 1202], time = 18542
+[08-14 01:42:56][garner]predict[Weather: Tornado has occurred at location 2288 3038], time = 18643
+[08-14 01:43:21][garner]predict[Weather: Thunderstorm has occurred at location 2478 2866], time = 18668
+[08-14 01:45:01][garner]predict[Weather: Tornado has occurred at location 2252 2968], time = 18768
+[08-14 01:45:22][garner]predict[Weather: Thunderstorm has occurred at location 1208 1142], time = 18789
+[08-14 01:47:04][garner]predict[Weather: Tornado has occurred at location 1176 1466], time = 18891
+[08-14 01:47:26][garner]predict[Weather: Thunderstorm has occurred at location 2486 2868], time = 18913
+[08-14 01:49:11][garner]predict[Weather: Tornado has occurred at location 2314 3006], time = 19018
+[08-14 01:49:29][garner]predict[Weather: Thunderstorm has occurred at location 1200 1184], time = 19036
+[08-14 01:51:16][garner]predict[Weather: Tornado has occurred at location 2322 3032], time = 19143
+[08-14 01:51:31][garner]predict[Weather: Thunderstorm has occurred at location 2440 2838], time = 19158
+[08-14 01:53:18][garner]predict[Weather: Tornado has occurred at location 1186 1400], time = 19265
+[08-14 01:53:37][garner]predict[Weather: Thunderstorm has occurred at location 1214 1162], time = 19284
+[08-14 01:55:27][garner]predict[Weather: Tornado has occurred at location 2292 2984], time = 19394
+[08-14 01:55:50][garner]predict[Weather: Thunderstorm has occurred at location 1268 1196], time = 19417
+[08-14 01:57:32][garner]predict[Weather: Tornado has occurred at location 2306 3034], time = 19519
+[08-14 01:57:56][garner]predict[Weather: Thunderstorm has occurred at location 2460 2844], time = 19543
+[08-14 01:59:32][garner]predict[Weather: Tornado has occurred at location 1222 1438], time = 19639
+[08-14 01:59:57][garner]predict[Weather: Thunderstorm has occurred at location 1210 1210], time = 19664
+[08-14 02:01:42][garner]predict[Weather: Tornado has occurred at location 2288 2988], time = 19769
+[08-14 02:02:02][garner]predict[Weather: Thunderstorm has occurred at location 2510 2864], time = 19788
+[08-14 02:03:47][garner]predict[Weather: Tornado has occurred at location 2258 3014], time = 19894
+[08-14 02:04:04][garner]predict[Weather: Thunderstorm has occurred at location 1204 1204], time = 19911
+[08-14 02:05:52][garner]predict[Weather: Tornado has occurred at location 2276 3026], time = 20019
+[08-14 02:06:07][garner]predict[Weather: Thunderstorm has occurred at location 2444 2828], time = 20034
+[08-14 02:07:57][garner]predict[Weather: Tornado has occurred at location 2266 3012], time = 20144
+[08-14 02:08:12][garner]predict[Weather: Thunderstorm has occurred at location 1264 1160], time = 20158

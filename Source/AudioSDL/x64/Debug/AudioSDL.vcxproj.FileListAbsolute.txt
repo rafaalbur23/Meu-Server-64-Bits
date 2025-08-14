@@ -1,0 +1,1 @@
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\AudioSDL\x64\Debug\AudioSDL_x64.lib

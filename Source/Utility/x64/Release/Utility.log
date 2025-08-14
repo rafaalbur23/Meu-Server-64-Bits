@@ -1,0 +1,121 @@
+﻿  SehException.cpp
+  algo.cpp
+  bill.cpp
+  CPerformance.cpp
+  db.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(24,15): warning C4101: 'szPath': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(23,15): warning C4101: 'bMiniDumpSuccessful': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(31,35): warning C4101: 'ExpParam': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\SehException.cpp(29,17): warning C4101: 'hDumpFile': variável local não referenciada
+  db3.cpp
+  ErrorReport.cpp
+  LanguageRecord.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(762,69): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(941,69): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(1181,70): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(1427,68): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(2259,69): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(2195,17): warning C4101: 'time_2': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db.cpp(2195,9): warning C4101: 'time_1': variável local não referenciada
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LanguageRecord.cpp(61,61): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LanguageRecord.cpp(113,72): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  LicenseManager.cpp
+  log.cpp
+  log2.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(1298,65): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(1386,65): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(1423,9): warning C4244: 'return': conversão de 'SQLLEN' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(1862,14): warning C4305: 'argumento': truncamento de 'int' para 'bool'
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(1865,65): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(1979,65): warning C4312: '<function-style-cast>': conversão de 'const int' para 'SQLPOINTER' de tamanho maior
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\db3.cpp(2118,12): warning C4244: 'return': conversão de 'SQLLEN' para 'int', possível perda de dados
+  logutil.cpp
+  MapDataVer.cpp
+  MapUtil.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(50,20): warning C4305: 'specialization': truncamento de 'int' para 'bool'
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(50,20): warning C4806: '^': operação não segura: nenhum valor do tipo 'bool' promovido para tipo 'const int' pode se igualar à constante fornecida
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(822,35): warning C4804: '+=': uso não seguro de tipo 'bool' em operação
+  (compilando o arquivo fonte 'LicenseManager.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(822,35):
+  o contexto de instanciação do modelo (o mais antigo primeiro) é
+  	C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(35,19):
+  	consulte a referência à instanciação 'obf::extra_substraction<T>' do modelo da classe que está sendo compilada
+          with
+          [
+              T=bool
+          ]
+  	C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(822,12):
+  	ao compilar a função de membro 'obf::extra_substraction<T>::~extra_substraction(void)' do modelo da classe
+          with
+          [
+              T=bool
+          ]
+  		C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(35,19):
+  		veja a primeira referência a 'obf::extra_substraction<T>::~extra_substraction' em 'LicenseManager::verifyLicense::<lambda_3>::operator ()'
+          with
+          [
+              T=bool
+          ]
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(821,11): warning C4804: '-=': uso não seguro de tipo 'bool' em operação
+  (compilando o arquivo fonte 'LicenseManager.cpp')
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(821,11):
+  o contexto de instanciação do modelo (o mais antigo primeiro) é
+  	C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\instr.h(820,3):
+  	ao compilar a função de membro 'obf::extra_substraction<T>::extra_substraction(T &)' do modelo da classe
+          with
+          [
+              T=bool
+          ]
+  		C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\LicenseManager.cpp(35,19):
+  		veja a primeira referência a 'obf::extra_substraction<T>::extra_substraction' em 'LicenseManager::verifyLicense::<lambda_3>::operator ()'
+          with
+          [
+              T=bool
+          ]
+  
+  MyMemory.cpp
+  packet.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(500,34): warning C4477: 'sprintf_s': a cadeia de formato '%3u' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'size_t'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(500,34):
+  considere usar '%zu' na cadeia de formato
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(500,34): warning C4477: 'sprintf_s': a cadeia de formato '%03u' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'size_t'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(500,34):
+  considere usar '%zu' na cadeia de formato
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(500,34): warning C4477: 'sprintf_s': a cadeia de formato '%03u' requer um argumento do tipo 'unsigned int', mas um argumento variadic 3 tem o tipo 'size_t'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(500,34):
+  considere usar '%zu' na cadeia de formato
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(503,34): warning C4477: 'sprintf_s': a cadeia de formato '%3u' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'size_t'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(503,34):
+  considere usar '%zu' na cadeia de formato
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(503,34): warning C4477: 'sprintf_s': a cadeia de formato '%03u' requer um argumento do tipo 'unsigned int', mas um argumento variadic 2 tem o tipo 'size_t'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(503,34):
+  considere usar '%zu' na cadeia de formato
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(506,34): warning C4477: 'sprintf_s': a cadeia de formato '%3u' requer um argumento do tipo 'unsigned int', mas um argumento variadic 1 tem o tipo 'size_t'
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\MyMemory.cpp(506,34):
+  considere usar '%zu' na cadeia de formato
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\packet.cpp(152,23): warning C4244: '=': conversão de '__int64' para 'DWORD', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\packet.cpp(194,23): warning C4244: '=': conversão de '__int64' para 'DWORD', possível perda de dados
+  pch.cpp
+  playsound.cpp
+  PrivilegeCheck.cpp
+  SectionData.cpp
+  sym_engine.cpp
+  util2.cpp
+  Win32Guid.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(552,48): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(553,55): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\playsound.cpp(556,19): warning C4244: 'argumento': conversão de 'uint64_t' para 'int', possível perda de dados
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\util2.cpp(429,71): warning C4474: '_snprintf_s': excesso de argumentos transmitidos para cadeia de caracteres de formato
+  C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\util2.cpp(429,71):
+  espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 2 foram fornecidos
+  
+  md5c.c
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\md5c.c(351,33): warning C4267: 'função': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  Utility.vcxproj -> C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Utility\x64\Release\Utility_x64.lib

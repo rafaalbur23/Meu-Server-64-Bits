@@ -1,0 +1,10 @@
+﻿  GroupServerAppFrnd.cpp
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\LIBDBC\dstring.h(164,41): warning C4267: 'argumento': conversão de 'size_t' para 'dbc::uLong', possível perda de dados
+  (compilando o arquivo fonte 'GroupServerAppFrnd.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\Common\NetCommand.h(266,1): warning C4002: muitos argumentos para a invocação de macro de função 'MESSAGE_DEF'
+  (compilando o arquivo fonte 'GroupServerAppFrnd.cpp')
+  
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\GroupServerAppFrnd.cpp(14,31): error C2653: 'CommConstants': não é um nome de classe ou de namespace
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\GroupServerAppFrnd.cpp(14,57): error C2065: 'name_max_length': identificador não declarado
+C:\Users\Usuario\Documents\Yatops_NoBackdoors\Source\GroupServer\GroupServerAppFrnd.cpp(412,40): warning C4244: 'argumento': conversão de 'unsigned __int64' para 'LONG', possível perda de dados

@@ -1,0 +1,48 @@
+[08-14 01:34:17]Initialization NPC [System] script notice successful! 
+[08-14 01:34:17]Obtain NPC [System] script data notice, ID =1 
+[08-14 01:34:17]Initialization NPC [Seaport Commander] script notice successful! 
+[08-14 01:34:17]Talk:pageid, count, talk 1  1  Operator: Hi! Do you wish to go sailing? Maybe I can help you  
+[08-14 01:34:17]Text:pageid, count, text, func, p1, p2, p3, p4  1  2  Set sail  function:4E4211A8  table:4FE31138  1  nil  nil  
+[08-14 01:34:17]Text:pageid, count, text, func, p1, p2, p3, p4  1  3  Repair Ship  function:4E4211A8  table:4FE33168  2  nil  nil  
+[08-14 01:34:17]Text:pageid, count, text, func, p1, p2, p3, p4  1  4  Refuel  function:4E4211A8  table:4FE355C8  2  nil  nil  
+[08-14 01:34:17]Text:pageid, count, text, func, p1, p2, p3, p4  1  5  Salvage Ship  function:4E4211A8  table:4FE374E0  1  nil  nil  
+[08-14 01:34:17]Talk:pageid, count, talk 3  1  Sorry, you do not have a ship at the harbor or it was sunken. Please salvage it before setting sail again!  
+[08-14 01:34:17]Talk:pageid, count, talk 4  1  Sorry I only repair ships docked at Mystery Harbor. Please pay 1000G  
+[08-14 01:34:17]Talk:pageid, count, talk 5  1  Sorry! I only refuel ships docked at Maze Harbor. Please pay 200G as repair fee.  
+[08-14 01:34:17]Talk:pageid, count, talk 6  1  Sorry, I only salvage sunken ship docked in Maze Harbor. Please pay 1000G  
+[08-14 01:34:17]Obtain NPC [Seaport Commander] script data notice, ID =2 
+[08-14 01:34:19]Initialization NPC [Seaport Commander] script notice successful! 
+[08-14 01:34:19]Talk:pageid, count, talk 1  1  Operator: Hi! Do you wish to go sailing? Maybe I can help you  
+[08-14 01:34:19]Text:pageid, count, text, func, p1, p2, p3, p4  1  2  Set sail  function:4E4211A8  table:4FF06230  1  nil  nil  
+[08-14 01:34:19]Text:pageid, count, text, func, p1, p2, p3, p4  1  3  Repair Ship  function:4E4211A8  table:4FF08088  2  nil  nil  
+[08-14 01:34:19]Text:pageid, count, text, func, p1, p2, p3, p4  1  4  Refuel  function:4E4211A8  table:4FF0A1F8  2  nil  nil  
+[08-14 01:34:19]Text:pageid, count, text, func, p1, p2, p3, p4  1  5  Salvage Ship  function:4E4211A8  table:4FF0C3F0  1  nil  nil  
+[08-14 01:34:19]Talk:pageid, count, talk 3  1  Sorry, you do not have a ship at the harbor or it was sunken. Please salvage it before setting sail again!  
+[08-14 01:34:19]Talk:pageid, count, talk 4  1  Sorry I only repair ships docked at Mystery Harbor. Please pay 1000G  
+[08-14 01:34:19]Talk:pageid, count, talk 5  1  Sorry! I only refuel ships docked at Maze Harbor. Please pay 200G as repair fee.  
+[08-14 01:34:19]Talk:pageid, count, talk 6  1  Sorry, I only salvage sunken ship docked in Maze Harbor. Please pay 1000G  
+[08-14 01:34:19]Obtain NPC [Seaport Commander] script data notice, ID =3 
+[08-14 01:34:20]Initialization NPC [Edward] script notice successful! 
+[08-14 01:34:20]Talk:pageid, count, talk 1  1  Edward: Thousands years later, the prosperous Ascaron was buried in the history. And maybe no one remembered Goddess Kara's tear, the symbol of love for her lover!  
+[08-14 01:34:20]Obtain NPC [Edward] script data notice, ID =4 
+[08-14 01:34:21]Initialization NPC [Tomas Tutu] script notice successful! 
+[08-14 01:34:21]Talk:pageid, count, talk 1  1  Tomas Tutu: Organising tour! 3 days 2 night at Icy Devil Cave! Discount for members!  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  1  2  Answer the question  function:4E4211A8  table:5085A920  1  nil  nil  
+[08-14 01:34:21]Talk:pageid, count, talk 2  1  What's the name of this book? If you answer wrong I'll teleport you away.  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  2  2  My Battle history  function:4E4211A8  table:5087B558  1  nil  nil  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  2  3  The history of my bad luck.  function:4E4211A8  table:5087D730  1  nil  nil  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  2  4  My rebirth history  function:4E4211A8  table:5087FA30  1  nil  nil  
+[08-14 01:34:21]Talk:pageid, count, talk 3  1  I'm reading books, don't disturb me.  
+[08-14 01:34:21]Talk:pageid, count, talk 4  1  Who is the author of this book? Note: I will teleport you away if you answer incorrectly.  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  4  2  Thomas Riedel Mahero  function:4E4211A8  table:50A913D8  1  nil  nil  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  4  3  Thomas Riedel Mahero  function:4E4211A8  table:50A933C0  1  nil  nil  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  4  4  Thomas Riedel Mafuro  function:4E4211A8  table:50A95440  1  nil  nil  
+[08-14 01:34:21]Talk:pageid, count, talk 5  1  How many pages are in this book? Answer wrong and I'll teleport you out of this place.  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  5  2  5321 page  function:4E4211A8  table:50A97368  1  nil  nil  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  5  3  5231 page  function:4E4211A8  table:50A99330  1  nil  nil  
+[08-14 01:34:21]Text:pageid, count, text, func, p1, p2, p3, p4  5  4  5132 page  function:4E4211A8  table:50A9B2D8  1  nil  nil  
+[08-14 01:34:21]Talk:pageid, count, talk 6  1  Congratlations for answering them all correctly! It seems like you're a careful person and continue reading books in the future.  
+[08-14 01:34:21]Obtain NPC [Tomas Tutu] script data notice, ID =5 
+[08-14 01:34:21]Initialization NPC [Derooque] script notice successful! 
+[08-14 01:34:21]Talk:pageid, count, talk 1  1  Derooque: Hah, recently there are more and more people searching for the treasure left by the pirate king Roland, but they don't know that the bigger secret hides in the Demonic World 2. The giant leader there keeps the blood of the Morpheus clansman, they stole lots of treasure from the palace!  
+[08-14 01:34:21]Obtain NPC [Derooque] script data notice, ID =6 

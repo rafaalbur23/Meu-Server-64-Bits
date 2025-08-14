@@ -1,0 +1,15 @@
+[08-14 01:34:21]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  121219  65899  -10  4  1239  623  0  
+[08-14 01:34:21]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  165629  199648  -10  11  1631  1974  0  
+[08-14 01:34:21]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  341582  256209  -10  13  3406  2564  0  
+[08-14 01:34:21]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  366585  262979  -10  14  3681  2652  0  
+[08-14 01:34:21]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  333114  355062  -10  15  3341  3526  0  
+[08-14 01:34:21]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Snow Crystal  208  3  86500  59500  129  4106  1  180  
+[08-14 01:34:21]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Snow Crystal  208  3  90200  61000  129  4106  1  180  
+[08-14 01:34:21]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Snow Crystal  208  3  95000  55800  129  4106  1  180  
+[08-14 01:34:21]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Snow Crystal  208  3  98900  58700  129  4106  1  180  
+[08-14 01:34:21]CreateResourceEntity:name, cid, infoid, xpos, ypos, dir, itemid, count, time Sword in Stone  467  3  216800  60200  129  4109  1  180  
+[08-14 01:34:22]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  33714  96511  -10  34  329  951  0  
+[08-14 01:34:22]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  70214  72011  -10  34  697  703  0  
+[08-14 01:34:22]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  104314  62911  -10  34  1040  605  0  
+[08-14 01:34:22]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  24614  118511  -10  34  254  1203  0  
+[08-14 01:34:22]CreateBerthEntity:name, cid, infoid, xpos1, ypos1, dir1, berth, xpos2, ypos2, dir2 Docked  455  2  45214  142211  -10  34  715  1140  0  

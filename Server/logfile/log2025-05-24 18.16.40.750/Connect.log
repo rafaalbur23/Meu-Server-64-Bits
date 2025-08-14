@@ -1,0 +1,21 @@
+[05-24 18:11:08]Conencting to GroupServer...
+[05-24 18:11:10]Connecting to GroupServer failed, reconnecting in 5 secs...
+[05-24 18:11:15]begin connect database
+[05-24 18:11:15]Conencting to GroupServer...
+[05-24 18:11:15]begin init AccountServer connect
+[05-24 18:11:15]AccountServer:25.80.52.210,2321come ! Socket num:1
+[05-24 18:11:15]begin read GroupServer.cfg
+[05-24 18:11:15]begin load ChaNameFilter.txt
+[05-24 18:11:15]begin listen port:2322
+[05-24 18:11:15]open listen port:2322success, init is ok
+[05-24 18:11:16]GateServer:25.80.52.210,46025come ! Socket num:2
+[05-24 18:11:16]connect GroupServer: 25.80.52.210,Socket num:1
+[05-24 18:11:46]Login to GroupServer failed, maybe is GateServer handle amount too large, wait for 5 seconds and it'll auto connect...
+[05-24 18:14:16]Conencting to GroupServer...
+[05-24 18:14:16]GateServer:25.80.52.210,46357come ! Socket num:2
+[05-24 18:14:16]connect GroupServer: 25.80.52.210,Socket num:1
+[05-24 18:14:18]GateServer:25.80.52.210,46357TP_LOGIN1
+[05-24 18:14:18]GateServer:25.80.52.210,46357TP_LOGIN2
+[05-24 18:14:18]GateServer:25.80.52.210,46357TP_LOGIN3
+[05-24 18:14:18]Successfully logged into GroupServer!
+[05-24 18:15:09]GateServer:25.80.52.210,46357go ! Socket num:1reason=(10054)远程主机强迫关闭了一个现有的连接。

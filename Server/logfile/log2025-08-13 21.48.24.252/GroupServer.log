@@ -1,0 +1,31 @@
+[08-13 21:11:25](25.80.52.210):[local]login success, 	 nline/total:1/0
+[08-13 21:11:35](25.80.52.210):[local]select char[Angel]begin paly...��	 online/total:1/0
+[08-13 21:11:36](25.80.52.210):[local] char [Angel]entry map server begin play...��	 online/total:1/1
+[08-13 21:11:41](25.80.52.210):[local2]login failed, error:1001
+[08-13 21:11:43](25.80.52.210):[local]logout,	 online/total:0/0
+[08-13 21:11:44](25.80.52.210):[local1]login failed, error:1001
+[08-13 21:11:47](25.80.52.210):[eusouadm]login success, 	 nline/total:1/0
+[08-13 21:11:50](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:1/0
+[08-13 21:11:50](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:1/1
+[08-13 21:12:31](25.80.52.210):[local]login success, 	 nline/total:2/1
+[08-13 21:12:35](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:2/1
+[08-13 21:12:36](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:2/2
+[08-13 21:12:59](25.80.52.210):[local]exit char[Treasure]begin entry select char UI...��	 online/total:2/1
+[08-13 21:13:06](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:2/1
+[08-13 21:13:06](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:2/2
+[08-13 21:13:38](25.80.52.210):[eusouadm]exit char[7Seas]begin entry select char UI...��	 online/total:2/1
+[08-13 21:13:44](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:2/1
+[08-13 21:13:44](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:2/2
+[08-13 21:13:51](25.80.52.210):[local]exit char[Treasure]begin entry select char UI...��	 online/total:2/1
+[08-13 21:13:55](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:2/1
+[08-13 21:13:55](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:2/2
+[08-13 21:14:19](25.80.52.210):[local]logout,	 online/total:1/1
+[08-13 21:14:19](25.80.52.210):[eusouadm]logout,	 online/total:0/0
+[08-13 21:24:58](25.80.52.210):[local]login success, 	 nline/total:1/0
+[08-13 21:25:01](25.80.52.210):[local]select char[Treasure]begin paly...��	 online/total:1/0
+[08-13 21:25:01](25.80.52.210):[local] char [Treasure]entry map server begin play...��	 online/total:1/1
+[08-13 21:25:12](25.80.52.210):[eusouadm]login success, 	 nline/total:2/1
+[08-13 21:25:14](25.80.52.210):[eusouadm]select char[7Seas]begin paly...��	 online/total:2/1
+[08-13 21:25:14](25.80.52.210):[eusouadm] char [7Seas]entry map server begin play...��	 online/total:2/2
+[08-13 21:25:29](25.80.52.210):[local]logout,	 online/total:1/1
+[08-13 21:25:30](25.80.52.210):[eusouadm]logout,	 online/total:0/0
